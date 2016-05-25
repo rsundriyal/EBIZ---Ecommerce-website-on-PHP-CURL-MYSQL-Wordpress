@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Order Tracking\n"
+"POT-Creation-Date: 2016-05-04 10:45+0200\n"
+"PO-Revision-Date: 2015-04-22 12:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: init.php:46
+msgid ""
+"YITH WooCommerce EU VAT is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:55
+msgid ""
+"You can't activate the free version of YITH WooCommerce EU VAT while you are "
+"using the premium one."
+msgstr ""
+
+#: lib/class.yith-woocommerce-eu-vat.php:281
+msgid "EU VAT Reports"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:126
+msgid "General"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:127
+msgid "Tax"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:130
+#: lib/class.yith-ywev-plugin-fw-loader.php:192
+msgid "Premium Version"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:189
+msgid "Settings"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:217
+msgid "Plugin Documentation"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:230
+msgid ""
+"YITH WooCommerce EU VAT is available in an outstanding PREMIUM version with "
+"many new options, discover it now."
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:231
+msgid "Premium version"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:238
+#: plugin-options/general-options.php:68
+msgid "YITH WooCommerce EU VAT"
+msgstr ""
+
+#: lib/class.yith-ywev-plugin-fw-loader.php:239
+msgid ""
+"In YIT Plugins tab, you can find the YITH WooCommerce EU VAT options.<br> "
+"From this menu you can access all settings of the activated YITH plugins."
+msgstr ""
+
+#: plugin-options/general-options.php:18
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid "Forbid EU VAT checkout"
+msgstr ""
+
+#: plugin-options/general-options.php:25
+msgid "Forbid EU VAT checkout."
+msgstr ""
+
+#: plugin-options/general-options.php:32
+msgid "Show EU VAT warning"
+msgstr ""
+
+#: plugin-options/general-options.php:33
+msgid ""
+"If \"Forbid EU VAT\" checkout is selected, choose if a warning message "
+"should be shown during the checkout process."
+msgstr ""
+
+#: plugin-options/general-options.php:40
+msgid "EU VAT warning message"
+msgstr ""
+
+#: plugin-options/general-options.php:42 plugin-options/general-options.php:43
+msgid ""
+"For EU area customers.<br>Due to EU VAT law terms, some product may be not "
+"purchasable."
+msgstr ""
+
+#: plugin-options/general-options.php:48
+msgid "EU VAT error message"
+msgstr ""
+
+#: plugin-options/general-options.php:50
+msgid ""
+"This order can't be accepted due to EU VAT laws. This shop doesn't allow EU "
+"area customers to purchase."
+msgstr ""
+
+#: plugin-options/general-options.php:65
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: plugin-options/general-options.php:69
+msgid "Discover The Advanced Features"
+msgstr ""
+
+#: plugin-options/general-options.php:70
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE EU VAT to benefit from "
+"all features!"
+msgstr ""
+
+#: plugin-options/general-options.php:74
+msgid "See YITH WooCommerce EU VAT plugin with full premium features in action"
+msgstr ""
+
+#: plugin-options/general-options.php:76
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/general-options.php:77
+msgid ""
+"Purchasing the premium version of the plugin, you will take advantage of the "
+"advanced features of the product and you will get one year of free updates "
+"and support through our platform available 24h/24."
+msgstr ""
+
+#: plugin-options/tax-options.php:18
+msgid "Tax Settings"
+msgstr ""
+
+#: plugin-options/tax-options.php:24
+msgid "EU VAT taxes"
+msgstr ""
+
+#: plugin-options/tax-options.php:25
+msgid ""
+"Select the taxes that have to be registered at the checkout to respect the "
+"EU VAT law terms."
+msgstr ""
+
+#: plugin-options/tax-options.php:34
+msgid "Tax Report"
+msgstr ""
+
+#: plugin-options/tax-options.php:40
+msgid "EU VAT taxes report"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:25
+msgid "Import standard tax rates"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:37
+msgid "Country code"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:39
+msgid "State code"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:41
+msgid "ZIP/Postcode"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:43
+msgid "City"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:45
+msgid "Rate %"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:46
+msgid "Tax class"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:48
+msgid "Tax name"
+msgstr ""
+
+#: templates/admin/eu-vat-tax-list.php:98
+msgid "Standard"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:33
+msgid "Export CSV"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:44
+msgid "Year"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:45
+msgid "Last Month"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:46
+msgid "This Month"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:119
+msgid "Country"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:120
+msgid "Number of orders"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:121
+msgid "Total tax amount"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:140
+msgid "Totals"
+msgstr ""
+
+#: templates/report/class.yith-ywev-report-eu-vat-taxes.php:148
+msgid "No taxes found in this period"
+msgstr ""
+
+#: templates/report/yith-html-report-eu-vat.php:23
+msgid "Custom:"
+msgstr ""
+
+#: templates/report/yith-html-report-eu-vat.php:41
+msgid "Go"
+msgstr ""

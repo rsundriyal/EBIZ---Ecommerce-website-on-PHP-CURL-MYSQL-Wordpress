@@ -1,0 +1,663 @@
+# Copyright (C) 2015 WooCommerce auto added coupons
+# This file is distributed under the same license as the WooCommerce auto added coupons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce auto added coupons 1.1.3.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-auto-"
+"added-coupons\n"
+"POT-Creation-Date: 2016-05-14 13:02+0200\n"
+"PO-Revision-Date: 2016-05-14 13:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/wjecf-admin-auto-upgrade.php:36
+msgid ""
+"<strong>WooCommerce Extended Coupon Features:</strong> Please note, you're "
+"using an older version of this plugin, while the data was upgraded to a "
+"newer version."
+msgstr ""
+"<strong>WooCommerce Extended Coupon Features:</strong> Je gebruikt een "
+"oudere versie van deze plugin, terwijl de data is opgewaardeerd naar een "
+"nieuwere versie."
+
+#: includes/admin/wjecf-admin-auto-upgrade.php:44
+msgid ""
+"<strong>WooCommerce Extended Coupon Features:</strong> Data succesfully "
+"upgraded to the newest version."
+msgstr ""
+"<strong>WooCommerce Extended Coupon Features:</strong> Gegevens "
+"opgewaardeerd naar de nieuwste versie."
+
+#: includes/admin/wjecf-admin.php:19
+msgid ""
+"<strong>WooCommerce Extended Coupon Features:</strong> You are using a "
+"WooCommerce version prior to 2.3.0. Updating of WooCommerce is recommended "
+"as using an outdated version might cause unexpected behaviour in combination "
+"with modern plugins."
+msgstr ""
+"<strong>WooCommerce Extended Coupon Features:</strong> Je gebruikt een "
+"WooCommerce versie ouder dan 2.3.0. Updaten van WooCommerce wordt aangeraden."
+
+#: includes/admin/wjecf-admin.php:68
+msgid "Products"
+msgstr "Producten"
+
+#: includes/admin/wjecf-admin.php:74 includes/admin/wjecf-admin.php:235
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: includes/admin/wjecf-admin.php:80 includes/admin/wjecf-admin.php:345
+msgid "Miscellaneous"
+msgstr "Diversen"
+
+#: includes/admin/wjecf-admin.php:123
+msgid "Do you find WooCommerce Extended Coupon Features useful?"
+msgstr "Vindt u WooCommerce Extended Coupon Features handig?"
+
+#: includes/admin/wjecf-admin.php:125
+msgid "Express your gratitude"
+msgstr "Toon uw waardering"
+
+#: includes/admin/wjecf-admin.php:129
+msgid "Donate to the developer"
+msgstr "Doneer aan de ontwikkelaar"
+
+#: includes/admin/wjecf-admin.php:136
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/admin/wjecf-admin.php:138
+msgid "WooCommerce Extended Coupon Features Documentation"
+msgstr "WooCommerce Extended Coupon Features Documentatie"
+
+#: includes/admin/wjecf-admin.php:146
+msgid "Matching products"
+msgstr "Overeenkomende producten"
+
+#: includes/admin/wjecf-admin.php:151
+msgid "AND Products (not OR)"
+msgstr "ALLE Producten (niet OF)"
+
+#: includes/admin/wjecf-admin.php:152
+msgid ""
+"Check this box if ALL of the products (see tab 'usage restriction') must be "
+"in the cart to use this coupon (instead of only one of the products)."
+msgstr ""
+"Aanvinken als ALLE producten (zie tab 'gebruiksbeperkingen') in de "
+"winkelwagen moeten zitten om deze kortingsbon te kunnen gebruiken (in plaats "
+"van één van de producten)."
+
+#: includes/admin/wjecf-admin.php:159
+msgid "AND Categories (not OR)"
+msgstr "ALLE Categorieën (niet OF)"
+
+#: includes/admin/wjecf-admin.php:160
+msgid ""
+"Check this box if products from ALL of the categories (see tab 'usage "
+"restriction') must be in the cart to use this coupon (instead of only one "
+"from one of the categories)."
+msgstr ""
+"Aanvinken als producten van ALLE categorieën (zie tab 'gebruiksbeperkingen') "
+"in de winkelwagen moeten zitten om deze kortingsbon te kunnen gebruiken (in "
+"plaats van een product van één van de categorieën)."
+
+#: includes/admin/wjecf-admin.php:165
+msgid "(AND)"
+msgstr "(ALLE)"
+
+#: includes/admin/wjecf-admin.php:166
+msgid "(OR)"
+msgstr "(OF)"
+
+#: includes/admin/wjecf-admin.php:195
+msgid "Minimum quantity of matching products"
+msgstr "Minimum aantal overeengekomen producten"
+
+#: includes/admin/wjecf-admin.php:196 includes/admin/wjecf-admin.php:216
+msgid "No minimum"
+msgstr "Geen minimum"
+
+#: includes/admin/wjecf-admin.php:197
+msgid ""
+"Minimum quantity of the products that match the given product or category "
+"restrictions (see tab 'usage restriction'). If no product or category "
+"restrictions are specified, the total number of products is used."
+msgstr ""
+"Minimum aantal producten wat aan de product- of categorierestricties voldoet "
+"(zie tab 'gebruiksbeperkingen'). Als geen product- of categorierestrictie is "
+"opgegeven worden alle producten in de winkelwagen geteld."
+
+#: includes/admin/wjecf-admin.php:205
+msgid "Maximum quantity of matching products"
+msgstr "Maximum aantal overeengekomen producten"
+
+#: includes/admin/wjecf-admin.php:206 includes/admin/wjecf-admin.php:226
+msgid "No maximum"
+msgstr "Geen maximum"
+
+#: includes/admin/wjecf-admin.php:207
+msgid ""
+"Maximum quantity of the products that match the given product or category "
+"restrictions (see tab 'usage restriction'). If no product or category "
+"restrictions are specified, the total number of products is used."
+msgstr ""
+"Maximum aantal producten wat aan de product- of categorierestricties voldoet "
+"(zie tab 'gebruiksbeperkingen'). Als geen product- of categorierestrictie is "
+"opgegeven worden alle producten in de winkelwagen geteld."
+
+#: includes/admin/wjecf-admin.php:215
+msgid "Minimum subtotal of matching products"
+msgstr "Minimum subtotaal overeengekomen producten"
+
+#: includes/admin/wjecf-admin.php:217
+msgid ""
+"Minimum price subtotal of the products that match the given product or "
+"category restrictions (see tab 'usage restriction')."
+msgstr ""
+"Minimum subtotaal van de producten welke aan de product- of "
+"categorierestricties voldoet (zie tab 'gebruiksbeperkingen'). Als geen "
+"product- of categorierestrictie is opgegeven wordt het subtotaal van alle "
+"producten in de winkelwagen opgeteld."
+
+#: includes/admin/wjecf-admin.php:225
+msgid "Maximum subtotal of matching products"
+msgstr "Maximum subtotaal overeengekomen producten"
+
+#: includes/admin/wjecf-admin.php:227
+msgid ""
+"Maximum price subtotal of the products that match the given product or "
+"category restrictions (see tab 'usage restriction')."
+msgstr ""
+"Maximum subtotaal van de producten welke aan de product- of "
+"categorierestricties voldoet (zie tab 'gebruiksbeperkingen'). Als geen "
+"product- of categorierestrictie is opgegeven wordt het subtotaal van alle "
+"producten in de winkelwagen opgeteld."
+
+#: includes/admin/wjecf-admin.php:240
+msgid "Shipping methods"
+msgstr "Verzendmethoden"
+
+#: includes/admin/wjecf-admin.php:241
+msgid "Any shipping method"
+msgstr "Verzendmethoden"
+
+#: includes/admin/wjecf-admin.php:250
+msgid ""
+"One of these shipping methods must be selected in order for this coupon to "
+"be valid."
+msgstr ""
+"Een van deze verzendmethoden moet gekozen zijn om deze kortingsbon te kunnen "
+"gebruiken."
+
+#: includes/admin/wjecf-admin.php:256
+msgid "Payment methods"
+msgstr "Betaalmethoden"
+
+#: includes/admin/wjecf-admin.php:257
+msgid "Any payment method"
+msgstr "Betaalmethoden"
+
+#: includes/admin/wjecf-admin.php:268
+msgid ""
+"One of these payment methods must be selected in order for this coupon to be "
+"valid."
+msgstr ""
+"Een van deze betaalmethoden moet gekozen zijn om deze kortingsbon te kunnen "
+"gebruiken."
+
+#: includes/admin/wjecf-admin.php:276
+msgid "Customer restrictions"
+msgstr "Klantbeperkingen"
+
+#: includes/admin/wjecf-admin.php:277
+msgid ""
+"If both a customer and a role restriction are supplied, matching either one "
+"of them will suffice."
+msgstr ""
+"Als zowel een klant- als klantrolrestrictie is opgegeven hoeft slechts aan "
+"één van de restricties worden voldaan."
+
+#: includes/admin/wjecf-admin.php:282
+msgid "Allowed Customers"
+msgstr "Toegestane klanten"
+
+#: includes/admin/wjecf-admin.php:283
+msgid "Any customer"
+msgstr "Klanten"
+
+#: includes/admin/wjecf-admin.php:296
+msgid "Only these customers may use this coupon."
+msgstr "Alleen deze klanten kunnen deze kortingsbon gebruiken."
+
+#: includes/admin/wjecf-admin.php:303
+msgid "Allowed User Roles"
+msgstr "Toegestane klantrollen"
+
+#: includes/admin/wjecf-admin.php:304 includes/admin/wjecf-admin.php:326
+msgid "Any role"
+msgstr "Klantrollen"
+
+#: includes/admin/wjecf-admin.php:318
+msgid "Only these User Roles may use this coupon."
+msgstr "Alleen deze klantrollen kunnen deze kortingsbon gebruiken."
+
+#: includes/admin/wjecf-admin.php:325
+msgid "Disallowed User Roles"
+msgstr "Uitgesloten klantrollen"
+
+#: includes/admin/wjecf-admin.php:339
+msgid "These User Roles will be specifically excluded from using this coupon."
+msgstr "Deze klantrollen zijn uitgesloten om deze kortingsbon te gebruiken."
+
+#: includes/admin/wjecf-admin.php:350
+msgid "Allow when minimum spend not reached"
+msgstr "Toestaan wanneer minimale besteding nog niet is behaald."
+
+#: includes/admin/wjecf-admin.php:351 includes/wjecf-pro-free-products.php:481
+#: includes/wjecf-pro-free-products.php:489
+msgid "EXPERIMENTAL: "
+msgstr "EXPERIMENTEEL:"
+
+#: includes/admin/wjecf-admin.php:351
+msgid ""
+"Check this box to allow the coupon to be in the cart even when minimum spend "
+"(see tab 'usage restriction') is not reached. Value of the discount will be "
+"0 until minimum spend is reached."
+msgstr ""
+"Aanvinken als de coupon in de winkelwagen mag zitten zelfs als minimale "
+"besteding nog niet is gehaald. De coupon zal een waarde van 0 hebben tot de "
+"minimale besteding is bereikt."
+
+#: includes/admin/wjecf-admin.php:398 includes/admin/wjecf-admin.php:423
+msgid "Search for a product…"
+msgstr "Zoek een product..."
+
+#: includes/wjecf-autocoupon.php:58 includes/wjecf-autocoupon.php:130
+#: includes/wjecf-autocoupon.php:137
+msgid "Auto coupon"
+msgstr "Automatisch toepassen"
+
+#: includes/wjecf-autocoupon.php:63
+msgid "Individual use"
+msgstr "Individueel gebruik"
+
+#: includes/wjecf-autocoupon.php:83 includes/wjecf-autocoupon.php:91
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/wjecf-autocoupon.php:83 includes/wjecf-autocoupon.php:91
+msgid "No"
+msgstr "Nee"
+
+#: includes/wjecf-autocoupon.php:102
+msgid "Auto coupons"
+msgstr "Auto coupons"
+
+#: includes/wjecf-autocoupon.php:138
+msgid ""
+"Automatically add the coupon to the cart if the restrictions are met. Please "
+"enter a description when you check this box, the description will be shown "
+"in the customer's cart if the coupon is applied."
+msgstr ""
+"Voeg de kortingsbon automatisch toe aan het winkelwagentje als aan alle "
+"voorwaarden wordt voldaan. Vult u a.u.b. een omschrijving in als u deze "
+"optie aanvinkt, de omschrijving zal aan de klant worden getoond wanneer de "
+"kortingsbon wordt toegevoegd."
+
+#: includes/wjecf-autocoupon.php:146
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: includes/wjecf-autocoupon.php:147
+msgid "No priority"
+msgstr "Geen prioriteit"
+
+#: includes/wjecf-autocoupon.php:148
+msgid ""
+"When 'individual use' is checked, auto coupons with a higher value will have "
+"priority over other auto coupons."
+msgstr ""
+"Wanneer 'individueel gebruik' is aangevinkt, zullen auto coupons met een "
+"hogere prioriteit voorrang krijgen boven andere auto coupons."
+
+#: includes/wjecf-autocoupon.php:158
+msgid "Apply silently"
+msgstr "Toepassen zonder melding"
+
+#: includes/wjecf-autocoupon.php:159
+msgid "Don't display a message when this coupon is automatically applied."
+msgstr ""
+"Geen melding weergeven wanneer deze kortingsbon automatisch wordt toegepast."
+
+#: includes/wjecf-autocoupon.php:240
+#, php-format
+msgid "Coupon '%s' will be applied when it's conditions are met."
+msgstr ""
+"Coupon '%s' zal automatisch worden toegepast wanneer aan de voorwaarden "
+"wordt voldaan."
+
+#: includes/wjecf-autocoupon.php:306
+msgid "Free shipping coupon"
+msgstr "Gratis verzending kortingsbon"
+
+#: includes/wjecf-autocoupon.php:381 includes/wjecf-autocoupon.php:415
+#, php-format
+msgid "Discount applied: %s"
+msgstr "Korting toegepast: %s"
+
+#: includes/wjecf-controller.php:169
+#, php-format
+msgid "The minimum subtotal of the matching products for this coupon is %s."
+msgstr ""
+"Het minimale subtotaal van overeengekomen producten voor deze kortingsbon is "
+"%s."
+
+#: includes/wjecf-controller.php:173
+#, php-format
+msgid "The maximum subtotal of the matching products for this coupon is %s."
+msgstr ""
+"Het maximale subtotaal van overeengekomen producten voor deze kortingsbon is "
+"%s."
+
+#: includes/wjecf-controller.php:177
+#, php-format
+msgid "The minimum quantity of matching products for this coupon is %s."
+msgstr ""
+"Het minimale aantal overeengekomen producten voor deze kortingsbon is %s."
+
+#: includes/wjecf-controller.php:181
+#, php-format
+msgid "The maximum quantity of matching products for this coupon is %s."
+msgstr ""
+"Het maximale aantal overeengekomen producten voor deze kortingsbon is %s."
+
+#: includes/wjecf-controller.php:184
+msgid "The coupon is not valid for the currently selected shipping method."
+msgstr "De kortingsbon is niet geldig voor de gekozen verzendmethode."
+
+#: includes/wjecf-controller.php:187
+msgid "The coupon is not valid for the currently selected payment method."
+msgstr "De kortingsbon is niet geldig voor de gekozen betaalmethode."
+
+#: includes/wjecf-controller.php:190
+#, php-format
+msgid "Sorry, it seems the coupon \"%s\" is not yours."
+msgstr "Sorry, het lijkt erop dat kortingsbon \"%s\" niet van u is."
+
+#: includes/wjecf-pro-controller.php:59
+msgid "Discount on cart with excluded products"
+msgstr "Korting op winkelwagen met uitgesloten producten"
+
+#: includes/wjecf-pro-controller.php:65
+msgid "Allow discount on cart with excluded items"
+msgstr "Korting toestaan op winkelwagen met uitgesloten producten"
+
+#: includes/wjecf-pro-controller.php:66
+msgid ""
+"Check this box to allow a 'Cart Discount' coupon to be applied even when "
+"excluded items are in the cart (see tab 'usage restriction')."
+msgstr ""
+"Aanvinken om een 'Winkelwagen korting'-coupon ook te accepteren als er "
+"uitgesloten producten in de winkelwagen aanwezig zijn (zie tab "
+"'gebruiksbeperking')."
+
+#: includes/wjecf-pro-controller.php:77 includes/wjecf-pro-controller.php:83
+msgid "Limit discount to"
+msgstr "Beperk korting tot"
+
+#: includes/wjecf-pro-controller.php:78
+msgid ""
+"Here you can exclude certain products from being discounted (Only applies to "
+"Cart % Discount, Product Discount, Product % Discount)"
+msgstr ""
+"Hier kun je producten uitsluiten van korting (Geldt alleen voor Winkelwagen "
+"% korting, Product korting, Product % korting)"
+
+#: includes/wjecf-pro-controller.php:85
+msgid "(default)"
+msgstr "(standaard)"
+
+#: includes/wjecf-pro-controller.php:86
+msgid "One item per order line"
+msgstr "Eén item per orderregel"
+
+#: includes/wjecf-pro-controller.php:87
+msgid "Lowest priced product (single item)"
+msgstr "Laagst geprijsde product (één item)"
+
+#: includes/wjecf-pro-controller.php:88
+msgid "Lowest priced order line (all items)"
+msgstr "Laagst geprijsde orderregel (alle items)"
+
+#: includes/wjecf-pro-controller.php:90
+msgid ""
+"Please note that when the discount type is 'Product discount' (see 'General'-"
+"tab), the discount will only be applied to <em>matching</em> products."
+msgstr ""
+"Let op dat wanneer het type korting 'Product korting' (zie tab 'Algemeen') "
+"is gekozen, de korting alleen zal worden toegepast op overeengekomen "
+"producten."
+
+#: includes/wjecf-pro-evalmath.php:735
+msgid "an unexpected error occured"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:736
+msgid "cannot assign to constant '{$a}'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:737
+msgid "cannot assign to readonly '{$a}'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:738
+msgid "cannot redefine built-in function '{$a}()'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:739
+msgid "division by zero"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:740
+msgid "expecting a closing bracket"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:741
+msgid "illegal character '{$a}'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:742
+msgid "illegal character '_'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:743
+msgid "expecting operator, implicit multiplication not allowed."
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:744
+msgid "internal error"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:745
+msgid "operator '{$a}' lacks operand"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:746
+msgid "undefined variable '{$a}'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:747
+msgid "undefined variable '{$a}' in function definition"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:748
+msgid "unexpected closing bracket"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:749
+msgid "unexpected comma"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:750
+msgid "unexpected operator '{$a}'"
+msgstr ""
+
+#: includes/wjecf-pro-evalmath.php:751
+msgid ""
+"wrong number of arguments for function '{$a->function}()' ({$a->given} "
+"given, {$a->expected} expected)"
+msgstr ""
+
+#: includes/wjecf-pro-free-products.php:80
+msgid "Please select your free gift."
+msgstr "Kies een gratis artikel."
+
+#: includes/wjecf-pro-free-products.php:344
+#: includes/wjecf-pro-free-products.php:354
+msgid "Free!"
+msgstr "Gratis!"
+
+#: includes/wjecf-pro-free-products.php:419
+#: includes/wjecf-pro-free-products.php:442
+#: includes/wjecf-pro-free-products.php:448
+msgid "Free products"
+msgstr "Gratis producten"
+
+#: includes/wjecf-pro-free-products.php:453
+msgid ""
+"Free products that will be added to the cart when this coupon is applied."
+msgstr ""
+"Gratis producten welke aan de winkelwagen worden toegevoegd als de coupon is "
+"toegepast."
+
+#: includes/wjecf-pro-free-products.php:460
+msgid "Select one"
+msgstr "Kies één"
+
+#: includes/wjecf-pro-free-products.php:461
+msgid "Check this box if the customer must choose from the free products."
+msgstr "Aanvinken als de klant één van de gratis producten moet kiezen."
+
+#: includes/wjecf-pro-free-products.php:469
+msgid "'Select your gift'-message"
+msgstr "'Kies uw gratis product'-boodschap"
+
+#: includes/wjecf-pro-free-products.php:470
+msgid "Please choose your free gift:"
+msgstr "Kies uw gratis product:"
+
+#: includes/wjecf-pro-free-products.php:471
+msgid "This message is displayed when the customer must choose a free product."
+msgstr ""
+"Deze melding wordt getoond wanneer de klant een gratis product moet kiezen."
+
+#: includes/wjecf-pro-free-products.php:480
+msgid "Allow multiplication of the free products"
+msgstr "Vermenigvuldigen gratis producten toestaan"
+
+#: includes/wjecf-pro-free-products.php:481
+msgid ""
+"The amount of free products is multiplied every time the minimum spend, "
+"subtotal or quantity is reached."
+msgstr ""
+"Het aantal van de gratis producten wordt vermenigvuldigd met het totale "
+"aantal keer dat minimale besteding, subtotaal of aantal is bereikt."
+
+#: includes/wjecf-pro-free-products.php:488
+msgid "BOGO matching products"
+msgstr "1+1 gratis voor overeengekomen producten"
+
+#: includes/wjecf-pro-free-products.php:490
+msgid ""
+"Buy one or more of any of the matching products (see 'Usage Restriction'-"
+"tab) and get one free. Check 'Allow multiplication' to get one free item for "
+"every matching item in the cart."
+msgstr ""
+"Koop één of meer van de overeenkomende producten en ontvang er één gratis. "
+"Gebruik 'vermenigvuldigen toestaan' om een gratis artikel voor elk "
+"overeenkomend artikel te krijgen."
+
+#: woocommerce-jos-autocoupon-pro.php:34
+msgid ""
+"WooCommerce Extended Coupon Features is disabled because WooCommerce could "
+"not be detected."
+msgstr ""
+"WooCommerce Extended Coupon Features is uitgeschakeld omdat WooCommerce niet "
+"kon worden gedetecteerd."
+
+#~ msgid ""
+#~ "Check this box if ALL of the products (see tab 'usage restriction') must "
+#~ "be in the cart to use this coupon (in stead of only one of the products)."
+#~ msgstr ""
+#~ "Aanvinken als ALLE producten (zie tab 'gebruiksbeperkingen') in de "
+#~ "winkelwagen moeten zitten om deze kortingsbon te kunnen gebruiken (in "
+#~ "plaats van één van de producten)."
+
+#~ msgid "Extended Coupon Features"
+#~ msgstr "Uitgebreide Kortingsbon Functies"
+
+#~ msgid "Extended features"
+#~ msgstr "Uitgebreide functies"
+
+#~ msgid "Allow if minimum spend not reached"
+#~ msgstr "Toestaan als minimale besteding niet is bereikt"
+
+#~ msgid ""
+#~ "Check this box to allow the coupon to be in the cart even if minimum "
+#~ "spend (see tab 'usage restriction') is not reached. Value of the discount "
+#~ "will be 0 until minimum spend is reached."
+#~ msgstr ""
+#~ "Aanvinken als de kortingsbon ook in de winkelwagen mag zitten als "
+#~ "'minimale besteding' nog niet is bereikt."
+
+#~ msgid "Customers"
+#~ msgstr "Klanten"
+
+#~ msgid "Coupon only applies to these customers."
+#~ msgstr "Kortingsbon is alleen geldig voor deze klanten."
+
+#~ msgid "Customer roles"
+#~ msgstr "Klantrollen"
+
+#~ msgid ""
+#~ "The customer must have one of these roles in order for this coupon to be "
+#~ "valid."
+#~ msgstr ""
+#~ "Dat klant moet een van deze rollen hebben om de kortingsbon te kunnen "
+#~ "gebruiken."
+
+#~ msgid "Excluded customer roles"
+#~ msgstr "Uitgesloten klantrollen"
+
+#~ msgid ""
+#~ "The customer must not have one of these roles in order for this coupon to "
+#~ "be valid."
+#~ msgstr ""
+#~ "De klant mag geen van deze rollen hebben om de kortingsbon te kunnen "
+#~ "gebruiken."
+
+#~ msgid ""
+#~ "Automatically add the coupon to the cart if the restrictions are met. "
+#~ "Please enter a description when you check this box, the description will "
+#~ "be shown in the customers cart if the coupon is applied."
+#~ msgstr ""
+#~ "Voeg de kortingsbon automatisch toe aan het winkelwagentje als aan alle "
+#~ "voorwaarden wordt voldaan. Vult u a.u.b. een omschrijving in als u deze "
+#~ "optie aanvinkt, de omschrijving zal aan de klant worden getoond wanneer "
+#~ "de kortingsbon wordt toegevoegd."
+
+#~ msgid ""
+#~ "Check this box if ALL of the products (see above) must be in the cart to "
+#~ "use this coupon (in stead of only one of the products)."
+#~ msgstr ""
+#~ "Aanvinken als ALLE producten (zie boven) in de winkelwagen moeten zitten "
+#~ "om deze kortingsbon te kunnen gebruiken (in plaats van één van de "
+#~ "producten)."

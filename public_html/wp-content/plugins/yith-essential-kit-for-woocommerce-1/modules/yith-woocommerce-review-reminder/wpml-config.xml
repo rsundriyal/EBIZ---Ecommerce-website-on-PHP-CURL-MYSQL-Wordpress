@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="ywrr_mail_subject"/>
+        <key name="ywrr_mail_body"/>
+        <key name="ywrr_mail_unsubscribe_text"/>
+    </admin-texts>
+</wpml-config>

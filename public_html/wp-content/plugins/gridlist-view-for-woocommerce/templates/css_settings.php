@@ -1,0 +1,1 @@
+<?php echo '<img src="'.plugins_url( '../css.png', __FILE__ ).'" alt="CSS">'; ?>

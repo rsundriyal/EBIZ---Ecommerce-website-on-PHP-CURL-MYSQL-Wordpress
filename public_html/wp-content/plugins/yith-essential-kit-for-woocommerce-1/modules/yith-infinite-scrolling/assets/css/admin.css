@@ -1,0 +1,15 @@
+
+#wrap.plugin-option tr {
+    border-bottom: 0;
+}
+#wrap.plugin-option .form-table tr,
+#wrap.plugin-option .form-table td {
+    padding: 10px;
+}
+#wrap.plugin-option .yit_options .option {
+    padding-right: 10px;
+    width: 50%;
+}
+#wrap.plugin-option .yit_options input[type="text"] {
+    width: 100%;
+}

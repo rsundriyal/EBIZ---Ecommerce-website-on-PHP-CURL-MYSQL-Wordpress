@@ -1,0 +1,2758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alchem 1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-24 17:55+0800\n"
+"PO-Revision-Date: 2016-05-24 17:55+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: MageeWP\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/alchem-customizer.php:13
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/alchem-customizer.php:14
+msgid "View Documentation"
+msgstr ""
+
+#: admin/alchem-customizer.php:15
+msgid "Support Forum"
+msgstr ""
+
+#: admin/alchem-customizer.php:16
+msgid "Loading"
+msgstr ""
+
+#: admin/alchem-customizer.php:17
+msgid "Complete"
+msgstr ""
+
+#: admin/alchem-customizer.php:18
+msgid "Error"
+msgstr ""
+
+#: admin/alchem-customizer.php:19
+msgid "Import Theme Options"
+msgstr ""
+
+#: admin/alchem-customizer.php:20
+msgid "Click to transfer data from theme options to customizer."
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/customizer-options.php:44
+msgid "Select a page:"
+msgstr ""
+
+#: admin/customizer-options.php:54 admin/customizer-options.php:60
+#: inc/metabox-options.php:202 inc/metabox-options.php:223
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer-options.php:55 admin/customizer-options.php:59
+#: inc/metabox-options.php:201 inc/metabox-options.php:224
+msgid "No"
+msgstr ""
+
+#: admin/customizer-options.php:66 admin/customizer-options.php:3957
+#: admin/customizer-options.php:4053 admin/customizer-options.php:4618
+msgid "Left"
+msgstr ""
+
+#: admin/customizer-options.php:67 admin/customizer-options.php:3958
+#: admin/customizer-options.php:4054 admin/customizer-options.php:4619
+msgid "Right"
+msgstr ""
+
+#: admin/customizer-options.php:68
+msgid "Center"
+msgstr ""
+
+#: admin/customizer-options.php:72
+msgid "repeat"
+msgstr ""
+
+#: admin/customizer-options.php:73
+msgid "repeat-x"
+msgstr ""
+
+#: admin/customizer-options.php:74
+msgid "repeat-y"
+msgstr ""
+
+#: admin/customizer-options.php:75
+msgid "no-repeat"
+msgstr ""
+
+#: admin/customizer-options.php:81
+msgid "top left"
+msgstr ""
+
+#: admin/customizer-options.php:82
+msgid "top center"
+msgstr ""
+
+#: admin/customizer-options.php:83
+msgid "top right"
+msgstr ""
+
+#: admin/customizer-options.php:84
+msgid "center left"
+msgstr ""
+
+#: admin/customizer-options.php:85
+msgid "center center"
+msgstr ""
+
+#: admin/customizer-options.php:86
+msgid "center right"
+msgstr ""
+
+#: admin/customizer-options.php:87
+msgid "bottom left"
+msgstr ""
+
+#: admin/customizer-options.php:88
+msgid "bottom center"
+msgstr ""
+
+#: admin/customizer-options.php:89
+msgid "bottom right"
+msgstr ""
+
+#: admin/customizer-options.php:109
+msgid "Open in new window"
+msgstr ""
+
+#: admin/customizer-options.php:110
+msgid "Open in same window"
+msgstr ""
+
+#: admin/customizer-options.php:129 admin/customizer-options.php:456
+msgid "Section - Banner"
+msgstr ""
+
+#: admin/customizer-options.php:130 admin/customizer-options.php:675
+msgid "Section - Tagline"
+msgstr ""
+
+#: admin/customizer-options.php:131 admin/customizer-options.php:812
+msgid "Section - Service"
+msgstr ""
+
+#: admin/customizer-options.php:132 admin/customizer-options.php:997
+msgid "Section - Recent Works"
+msgstr ""
+
+#: admin/customizer-options.php:133 admin/customizer-options.php:1180
+msgid "Section - Features"
+msgstr ""
+
+#: admin/customizer-options.php:134 admin/customizer-options.php:1372
+msgid "Section - About Us"
+msgstr ""
+
+#: admin/customizer-options.php:135 admin/customizer-options.php:1485
+msgid "Section - Our Team"
+msgstr ""
+
+#: admin/customizer-options.php:136 admin/customizer-options.php:1689
+msgid "Section - Testimonials"
+msgstr ""
+
+#: admin/customizer-options.php:137
+msgid "Section - News"
+msgstr ""
+
+#: admin/customizer-options.php:138 admin/customizer-options.php:2005
+msgid "Section - Partners"
+msgstr ""
+
+#: admin/customizer-options.php:139 admin/customizer-options.php:2151
+msgid "Section - Slogan"
+msgstr ""
+
+#: admin/customizer-options.php:143 admin/customizer-options.php:466
+#: admin/customizer-options.php:685 admin/customizer-options.php:822
+#: admin/customizer-options.php:1007 admin/customizer-options.php:1190
+#: admin/customizer-options.php:1495 admin/customizer-options.php:1699
+#: admin/customizer-options.php:1883 admin/customizer-options.php:2015
+#: admin/customizer-options.php:2161 inc/metabox-options.php:160
+#: inc/metabox-options.php:176 inc/metabox-options.php:222
+msgid "Default"
+msgstr ""
+
+#: admin/customizer-options.php:144
+msgid "Simple"
+msgstr ""
+
+#: admin/customizer-options.php:145
+msgid "Fresh"
+msgstr ""
+
+#: admin/customizer-options.php:146
+msgid "Elegant(Pro)"
+msgstr ""
+
+#: admin/customizer-options.php:147
+msgid "Passionate(Pro)"
+msgstr ""
+
+#: admin/customizer-options.php:148
+msgid "Natural(Pro)"
+msgstr ""
+
+#: admin/customizer-options.php:393
+msgid "Home Page"
+msgstr ""
+
+#: admin/customizer-options.php:403
+msgid "Home Page Options"
+msgstr ""
+
+#: admin/customizer-options.php:411
+msgid "Enable Home Page Animation"
+msgstr ""
+
+#: admin/customizer-options.php:421
+msgid "Home Page Style"
+msgstr ""
+
+#: admin/customizer-options.php:422
+msgid ""
+"Once style changed, you need to click save & publish button and refresh the "
+"page to apply the change."
+msgstr ""
+
+#: admin/customizer-options.php:435
+msgid "Sections Order"
+msgstr ""
+
+#: admin/customizer-options.php:447 admin/customizer-options.php:2294
+#: admin/customizer-options.php:2314 admin/customizer-options.php:2334
+#: admin/customizer-options.php:2354
+#, php-format
+msgid ""
+"Get the <a href=\"%s\" target=\"_blank\">Pro version</a> of Alchem to "
+"acquire this feature."
+msgstr ""
+
+#: admin/customizer-options.php:463 admin/customizer-options.php:682
+#: admin/customizer-options.php:819 admin/customizer-options.php:1004
+#: admin/customizer-options.php:1187 admin/customizer-options.php:1380
+#: admin/customizer-options.php:1492 admin/customizer-options.php:1696
+#: admin/customizer-options.php:1880 admin/customizer-options.php:2012
+#: admin/customizer-options.php:2158
+msgid "Content Model"
+msgstr ""
+
+#: admin/customizer-options.php:466 admin/customizer-options.php:685
+#: admin/customizer-options.php:822 admin/customizer-options.php:1007
+#: admin/customizer-options.php:1190 admin/customizer-options.php:1383
+#: admin/customizer-options.php:1495 admin/customizer-options.php:1699
+#: admin/customizer-options.php:1883 admin/customizer-options.php:2015
+#: admin/customizer-options.php:2161
+msgid "Custom"
+msgstr ""
+
+#: admin/customizer-options.php:466
+msgid "Slider"
+msgstr ""
+
+#: admin/customizer-options.php:468 admin/customizer-options.php:687
+#: admin/customizer-options.php:824 admin/customizer-options.php:1009
+#: admin/customizer-options.php:1192 admin/customizer-options.php:1385
+#: admin/customizer-options.php:1497 admin/customizer-options.php:1701
+#: admin/customizer-options.php:1885 admin/customizer-options.php:2017
+#: admin/customizer-options.php:2163
+msgid ""
+"Choose <b>Default</b> to fill this section form with fixed layout. Choose "
+"<b>Custom</b> to fill this section with custom html code."
+msgstr ""
+
+#: admin/customizer-options.php:473 admin/customizer-options.php:701
+#: admin/customizer-options.php:838 admin/customizer-options.php:1014
+#: admin/customizer-options.php:1206 admin/customizer-options.php:1398
+#: admin/customizer-options.php:1511 admin/customizer-options.php:1715
+#: admin/customizer-options.php:1899 admin/customizer-options.php:2032
+#: admin/customizer-options.php:2177 admin/customizer-options.php:3140
+msgid "Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:477 admin/customizer-options.php:705
+#: admin/customizer-options.php:842 admin/customizer-options.php:1018
+#: admin/customizer-options.php:1210 admin/customizer-options.php:1402
+#: admin/customizer-options.php:1515 admin/customizer-options.php:1719
+#: admin/customizer-options.php:1903 admin/customizer-options.php:2036
+#: admin/customizer-options.php:2181
+msgid "Set background color for this section."
+msgstr ""
+
+#: admin/customizer-options.php:482 admin/customizer-options.php:710
+#: admin/customizer-options.php:847 admin/customizer-options.php:1023
+#: admin/customizer-options.php:1215 admin/customizer-options.php:1407
+#: admin/customizer-options.php:1520 admin/customizer-options.php:1724
+#: admin/customizer-options.php:1908 admin/customizer-options.php:2041
+#: admin/customizer-options.php:2186
+msgid "Background Image"
+msgstr ""
+
+#: admin/customizer-options.php:486 admin/customizer-options.php:714
+#: admin/customizer-options.php:851 admin/customizer-options.php:1027
+#: admin/customizer-options.php:1219 admin/customizer-options.php:1411
+#: admin/customizer-options.php:1524 admin/customizer-options.php:1728
+#: admin/customizer-options.php:1912 admin/customizer-options.php:2045
+#: admin/customizer-options.php:2190
+msgid "Upload background image for this section."
+msgstr ""
+
+#: admin/customizer-options.php:491 admin/customizer-options.php:719
+#: admin/customizer-options.php:856 admin/customizer-options.php:1032
+#: admin/customizer-options.php:1224 admin/customizer-options.php:1416
+#: admin/customizer-options.php:1529 admin/customizer-options.php:1733
+#: admin/customizer-options.php:1917 admin/customizer-options.php:2050
+#: admin/customizer-options.php:2195
+msgid "Section Top Padding"
+msgstr ""
+
+#: admin/customizer-options.php:492 admin/customizer-options.php:501
+#: admin/customizer-options.php:720 admin/customizer-options.php:729
+#: admin/customizer-options.php:857 admin/customizer-options.php:866
+#: admin/customizer-options.php:1033 admin/customizer-options.php:1042
+#: admin/customizer-options.php:1225 admin/customizer-options.php:1234
+#: admin/customizer-options.php:1417 admin/customizer-options.php:1426
+#: admin/customizer-options.php:1530 admin/customizer-options.php:1539
+#: admin/customizer-options.php:1734 admin/customizer-options.php:1743
+#: admin/customizer-options.php:1918 admin/customizer-options.php:1927
+#: admin/customizer-options.php:2051 admin/customizer-options.php:2060
+#: admin/customizer-options.php:2196 admin/customizer-options.php:2205
+#: admin/customizer-options.php:3889
+msgid "In pixels, ex: 10px."
+msgstr ""
+
+#: admin/customizer-options.php:500 admin/customizer-options.php:728
+#: admin/customizer-options.php:865 admin/customizer-options.php:1041
+#: admin/customizer-options.php:1233 admin/customizer-options.php:1425
+#: admin/customizer-options.php:1538 admin/customizer-options.php:1742
+#: admin/customizer-options.php:1926 admin/customizer-options.php:2059
+#: admin/customizer-options.php:2204
+msgid "Section Bottom Padding"
+msgstr ""
+
+#: admin/customizer-options.php:510
+msgid "Big Title"
+msgstr ""
+
+#: admin/customizer-options.php:519 admin/customizer-options.php:882
+#: admin/customizer-options.php:1060 admin/customizer-options.php:1251
+#: admin/customizer-options.php:1442 admin/customizer-options.php:1556
+#: admin/customizer-options.php:1760 admin/customizer-options.php:1944
+#: admin/customizer-options.php:2077
+msgid "Subtitle"
+msgstr ""
+
+#: admin/customizer-options.php:528 admin/customizer-options.php:631
+#: admin/customizer-options.php:755 admin/customizer-options.php:1122
+#: admin/customizer-options.php:2224
+msgid "Button Text"
+msgstr ""
+
+#: admin/customizer-options.php:536 admin/customizer-options.php:639
+#: admin/customizer-options.php:763 admin/customizer-options.php:1130
+#: admin/customizer-options.php:2232
+msgid "Button Link"
+msgstr ""
+
+#: admin/customizer-options.php:544 admin/customizer-options.php:648
+#: admin/customizer-options.php:771 admin/customizer-options.php:1138
+#: admin/customizer-options.php:2240
+msgid "Button Link Target"
+msgstr ""
+
+#: admin/customizer-options.php:554
+msgid "Content Align"
+msgstr ""
+
+#: admin/customizer-options.php:564 admin/customizer-options.php:782
+#: admin/customizer-options.php:965 admin/customizer-options.php:1148
+#: admin/customizer-options.php:1340 admin/customizer-options.php:1453
+#: admin/customizer-options.php:1657 admin/customizer-options.php:1842
+#: admin/customizer-options.php:1974 admin/customizer-options.php:2119
+#: admin/customizer-options.php:2251
+msgid "Section ID"
+msgstr ""
+
+#: admin/customizer-options.php:573 admin/customizer-options.php:791
+#: admin/customizer-options.php:974 admin/customizer-options.php:1157
+#: admin/customizer-options.php:1349 admin/customizer-options.php:1462
+#: admin/customizer-options.php:1666 admin/customizer-options.php:1851
+#: admin/customizer-options.php:1983 admin/customizer-options.php:2128
+#: admin/customizer-options.php:2260
+msgid "Custom Section Content"
+msgstr ""
+
+#: admin/customizer-options.php:574 admin/customizer-options.php:792
+#: admin/customizer-options.php:975 admin/customizer-options.php:1158
+#: admin/customizer-options.php:1350 admin/customizer-options.php:1667
+#: admin/customizer-options.php:1852 admin/customizer-options.php:1984
+#: admin/customizer-options.php:2129 admin/customizer-options.php:2261
+msgid ""
+"This would display instead of fixed layout once Content Modal is set as "
+"<b>Custom</b>. HTML Code and Shortcode are both allowed."
+msgstr ""
+
+#: admin/customizer-options.php:595
+#, php-format
+msgid "Display Slide %d"
+msgstr ""
+
+#: admin/customizer-options.php:604
+#, php-format
+msgid "Background Image %d"
+msgstr ""
+
+#: admin/customizer-options.php:608
+msgid "Upload background image for this slide."
+msgstr ""
+
+#: admin/customizer-options.php:613
+#, php-format
+msgid "Slide Title %d"
+msgstr ""
+
+#: admin/customizer-options.php:622
+#, php-format
+msgid "Slide Sub Title %d"
+msgstr ""
+
+#: admin/customizer-options.php:663 admin/customizer-options.php:800
+#: admin/customizer-options.php:984 admin/customizer-options.php:1167
+#: admin/customizer-options.php:1359 admin/customizer-options.php:1472
+#: admin/customizer-options.php:1676 admin/customizer-options.php:1861
+#: admin/customizer-options.php:1993 admin/customizer-options.php:2138
+#: admin/customizer-options.php:2270
+msgid "Hide Section"
+msgstr ""
+
+#: admin/customizer-options.php:692 admin/customizer-options.php:829
+#: admin/customizer-options.php:1197 admin/customizer-options.php:1389
+#: admin/customizer-options.php:1502 admin/customizer-options.php:1706
+#: admin/customizer-options.php:1890 admin/customizer-options.php:2022
+#: admin/customizer-options.php:2168
+msgid "Color"
+msgstr ""
+
+#: admin/customizer-options.php:696 admin/customizer-options.php:833
+#: admin/customizer-options.php:1201 admin/customizer-options.php:1393
+#: admin/customizer-options.php:1506 admin/customizer-options.php:1710
+#: admin/customizer-options.php:1894 admin/customizer-options.php:2026
+#: admin/customizer-options.php:2172
+msgid "Set color for this section."
+msgstr ""
+
+#: admin/customizer-options.php:738
+msgid "Slogan Title"
+msgstr ""
+
+#: admin/customizer-options.php:746
+msgid "Slogan Content"
+msgstr ""
+
+#: admin/customizer-options.php:874 admin/customizer-options.php:1051
+#: admin/customizer-options.php:1243 admin/customizer-options.php:1434
+#: admin/customizer-options.php:1547 admin/customizer-options.php:1751
+#: admin/customizer-options.php:1935 admin/customizer-options.php:2068
+#: admin/customizer-options.php:2214
+msgid "Title"
+msgstr ""
+
+#: admin/customizer-options.php:891 admin/customizer-options.php:1069
+#: admin/customizer-options.php:1565 admin/customizer-options.php:1769
+#: admin/customizer-options.php:1953
+msgid "Columns"
+msgstr ""
+
+#: admin/customizer-options.php:908 admin/customizer-options.php:1283
+#, php-format
+msgid "Font Awesome Icon %d"
+msgstr ""
+
+#: admin/customizer-options.php:917 admin/customizer-options.php:1292
+#, php-format
+msgid "Upload Icon %d"
+msgstr ""
+
+#: admin/customizer-options.php:926 admin/customizer-options.php:1301
+#, php-format
+msgid "Feature Box Title %d"
+msgstr ""
+
+#: admin/customizer-options.php:935 admin/customizer-options.php:1310
+#, php-format
+msgid "Feature Box Content %d"
+msgstr ""
+
+#: admin/customizer-options.php:944 admin/customizer-options.php:1319
+#, php-format
+msgid "Title Link %d"
+msgstr ""
+
+#: admin/customizer-options.php:952 admin/customizer-options.php:1110
+#: admin/customizer-options.php:1327
+#, php-format
+msgid "Link Target %d"
+msgstr ""
+
+#: admin/customizer-options.php:1092
+#, php-format
+msgid "Image %d"
+msgstr ""
+
+#: admin/customizer-options.php:1101
+#, php-format
+msgid "Image Link %d"
+msgstr ""
+
+#: admin/customizer-options.php:1261
+msgid "Image"
+msgstr ""
+
+#: admin/customizer-options.php:1592 admin/customizer-options.php:1803
+#, php-format
+msgid "Upload Avatar %d"
+msgstr ""
+
+#: admin/customizer-options.php:1600
+#, php-format
+msgid "Avatar Link %d"
+msgstr ""
+
+#: admin/customizer-options.php:1609 admin/customizer-options.php:1813
+#, php-format
+msgid "Name %d"
+msgstr ""
+
+#: admin/customizer-options.php:1617 admin/customizer-options.php:1821
+#, php-format
+msgid "Byline %d"
+msgstr ""
+
+#: admin/customizer-options.php:1626 admin/customizer-options.php:1830
+#, php-format
+msgid "Description %d"
+msgstr ""
+
+#: admin/customizer-options.php:1636
+#, php-format
+msgid "Social Icon %d - %d"
+msgstr ""
+
+#: admin/customizer-options.php:1644
+#, php-format
+msgid "Social Icon Link %d - %d"
+msgstr ""
+
+#: admin/customizer-options.php:1873
+msgid "Section - Latest News"
+msgstr ""
+
+#: admin/customizer-options.php:1963
+msgid "Posts Num"
+msgstr ""
+
+#: admin/customizer-options.php:2097
+msgid "Upload Image"
+msgstr ""
+
+#: admin/customizer-options.php:2106
+msgid "Link"
+msgstr ""
+
+#: admin/customizer-options.php:2282
+msgid "Section - Pricing Table"
+msgstr ""
+
+#: admin/customizer-options.php:2302
+msgid "Section - Portfolios"
+msgstr ""
+
+#: admin/customizer-options.php:2322
+msgid "Section - Contact"
+msgstr ""
+
+#: admin/customizer-options.php:2342
+msgid "Section - Recent Products"
+msgstr ""
+
+#: admin/customizer-options.php:2369
+msgid "General"
+msgstr ""
+
+#: admin/customizer-options.php:2378
+msgid "Scheme Options"
+msgstr ""
+
+#: admin/customizer-options.php:2386
+msgid "Primary Color"
+msgstr ""
+
+#: admin/customizer-options.php:2390
+msgid "Set primary color for your site."
+msgstr ""
+
+#: admin/customizer-options.php:2403
+msgid "Styling"
+msgstr ""
+
+#: admin/customizer-options.php:2412
+msgid "Background Colors"
+msgstr ""
+
+#: admin/customizer-options.php:2421
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2422
+msgid "Set background color for sticky header."
+msgstr ""
+
+#: admin/customizer-options.php:2430
+msgid "Sticky Header Background Opacity"
+msgstr ""
+
+#: admin/customizer-options.php:2431 admin/customizer-options.php:2454
+msgid ""
+"Opacity only works with header top position and ranges between 0 "
+"(transparent) and 1."
+msgstr ""
+
+#: admin/customizer-options.php:2442
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2443
+msgid "Set background color for header."
+msgstr ""
+
+#: admin/customizer-options.php:2453
+msgid "Header Background Opacity"
+msgstr ""
+
+#: admin/customizer-options.php:2465
+msgid "Header Border Color"
+msgstr ""
+
+#: admin/customizer-options.php:2466 admin/customizer-options.php:2532
+msgid "Set border color for header."
+msgstr ""
+
+#: admin/customizer-options.php:2476
+msgid "Page Title Bar Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2477
+msgid "Set background color for page title bar."
+msgstr ""
+
+#: admin/customizer-options.php:2487
+msgid "Page Title Bar Borders Color"
+msgstr ""
+
+#: admin/customizer-options.php:2488
+msgid "Set border color for page title bar."
+msgstr ""
+
+#: admin/customizer-options.php:2498
+msgid "Content Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2499
+msgid "Set background color for content area."
+msgstr ""
+
+#: admin/customizer-options.php:2509
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2510
+msgid "Set background color for sidebar."
+msgstr ""
+
+#: admin/customizer-options.php:2520
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2521
+msgid "Set background color for footer."
+msgstr ""
+
+#: admin/customizer-options.php:2531
+msgid "Footer Border Color"
+msgstr ""
+
+#: admin/customizer-options.php:2542
+msgid "Copyright Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2543
+msgid "Set background color for copyright area."
+msgstr ""
+
+#: admin/customizer-options.php:2553
+msgid "Copyright Border Color"
+msgstr ""
+
+#: admin/customizer-options.php:2554
+msgid "Set border color for copyright area"
+msgstr ""
+
+#: admin/customizer-options.php:2568
+msgid "Element Colors"
+msgstr ""
+
+#: admin/customizer-options.php:2577
+msgid "Footer Widget Divider Color"
+msgstr ""
+
+#: admin/customizer-options.php:2578
+msgid "Set divider color for footer."
+msgstr ""
+
+#: admin/customizer-options.php:2588
+msgid "Form Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2589
+msgid "Set background color for form fields."
+msgstr ""
+
+#: admin/customizer-options.php:2599
+msgid "Form Text Color"
+msgstr ""
+
+#: admin/customizer-options.php:2600
+msgid "Set text color for forms."
+msgstr ""
+
+#: admin/customizer-options.php:2610
+msgid "Form Border Color"
+msgstr ""
+
+#: admin/customizer-options.php:2611
+msgid "Set border color for forms."
+msgstr ""
+
+#: admin/customizer-options.php:2623
+msgid "Font Colors"
+msgstr ""
+
+#: admin/customizer-options.php:2632
+msgid "Header Tagline"
+msgstr ""
+
+#: admin/customizer-options.php:2633
+msgid "Set color for header tagline."
+msgstr ""
+
+#: admin/customizer-options.php:2643
+msgid "Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:2644
+msgid "Set color for page title."
+msgstr ""
+
+#: admin/customizer-options.php:2655
+msgid "Heading 1 (H1) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2656
+msgid "Set color for h1 element."
+msgstr ""
+
+#: admin/customizer-options.php:2666
+msgid "Heading 2 (H2) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2667
+msgid "Set color for h2 element."
+msgstr ""
+
+#: admin/customizer-options.php:2677
+msgid "Heading 3 (H3) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2678
+msgid "Set color for h3 element."
+msgstr ""
+
+#: admin/customizer-options.php:2688
+msgid "Heading 4 (H4) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2689
+msgid "Set color for h4 element."
+msgstr ""
+
+#: admin/customizer-options.php:2699
+msgid "Heading 5 (H5) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2700
+msgid "Set color for h5 element."
+msgstr ""
+
+#: admin/customizer-options.php:2710
+msgid "Heading 6 (H6) Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:2711
+msgid "Set color for h6 element."
+msgstr ""
+
+#: admin/customizer-options.php:2722
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer-options.php:2723
+msgid "Set color for body text."
+msgstr ""
+
+#: admin/customizer-options.php:2733
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer-options.php:2734
+msgid "Set color for hypelink element."
+msgstr ""
+
+#: admin/customizer-options.php:2744
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: admin/customizer-options.php:2745
+msgid "Set color for breadcrumbs text."
+msgstr ""
+
+#: admin/customizer-options.php:2756
+msgid "Sidebar Widget Headings Color"
+msgstr ""
+
+#: admin/customizer-options.php:2757
+msgid "Set color for widget headings in sidebar."
+msgstr ""
+
+#: admin/customizer-options.php:2767
+msgid "Footer Headings Color"
+msgstr ""
+
+#: admin/customizer-options.php:2768
+msgid "Set color for widget headings in footer."
+msgstr ""
+
+#: admin/customizer-options.php:2778
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/customizer-options.php:2779
+msgid "Set color for text in footer."
+msgstr ""
+
+#: admin/customizer-options.php:2789
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/customizer-options.php:2790
+msgid "Set color for link in footer."
+msgstr ""
+
+#: admin/customizer-options.php:2805
+msgid "Main Menu Colors"
+msgstr ""
+
+#: admin/customizer-options.php:2814
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2815
+msgid "Set background color for main menu."
+msgstr ""
+
+#: admin/customizer-options.php:2822
+msgid "Main Menu Font Color ( First Level )"
+msgstr ""
+
+#: admin/customizer-options.php:2823
+msgid "Set font color for main menu."
+msgstr ""
+
+#: admin/customizer-options.php:2830
+msgid "Main Menu Font Hover Color ( First Level )"
+msgstr ""
+
+#: admin/customizer-options.php:2831
+msgid "Set hover font color for main menu."
+msgstr ""
+
+#: admin/customizer-options.php:2839
+msgid "Main Menu Background Color ( Sub Level )"
+msgstr ""
+
+#: admin/customizer-options.php:2840
+msgid "Set background color for sub menu."
+msgstr ""
+
+#: admin/customizer-options.php:2849
+msgid "Main Menu Font Color ( Sub Level )"
+msgstr ""
+
+#: admin/customizer-options.php:2850
+msgid "Set font color for sub menu."
+msgstr ""
+
+#: admin/customizer-options.php:2858
+msgid "Main Menu Font Hover Color ( Sub Level )"
+msgstr ""
+
+#: admin/customizer-options.php:2859
+msgid "Set hover font color for sub menu."
+msgstr ""
+
+#: admin/customizer-options.php:2867
+msgid "Main Menu Separator Color ( Sub Levels )"
+msgstr ""
+
+#: admin/customizer-options.php:2868
+msgid "Set border color for sub menu."
+msgstr ""
+
+#: admin/customizer-options.php:2876
+msgid "Woo Cart Menu Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:2877
+msgid "Set background color for woocommerce cart menu."
+msgstr ""
+
+#: admin/customizer-options.php:2891 admin/customizer-options.php:2920
+msgid "Site Width"
+msgstr ""
+
+#: admin/customizer-options.php:2899
+msgid "Layout Options"
+msgstr ""
+
+#: admin/customizer-options.php:2907
+msgid "Layout"
+msgstr ""
+
+#: admin/customizer-options.php:2911
+msgid "Boxed"
+msgstr ""
+
+#: admin/customizer-options.php:2912
+msgid "Wide"
+msgstr ""
+
+#: admin/customizer-options.php:2915
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: admin/customizer-options.php:2921
+msgid "Controls the overall site width. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: admin/customizer-options.php:2932
+msgid "Content Width/Sidebar Width"
+msgstr ""
+
+#: admin/customizer-options.php:2934
+msgid ""
+"These settings are used on pages with 1 sidebar. Total values must add up to "
+"100."
+msgstr ""
+
+#: admin/customizer-options.php:2940 admin/customizer-options.php:2970
+msgid "Content Width"
+msgstr ""
+
+#: admin/customizer-options.php:2941 admin/customizer-options.php:2971
+msgid "Controls the width of the content area. In px or %, ex: 100% or 1170px."
+msgstr ""
+
+#: admin/customizer-options.php:2950
+msgid "Sidebar Width"
+msgstr ""
+
+#: admin/customizer-options.php:2951
+msgid "Controls the width of the sidebar. In px or %"
+msgstr ""
+
+#: admin/customizer-options.php:2962
+msgid "Content Width/Left & Right Sidebar Width"
+msgstr ""
+
+#: admin/customizer-options.php:2964
+msgid ""
+"These settings are used on pages with 2 sidebars. Total values must add up "
+"to 100%."
+msgstr ""
+
+#: admin/customizer-options.php:2980
+msgid "Sidebar 1 Width"
+msgstr ""
+
+#: admin/customizer-options.php:2981
+msgid "Controls the width of the sidebar 1. In px or %."
+msgstr ""
+
+#: admin/customizer-options.php:2989
+msgid "Sidebar 2 Width"
+msgstr ""
+
+#: admin/customizer-options.php:2990
+msgid "Controls the width of the sidebar 2. In px or %."
+msgstr ""
+
+#: admin/customizer-options.php:3005
+msgid "Header"
+msgstr ""
+
+#: admin/customizer-options.php:3012
+msgid "Header Options"
+msgstr ""
+
+#: admin/customizer-options.php:3020
+msgid "Header Style"
+msgstr ""
+
+#: admin/customizer-options.php:3023
+msgid "Style 1"
+msgstr ""
+
+#: admin/customizer-options.php:3023
+msgid "Style 2"
+msgstr ""
+
+#: admin/customizer-options.php:3025
+msgid "Choose header style."
+msgstr ""
+
+#: admin/customizer-options.php:3030
+msgid "Header Overlay"
+msgstr ""
+
+#: admin/customizer-options.php:3035
+msgid "Choose to set header as overlay style."
+msgstr ""
+
+#: admin/customizer-options.php:3041
+msgid "Header Background Image"
+msgstr ""
+
+#: admin/customizer-options.php:3045
+msgid "Background Image For Header Area."
+msgstr ""
+
+#: admin/customizer-options.php:3051 admin/customizer-options.php:3582
+#: admin/customizer-options.php:3757 admin/customizer-options.php:4398
+#: admin/customizer-options.php:4448
+msgid "100% Background Image"
+msgstr ""
+
+#: admin/customizer-options.php:3056
+msgid ""
+"Turn on to have the header background image display at 100% in width and "
+"height and scale according to the browser size."
+msgstr ""
+
+#: admin/customizer-options.php:3061 admin/customizer-options.php:3591
+#: admin/customizer-options.php:3766
+msgid "Parallax Background Image"
+msgstr ""
+
+#: admin/customizer-options.php:3066
+msgid ""
+"Turn on to enable parallax scrolling on the background image for header top "
+"positions."
+msgstr ""
+
+#: admin/customizer-options.php:3072 admin/customizer-options.php:3775
+#: admin/customizer-options.php:4407 admin/customizer-options.php:4457
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/customizer-options.php:3077 admin/customizer-options.php:3776
+#: admin/customizer-options.php:4408 admin/customizer-options.php:4458
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: admin/customizer-options.php:3082
+msgid "Header Top Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3083 admin/customizer-options.php:3092
+#: admin/customizer-options.php:3794 admin/customizer-options.php:3803
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr ""
+
+#: admin/customizer-options.php:3091
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3100
+msgid "Main Menu Dropdown Width"
+msgstr ""
+
+#: admin/customizer-options.php:3110
+msgid "Tagline"
+msgstr ""
+
+#: admin/customizer-options.php:3111
+msgid "Header Style 2 only."
+msgstr ""
+
+#: admin/customizer-options.php:3122
+msgid "Top Bar Options"
+msgstr ""
+
+#: admin/customizer-options.php:3124
+msgid "Top Bar Options."
+msgstr ""
+
+#: admin/customizer-options.php:3130
+msgid "Display Top Bar"
+msgstr ""
+
+#: admin/customizer-options.php:3135
+msgid "Choose to display top bar or not."
+msgstr ""
+
+#: admin/customizer-options.php:3144
+msgid "Set background color for top bar."
+msgstr ""
+
+#: admin/customizer-options.php:3149
+msgid "Left Content"
+msgstr ""
+
+#: admin/customizer-options.php:3153 admin/customizer-options.php:3169
+msgid "Info"
+msgstr ""
+
+#: admin/customizer-options.php:3154 admin/customizer-options.php:3170
+msgid "SNS"
+msgstr ""
+
+#: admin/customizer-options.php:3155 admin/customizer-options.php:3171
+msgid "Menu"
+msgstr ""
+
+#: admin/customizer-options.php:3156 admin/customizer-options.php:3172
+#: admin/customizer-options.php:3705 admin/customizer-options.php:3956
+#: admin/customizer-options.php:4052 admin/customizer-options.php:4617
+msgid "None"
+msgstr ""
+
+#: admin/customizer-options.php:3160
+msgid "Select which content displays in left content area."
+msgstr ""
+
+#: admin/customizer-options.php:3165
+msgid "Right Content"
+msgstr ""
+
+#: admin/customizer-options.php:3176
+msgid "Select which content displays in right content area."
+msgstr ""
+
+#: admin/customizer-options.php:3181
+msgid "Info Content"
+msgstr ""
+
+#: admin/customizer-options.php:3184
+msgid "Mail: support@mageewp.com&nbsp;&nbsp;&nbsp;Phone: 1-234-567-8899"
+msgstr ""
+
+#: admin/customizer-options.php:3189
+msgid "Info Color"
+msgstr ""
+
+#: admin/customizer-options.php:3197
+msgid "Menu Color"
+msgstr ""
+
+#: admin/customizer-options.php:3201
+msgid "Set font color for menu."
+msgstr ""
+
+#: admin/customizer-options.php:3210 admin/customizer-options.php:3829
+msgid "Social Title"
+msgstr ""
+
+#: admin/customizer-options.php:3214 admin/customizer-options.php:3830
+msgid "This would display in tooltip."
+msgstr ""
+
+#: admin/customizer-options.php:3218 admin/customizer-options.php:3838
+msgid "Social Icon"
+msgstr ""
+
+#: admin/customizer-options.php:3222 admin/customizer-options.php:3839
+#, php-format
+msgid ""
+"Insert font awesome icon here, more icons can be found at <a href=\"%s\" "
+"target=\"_blank\">FontAwesome Icons</a>."
+msgstr ""
+
+#: admin/customizer-options.php:3226 admin/customizer-options.php:3847
+msgid "Social Icon Link"
+msgstr ""
+
+#: admin/customizer-options.php:3230 admin/customizer-options.php:3848
+msgid "Insert the link to show this icon."
+msgstr ""
+
+#: admin/customizer-options.php:3239 admin/customizer-options.php:3860
+msgid "Social Icons Color"
+msgstr ""
+
+#: admin/customizer-options.php:3243
+msgid "Set color for social icons."
+msgstr ""
+
+#: admin/customizer-options.php:3249
+msgid "Tooltip Position for Social Icons"
+msgstr ""
+
+#: admin/customizer-options.php:3253
+msgid "left"
+msgstr ""
+
+#: admin/customizer-options.php:3254
+msgid "right"
+msgstr ""
+
+#: admin/customizer-options.php:3255
+msgid "bottom"
+msgstr ""
+
+#: admin/customizer-options.php:3259
+msgid "Controls the tooltip position of the social icons in top bar."
+msgstr ""
+
+#: admin/customizer-options.php:3270
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/customizer-options.php:3278
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: admin/customizer-options.php:3283
+msgid "Choose to enable a fixed header when scrolling."
+msgstr ""
+
+#: admin/customizer-options.php:3288
+msgid "Enable Sticky Header on Tablets"
+msgstr ""
+
+#: admin/customizer-options.php:3293
+msgid "Choose to enable a fixed header when scrolling on tablets."
+msgstr ""
+
+#: admin/customizer-options.php:3299
+msgid "Enable Sticky Header on Mobiles"
+msgstr ""
+
+#: admin/customizer-options.php:3304
+msgid "Choose to enable a fixed header when scrolling on mobiles."
+msgstr ""
+
+#: admin/customizer-options.php:3311
+msgid "Sticky Header Menu Item Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3312
+msgid ""
+"Controls the space between each menu item in the sticky header. Use a number "
+"without 'px', default is 0. ex: 10"
+msgstr ""
+
+#: admin/customizer-options.php:3320
+msgid "Sticky Header Navigation Font Size"
+msgstr ""
+
+#: admin/customizer-options.php:3321
+msgid ""
+"Controls the font size of the menu items in the sticky header. Use a number "
+"without 'px', default is 14. ex: 14"
+msgstr ""
+
+#: admin/customizer-options.php:3335 admin/customizer-options.php:3342
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3350 admin/customizer-options.php:3408
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3351 admin/customizer-options.php:3409
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: admin/customizer-options.php:3360 admin/customizer-options.php:3417
+msgid "Upload Logo (Retina Version @2x)"
+msgstr ""
+
+#: admin/customizer-options.php:3361 admin/customizer-options.php:3418
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of main logo."
+msgstr ""
+
+#: admin/customizer-options.php:3369
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3370 admin/customizer-options.php:3427
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: admin/customizer-options.php:3379
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3380 admin/customizer-options.php:3436
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: admin/customizer-options.php:3391
+msgid "Sticky Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3399
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3426
+msgid "Sticky Logo Width for Retina Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3435
+msgid "Sticky Logo Height for Retina Logo"
+msgstr ""
+
+#: admin/customizer-options.php:3447
+msgid "Logo Options"
+msgstr ""
+
+#: admin/customizer-options.php:3455
+msgid "Logo Left Margin"
+msgstr ""
+
+#: admin/customizer-options.php:3456 admin/customizer-options.php:3465
+#: admin/customizer-options.php:3474 admin/customizer-options.php:3483
+msgid "Use a number without 'px', ex: 40"
+msgstr ""
+
+#: admin/customizer-options.php:3464
+msgid "Logo Right Margin"
+msgstr ""
+
+#: admin/customizer-options.php:3473
+msgid "Logo Top Margin"
+msgstr ""
+
+#: admin/customizer-options.php:3482
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: admin/customizer-options.php:3497
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/customizer-options.php:3504
+msgid "Page Title Bar Options"
+msgstr ""
+
+#: admin/customizer-options.php:3513
+msgid "Enable Page Title Bar"
+msgstr ""
+
+#: admin/customizer-options.php:3519
+msgid "Choose to display page title bar for pages & posts."
+msgstr ""
+
+#: admin/customizer-options.php:3524
+msgid "Page Title Bar Top Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3525
+msgid "In pixels, ex: 210px"
+msgstr ""
+
+#: admin/customizer-options.php:3534
+msgid "Page Title Bar Bottom Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3535
+msgid "In pixels, ex: 160px"
+msgstr ""
+
+#: admin/customizer-options.php:3543
+msgid "Page Title Bar Mobile Top Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3544
+msgid "In pixels, ex: 70px"
+msgstr ""
+
+#: admin/customizer-options.php:3553
+msgid "Page Title Bar Mobile Bottom Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3554
+msgid "In pixels, ex: 50px"
+msgstr ""
+
+#: admin/customizer-options.php:3563
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: admin/customizer-options.php:3564
+msgid "Set background image for page title bar."
+msgstr ""
+
+#: admin/customizer-options.php:3572
+msgid "Page Title Bar Background (Retina Version @2x)"
+msgstr ""
+
+#: admin/customizer-options.php:3573
+msgid "Set background image for retina page title bar."
+msgstr ""
+
+#: admin/customizer-options.php:3583
+msgid ""
+"Select yes to have the page title bar background image display at 100% in "
+"width and height and scale according to the browser size."
+msgstr ""
+
+#: admin/customizer-options.php:3592
+msgid "Select yes to enable parallax background image when scrolling."
+msgstr ""
+
+#: admin/customizer-options.php:3601
+msgid "Page Title Align"
+msgstr ""
+
+#: admin/customizer-options.php:3602
+msgid "Set alignment for page title."
+msgstr ""
+
+#: admin/customizer-options.php:3616
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: admin/customizer-options.php:3625
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: admin/customizer-options.php:3626
+msgid "Choose to display or hide breadcrumbs."
+msgstr ""
+
+#: admin/customizer-options.php:3634
+msgid "Breadcrumbs on Mobile Devices"
+msgstr ""
+
+#: admin/customizer-options.php:3635
+msgid "Choose to display breadcrumbs on mobile devices."
+msgstr ""
+
+#: admin/customizer-options.php:3643
+msgid "Breadcrumb Menu Prefix"
+msgstr ""
+
+#: admin/customizer-options.php:3644
+msgid "The text before the breadcrumb menu."
+msgstr ""
+
+#: admin/customizer-options.php:3652
+msgid "Breadcrumb Menu Separator"
+msgstr ""
+
+#: admin/customizer-options.php:3653
+msgid "Choose a separator between the single breadcrumbs."
+msgstr ""
+
+#: admin/customizer-options.php:3661
+msgid "Show Custom Post Type Archives on Breadcrumbs."
+msgstr ""
+
+#: admin/customizer-options.php:3662
+msgid "Choose to display custom post type archives in the breadcrumb path."
+msgstr ""
+
+#: admin/customizer-options.php:3670
+msgid "Show Post Categories on Breadcrumbs"
+msgstr ""
+
+#: admin/customizer-options.php:3671
+msgid "Choose to display custom post categories in the breadcrumb path."
+msgstr ""
+
+#: admin/customizer-options.php:3684
+msgid "Footer"
+msgstr ""
+
+#: admin/customizer-options.php:3691
+msgid "General Footer Options"
+msgstr ""
+
+#: admin/customizer-options.php:3699
+msgid "Footer Special Effects"
+msgstr ""
+
+#: admin/customizer-options.php:3700
+msgid "Select your preferred footer special effect."
+msgstr ""
+
+#: admin/customizer-options.php:3706
+msgid "Sticky Footer"
+msgstr ""
+
+#: admin/customizer-options.php:3716
+msgid "Footer Widgets Area Options"
+msgstr ""
+
+#: admin/customizer-options.php:3724
+msgid "Display footer widgets?"
+msgstr ""
+
+#: admin/customizer-options.php:3725
+msgid "Choose to display footer widget area."
+msgstr ""
+
+#: admin/customizer-options.php:3733
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: admin/customizer-options.php:3734
+msgid "Set columns for footer widgets"
+msgstr ""
+
+#: admin/customizer-options.php:3748
+msgid "Upload Background Image"
+msgstr ""
+
+#: admin/customizer-options.php:3749
+msgid "Background image for footer"
+msgstr ""
+
+#: admin/customizer-options.php:3758
+msgid ""
+"Select yes to have the footer widgets area background image display at 100% "
+"in width and height and scale according to the browser size."
+msgstr ""
+
+#: admin/customizer-options.php:3767
+msgid ""
+"Turn on to enable parallax scrolling on the background image for footer."
+msgstr ""
+
+#: admin/customizer-options.php:3784
+msgid "Background Position"
+msgstr ""
+
+#: admin/customizer-options.php:3785
+msgid "Set background image position."
+msgstr ""
+
+#: admin/customizer-options.php:3793
+msgid "Footer Top Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3802
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: admin/customizer-options.php:3816
+msgid "Social Icon Options"
+msgstr ""
+
+#: admin/customizer-options.php:3861
+msgid "Set color for icons."
+msgstr ""
+
+#: admin/customizer-options.php:3870
+msgid "Social Icons Boxed"
+msgstr ""
+
+#: admin/customizer-options.php:3871
+msgid "Choose to display boxed icons"
+msgstr ""
+
+#: admin/customizer-options.php:3879
+msgid "Social Icons Box Color"
+msgstr ""
+
+#: admin/customizer-options.php:3880
+msgid "Set background color for boxed icons"
+msgstr ""
+
+#: admin/customizer-options.php:3888
+msgid "Social Icons Boxed Radius"
+msgstr ""
+
+#: admin/customizer-options.php:3898
+msgid "Social Icon Tooltip Position"
+msgstr ""
+
+#: admin/customizer-options.php:3899
+msgid "Controls the tooltip position of the social icons."
+msgstr ""
+
+#: admin/customizer-options.php:3904
+msgid "Top"
+msgstr ""
+
+#: admin/customizer-options.php:3905
+msgid "Bottom"
+msgstr ""
+
+#: admin/customizer-options.php:3916
+msgid "Blog"
+msgstr ""
+
+#: admin/customizer-options.php:3923
+msgid "General Blog Options"
+msgstr ""
+
+#: admin/customizer-options.php:3932
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:3933
+msgid "This text will display in the page title bar of the assigned blog page."
+msgstr ""
+
+#: admin/customizer-options.php:3940
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: admin/customizer-options.php:3941
+msgid ""
+"This text will display as subheading in the page title bar of the assigned "
+"blog page."
+msgstr ""
+
+#: admin/customizer-options.php:3950
+msgid "Blog Archive/Author/Category Sidebar"
+msgstr ""
+
+#: admin/customizer-options.php:3959 admin/customizer-options.php:4055
+#: admin/customizer-options.php:4620
+msgid "Both"
+msgstr ""
+
+#: admin/customizer-options.php:3965
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/customizer-options.php:3966
+msgid "Select the pagination type for the assigned blog page."
+msgstr ""
+
+#: admin/customizer-options.php:3971
+msgid "Pagination"
+msgstr ""
+
+#: admin/customizer-options.php:3972
+msgid "Infinite Scroll"
+msgstr ""
+
+#: admin/customizer-options.php:3979
+msgid "Excerpt or Full Blog Content"
+msgstr ""
+
+#: admin/customizer-options.php:3980 admin/customizer-options.php:4001
+msgid "Choose to display an excerpt or full content on blog pages."
+msgstr ""
+
+#: admin/customizer-options.php:3985
+msgid "Excerpt"
+msgstr ""
+
+#: admin/customizer-options.php:3986
+msgid "Full Content"
+msgstr ""
+
+#: admin/customizer-options.php:3992
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/customizer-options.php:3993
+msgid "Insert the number of words you want to show in the post excerpts."
+msgstr ""
+
+#: admin/customizer-options.php:4000
+msgid "Strip HTML from Excerpt"
+msgstr ""
+
+#: admin/customizer-options.php:4010
+msgid "Set All Post Items Full Width?"
+msgstr ""
+
+#: admin/customizer-options.php:4011
+msgid "Choose to strip HTML from the excerpt content only."
+msgstr ""
+
+#: admin/customizer-options.php:4022
+msgid "Featured image on blog archive page?"
+msgstr ""
+
+#: admin/customizer-options.php:4023
+msgid "Choose to display feature image in blog archive page."
+msgstr ""
+
+#: admin/customizer-options.php:4037
+msgid "Blog Single Post Page Options"
+msgstr ""
+
+#: admin/customizer-options.php:4046
+msgid "Blog Post Sidebar Position"
+msgstr ""
+
+#: admin/customizer-options.php:4063 inc/metabox-options.php:219
+msgid "Display Title Bar"
+msgstr ""
+
+#: admin/customizer-options.php:4064
+msgid "Choose to display page title bar in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4074
+msgid "Display Featured Image"
+msgstr ""
+
+#: admin/customizer-options.php:4075
+msgid "Choose to display feature image in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4084
+msgid "Display Previous/Next Pagination"
+msgstr ""
+
+#: admin/customizer-options.php:4085
+msgid "Choose to display previous/next pagination in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4094
+msgid "Display Post Title"
+msgstr ""
+
+#: admin/customizer-options.php:4095
+msgid "Choose to display post title in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4104
+msgid "Display Author Info Box"
+msgstr ""
+
+#: admin/customizer-options.php:4105
+msgid "Choose to display author info box in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4114
+msgid "Display Social Sharing Box"
+msgstr ""
+
+#: admin/customizer-options.php:4115
+msgid "Choose to display social sharing box in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4124
+msgid "Display Related Posts"
+msgstr ""
+
+#: admin/customizer-options.php:4125
+msgid "Choose to display related posts in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4137
+msgid "Blog Meta Options"
+msgstr ""
+
+#: admin/customizer-options.php:4145
+msgid "Display Post Meta"
+msgstr ""
+
+#: admin/customizer-options.php:4146
+msgid "Choose to display post meta in blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4155
+msgid "Disable Post Meta Author"
+msgstr ""
+
+#: admin/customizer-options.php:4165
+msgid "Disable Post Meta Date"
+msgstr ""
+
+#: admin/customizer-options.php:4175
+msgid "Disable Post Meta Categories"
+msgstr ""
+
+#: admin/customizer-options.php:4186
+msgid "Disable Post Meta Comments"
+msgstr ""
+
+#: admin/customizer-options.php:4196
+msgid "Disable Post Meta Readmore"
+msgstr ""
+
+#: admin/customizer-options.php:4206
+msgid "Disable Post Meta Tags"
+msgstr ""
+
+#: admin/customizer-options.php:4218
+msgid "Date Format"
+msgstr ""
+
+#: admin/customizer-options.php:4231
+msgid "Sidebar"
+msgstr ""
+
+#: admin/customizer-options.php:4239
+msgid "Pages"
+msgstr ""
+
+#: admin/customizer-options.php:4248 admin/customizer-options.php:4280
+#: admin/customizer-options.php:4312 admin/customizer-options.php:4346
+#: inc/metabox-options.php:241
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/customizer-options.php:4249
+msgid "Select left sidebar that will display on all pages."
+msgstr ""
+
+#: admin/customizer-options.php:4258 admin/customizer-options.php:4290
+#: admin/customizer-options.php:4322 admin/customizer-options.php:4356
+#: inc/metabox-options.php:242
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/customizer-options.php:4259
+msgid "Select right sidebar that will display on all pages."
+msgstr ""
+
+#: admin/customizer-options.php:4271
+msgid "Blog Posts"
+msgstr ""
+
+#: admin/customizer-options.php:4281
+msgid "Select left sidebar that will display on all blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4291
+msgid "Select right sidebar that will display on all blog posts."
+msgstr ""
+
+#: admin/customizer-options.php:4303
+msgid "Blog Archive Category Pages"
+msgstr ""
+
+#: admin/customizer-options.php:4313
+msgid "Select left sidebar that will display on blog archive pages."
+msgstr ""
+
+#: admin/customizer-options.php:4323
+msgid "Select right sidebar that will display on blog archive pages."
+msgstr ""
+
+#: admin/customizer-options.php:4337
+msgid "Search Page"
+msgstr ""
+
+#: admin/customizer-options.php:4347
+msgid "Select left sidebar that will display on search pages."
+msgstr ""
+
+#: admin/customizer-options.php:4357
+msgid "Select right sidebar that will display on search pages."
+msgstr ""
+
+#: admin/customizer-options.php:4372
+msgid "Background Options"
+msgstr ""
+
+#: admin/customizer-options.php:4379
+msgid "Background Options Only Work in Boxed Mode"
+msgstr ""
+
+#: admin/customizer-options.php:4388
+msgid "Background Image For Outer Areas In Boxed Mode"
+msgstr ""
+
+#: admin/customizer-options.php:4389 admin/customizer-options.php:4439
+msgid "Upload an image to use for the backgroud."
+msgstr ""
+
+#: admin/customizer-options.php:4399 admin/customizer-options.php:4449
+msgid ""
+"Choose to have the background image display at 100% in width and height and "
+"scale according to the browser size."
+msgstr ""
+
+#: admin/customizer-options.php:4417
+msgid "Background Color For Outer Areas In Boxed Mode"
+msgstr ""
+
+#: admin/customizer-options.php:4418
+msgid "Set background color for uter areas in boxed mode."
+msgstr ""
+
+#: admin/customizer-options.php:4430
+msgid "Background Options Work For Wide Mode"
+msgstr ""
+
+#: admin/customizer-options.php:4438
+msgid "Background Image For Main Content Area"
+msgstr ""
+
+#: admin/customizer-options.php:4470
+msgid "Typography"
+msgstr ""
+
+#: admin/customizer-options.php:4479
+msgid "Load Google Fonts"
+msgstr ""
+
+#: admin/customizer-options.php:4488
+msgid "Google Fonts ( e.g. Playfair+Displa+SC|Raleway )"
+msgstr ""
+
+#: admin/customizer-options.php:4500
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/customizer-options.php:4508
+msgid "Autoplay"
+msgstr ""
+
+#: admin/customizer-options.php:4509
+msgid "Choose to autoplay the slides."
+msgstr ""
+
+#: admin/customizer-options.php:4519
+msgid "Slideshow Speed"
+msgstr ""
+
+#: admin/customizer-options.php:4520
+msgid ""
+"Controls the speed of slideshows for the [alchem_slider] shortcode and "
+"sliders within posts. ex: 1000 = 1 second."
+msgstr ""
+
+#: admin/customizer-options.php:4528
+msgid "Display Slider Pagination"
+msgstr ""
+
+#: admin/customizer-options.php:4529
+msgid "Choose to display slider pagination"
+msgstr ""
+
+#: admin/customizer-options.php:4538
+msgid "Caption Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:4539
+msgid "Set font color for slides caption."
+msgstr ""
+
+#: admin/customizer-options.php:4548
+msgid "Caption Heading h1-h6 Font Color"
+msgstr ""
+
+#: admin/customizer-options.php:4549
+msgid "Set font color for headings in slides caption."
+msgstr ""
+
+#: admin/customizer-options.php:4557
+msgid "Caption Font Size"
+msgstr ""
+
+#: admin/customizer-options.php:4558
+msgid "Set font size for slides caption."
+msgstr ""
+
+#: admin/customizer-options.php:4568
+msgid "Caption Alignment"
+msgstr ""
+
+#: admin/customizer-options.php:4569
+msgid "Set alignment for slides caption."
+msgstr ""
+
+#: admin/customizer-options.php:4582
+msgid "404 Page"
+msgstr ""
+
+#: admin/customizer-options.php:4589
+msgid "404 Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:4590
+msgid "Insert title for 404 page."
+msgstr ""
+
+#: admin/customizer-options.php:4600
+msgid "404 Page Content"
+msgstr ""
+
+#: admin/customizer-options.php:4601
+msgid "Insert content for 404 page."
+msgstr ""
+
+#: admin/customizer-options.php:4611
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/customizer-options.php:4612
+msgid "Select siderbar positions for 404 page."
+msgstr ""
+
+#: admin/customizer-options.php:4630 admin/customizer-options.php:4638
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/customizer-options.php:4639
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No comment"
+msgstr ""
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+msgid "You can "
+msgstr ""
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:12
+msgid " or "
+msgstr ""
+
+#: comments.php:12
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+msgid "this post."
+msgstr ""
+
+#: comments.php:23
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:61
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:61
+msgid "Email address is required."
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:69
+msgid "Message"
+msgstr ""
+
+#: comments.php:73
+msgid "Name"
+msgstr ""
+
+#: comments.php:77
+msgid "Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Website"
+msgstr ""
+
+#: content-article.php:31 content-article2.php:32 content-article3.php:42
+#: content.php:37 template-blog4.php:108
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-single.php:59
+msgid "About the author"
+msgstr ""
+
+#: content-single.php:83
+msgid "Related Posts"
+msgstr ""
+
+#: footer.php:41
+#, php-format
+msgid ""
+"Powered by <a href=\"%s\" target=\"_blank\">WordPress</a>. Designed by <a "
+"href=\"%s\" target=\"_blank\">Magee Themes</a>."
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:71
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:72
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:73
+msgid "Custom Menu 1"
+msgstr ""
+
+#: functions.php:74
+msgid "Custom Menu 2"
+msgstr ""
+
+#: functions.php:75
+msgid "Custom Menu 3"
+msgstr ""
+
+#: functions.php:76
+msgid "Custom Menu 4"
+msgstr ""
+
+#: functions.php:77
+msgid "Custom Menu 5"
+msgstr ""
+
+#: functions.php:78
+msgid "Custom Menu 6"
+msgstr ""
+
+#: functions.php:1211
+msgid "Magee Shortcodes"
+msgstr ""
+
+#: functions.php:1240 inc/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1241 inc/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1242 inc/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1243 inc/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1254 inc/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1255 inc/class-tgm-plugin-activation.php:367
+#: inc/class-tgm-plugin-activation.php:2955
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1256
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header-template/header-0.php:95 header-template/header-0.php:132
+#: header-template/header-1.php:99 header-template/header-1.php:141
+msgid "Toggle navigation"
+msgstr ""
+
+#: home-sections/style-0/section-news.php:69
+#: home-sections/style-1/section-news.php:70
+#: home-sections/style-2/section-news.php:70 inc/template-tags.php:114
+msgid "<i class=\"fa fa-comment\"></i> 1 "
+msgstr ""
+
+#: home-sections/style-0/section-news.php:69
+#: home-sections/style-1/section-news.php:70
+#: home-sections/style-2/section-news.php:70 inc/template-tags.php:114
+msgid "<i class=\"fa fa-comment\"></i> % "
+msgstr ""
+
+#: inc/breadcrumbs.php:147
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:148
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:149
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:150
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:152
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumbs.php:154
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:156
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:158
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:907 inc/breadcrumbs.php:933 inc/breadcrumbs.php:945
+#: inc/breadcrumbs.php:967
+msgid "Edit"
+msgstr ""
+
+#: inc/breadcrumbs.php:927
+msgid "Split"
+msgstr ""
+
+#: inc/breadcrumbs.php:930
+msgid "Merge"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:603
+msgid "The \"tgmpa_admin_menu_use_add_theme_page\" filter"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2118
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2121
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2137
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2140
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2143
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2160
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2164
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2166
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2175
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2178
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2338
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2350
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2373
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2389
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2393
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2394
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2560
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2563
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2594
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2954
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3284
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3287
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3291
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3292
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3293
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3297
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3299
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/extras.php:48
+msgid "Untitled"
+msgstr ""
+
+#: inc/extras.php:82
+msgid "Page: "
+msgstr ""
+
+#: inc/extras.php:99
+msgid ""
+"This post is password protected. To read it please enter the password below."
+msgstr ""
+
+#: inc/extras.php:109 inc/metabox-options.php:240
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/extras.php:110
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/extras.php:111
+msgid "Sidebar 1"
+msgstr ""
+
+#: inc/extras.php:112
+msgid "Sidebar 2"
+msgstr ""
+
+#: inc/extras.php:113
+msgid "Sidebar 3"
+msgstr ""
+
+#: inc/extras.php:114
+msgid "Sidebar 4"
+msgstr ""
+
+#: inc/extras.php:115 inc/extras.php:116
+msgid "Sidebar 5"
+msgstr ""
+
+#: inc/extras.php:117
+msgid "Sidebar 6"
+msgstr ""
+
+#: inc/extras.php:118
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/extras.php:119
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/extras.php:120
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/extras.php:121
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/extras.php:122
+msgid "404 Page Left Sidebar"
+msgstr ""
+
+#: inc/extras.php:123
+msgid "404 Page Right Sidebar"
+msgstr ""
+
+#: inc/extras.php:190 inc/extras.php:252
+msgid "No Comments"
+msgstr ""
+
+#: inc/extras.php:191 inc/extras.php:254
+msgid "1 Comment"
+msgstr ""
+
+#: inc/extras.php:192 inc/extras.php:250
+msgid "% Comments"
+msgstr ""
+
+#: inc/extras.php:193
+msgid "Comments Off"
+msgstr ""
+
+#: inc/extras.php:233
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: inc/extras.php:487 inc/extras.php:512
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: inc/extras.php:488 inc/extras.php:513
+msgid "All posts loaded."
+msgstr ""
+
+#: inc/metabox-options.php:35
+msgid "Alchem Metabox Options"
+msgstr ""
+
+#: inc/metabox-options.php:47
+msgid "Select a slider"
+msgstr ""
+
+#: inc/metabox-options.php:198
+msgid "Content Full Width"
+msgstr ""
+
+#: inc/metabox-options.php:207
+msgid "Padding Top"
+msgstr ""
+
+#: inc/metabox-options.php:213
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/metabox-options.php:228
+msgid "Select Nav Menu"
+msgstr ""
+
+#: inc/metabox-options.php:237
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metabox-options.php:243
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/metabox-options.php:248
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: inc/metabox-options.php:257
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: inc/metabox-options.php:267
+msgid "Slider Banner"
+msgstr ""
+
+#: inc/metabox-options.php:270
+msgid "Disable"
+msgstr ""
+
+#: inc/metabox-options.php:271
+msgid "Magee Slider"
+msgstr ""
+
+#: inc/metabox-options.php:275
+msgid "Banner Position"
+msgstr ""
+
+#: inc/metabox-options.php:278
+msgid "Below Header"
+msgstr ""
+
+#: inc/metabox-options.php:279
+msgid "Above Header"
+msgstr ""
+
+#: inc/metabox-options.php:284
+msgid "Select Magee Slider"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid " Prev"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Next "
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Last"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:184
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search.php:36
+msgid "Currently browsing"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search..."
+msgstr ""

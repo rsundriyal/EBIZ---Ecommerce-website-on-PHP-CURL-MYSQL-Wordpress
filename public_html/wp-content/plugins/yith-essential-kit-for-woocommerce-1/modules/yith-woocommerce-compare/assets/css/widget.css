@@ -1,0 +1,31 @@
+.yith-woocompare-widget ul.products-list a.remove {
+    border-radius: 100% 100% 100% 100%;
+    color: red;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 600;
+    height: 1em;
+    line-height: 0.81em;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 0.5em;
+    width: 1em;
+}
+
+.yith-woocompare-widget ul.products-list a.remove {
+    float: right;
+}
+
+.yith-woocompare-widget ul.products-list a.remove:hover {
+    background-color: red;
+    color: #ffffff;
+}
+
+.yith-woocompare-widget ul.products-list li a.title {
+    display: inline-block;
+    width: 90%;
+}
+
+.yith-woocompare-widget a.compare {
+    float: right;
+}

@@ -1,0 +1,44 @@
+Model Description MSRP*
+PS10ce	 Dreadnought	 $9,318
+PS12ce	 Grand Concert	 $9,318
+PS14ce	 Grand Auditorium	 $9,318
+PS16ce	 Grand Symphony	 $9,318
+PS56ce	 12-String Grand Symphony	 $9,458
+PS18e	 Grand Orchestra	 $9,158
+Model Description MSRP
+K22ce	 Grand Concert	 $5,458
+K24ce	 Grand Auditorium	 $5,458
+K26ce	 Grand Symphony	 $5,458
+K66ce	 12-String Grand Symphony	 $5,598
+K28e	 Grand Orchestra	 $5,198
+Model Description MSRP
+910ce*	 Dreadnought $5,978
+910e*	 Dreadnought $5,718
+912ce*	 Grand Concert $5,978
+912e*	 Grand Concert $5,718
+914ce*	 Grand Auditorium $5,978
+914e*	 Grand Auditorium $5,718
+914ce-N  Nylon-String Grand Auditorium $5,978
+916ce*	 Grand Symphony $5,978
+916e*	 Grand Symphony	 $5,718
+956ce*	 12-String Grand Symphony $6,118
+956e*	 12-String Grand Symphony $5,858
+Model    Description MSRP
+810ce	 Dreadnought	 $4,498
+810e	 Dreadnought	 $4,238
+810	 Dreadnought	 $3,838
+812ce	 Grand Concert	 $4,498
+812e	 Grand Concert	 $4,238
+812	 Grand Concert	 $3,838
+812ce-N	 Nylon-String Grand Concert	 $4,498
+812ce 12-Fret	 12-Fret Grand Concert	 $4,698
+812e 12-Fret	 12-Fret Grand Concert	 $4,438
+814ce	 Grand Auditorium	 $4,498
+814e	 Grand Auditorium	 $4,238
+814	 Grand Auditorium	 $3,838
+814ce-N	 Nylon-String Grand Auditorium	 $4,498
+816ce	 Grand Symphony	 $4,498
+816e	 Grand Symphony	 $4,238
+816	 Grand Symphony	 $3,838
+856ce	 12-String Grand Symphony	 $4,638
+818e	 Grand Orchestra	 $4,238

@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Tab Manager\n"
+"POT-Creation-Date: 2016-01-05 11:28+0100\n"
+"PO-Revision-Date: 2016-01-05 11:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;_n_noop:1,2;_c,_nc:4c,1,2;"
+"_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:179
+#: ../includes/class.yith-woocommerce-tab-manager.php:232
+#: ../includes/metabox/tab-metabox.php:15
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:183
+#: ../includes/class.yith-woocommerce-tab-manager.php:235
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:188
+#: ../includes/class.yith-woocommerce-tab-manager.php:189
+#: ../includes/class.yith-woocommerce-tab-manager.php:334
+msgid "Tab Manager"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:273
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:292
+msgid "ywtm_tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:293
+msgid "Yith Tab Manager Description"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:332
+msgctxt "Post Type General Name"
+msgid "YITH WooCommerce Tab Manager"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:333
+msgctxt "Post Type Singular Name"
+msgid "Tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:335
+msgid "Parent Item:"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:336
+msgid "All Tabs"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:337
+msgid "View Tabs"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:338
+#: ../includes/class.yith-woocommerce-tab-manager.php:339
+msgid "Add New Tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:340
+msgid "Edit Tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:341
+msgid "Update Tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:342
+msgid "Search Tab"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:343
+msgid "Not found"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:344
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:364
+#: ../includes/class.yith-woocommerce-tab-manager.php:367
+#, php-format
+msgid "%s updated"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:365
+msgid "Custom field updated"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:366
+msgid "Custom field deleted"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:368
+#, php-format
+msgid "Tab restored to version %s"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:369
+#, php-format
+msgid "%s published"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:370
+#, php-format
+msgid "%s saved"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:371
+#, php-format
+msgid "%s submitted"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:372
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:373
+#, php-format
+msgid "%s draft updated"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:494
+msgid "Title"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:495
+msgid "Is Visible"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:496
+msgid "Tab Position"
+msgstr ""
+
+#: ../includes/class.yith-woocommerce-tab-manager.php:497
+msgid "Date"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:9
+msgid "Tab Settings"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:18
+msgid "Content Tab"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:23
+msgid "Enable Tab"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:24
+msgid "Show Tab in frontend"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:29
+msgid "Tab Priority"
+msgstr ""
+
+#: ../includes/metabox/tab-metabox.php:30
+msgid "The plugin tabs are displayed after the WooCommerce Tabs"
+msgstr ""
+
+#: ../init.php:47
+msgid ""
+"YITH WooCommerce Tab Manager is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:56
+msgid ""
+"You can't activate the free version of YITH WooCommerce Tab Manager while "
+"you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:19
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:22
+#: ../plugin-options/settings-options.php:30
+msgid "YITH WooCommerce Tab Manager"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:23
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:24
+msgid ""
+"Upgrade to the PREMIUM VERSION\n"
+"of YITH WooCommerce Tab Manager to benefit from all features!"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:32
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:33
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:43
+msgid "General settings"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:49
+msgid "Enable plugin"
+msgstr ""
+
+#: ../templates/admin/premium.php:198 ../templates/admin/premium.php:325
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Tab Manager%2$s "
+"to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:202 ../templates/admin/premium.php:329
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:203 ../templates/admin/premium.php:330
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:209
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:217
+msgid "Free tab sorting"
+msgstr ""
+
+#: ../templates/admin/premium.php:220
+#, php-format
+msgid ""
+"Enjoy creating unlimited tabs to add to your products and sort them in the "
+"way you think is the best\n"
+"                    one. To do that, take advantage of the innovation added "
+"in the premium version: %1$syou will not be\n"
+"                    forced to let your tabs appear after WooCommerce tabs"
+"%2$s, but it will be up to you to decide to display\n"
+"                    them before or after them. Finally, you are free to sort "
+"them!"
+msgstr ""
+
+#: ../templates/admin/premium.php:234
+msgid "An icon for each tab"
+msgstr ""
+
+#: ../templates/admin/premium.php:237
+#, php-format
+msgid ""
+"Placing an icon next to the name of each tab is a wonderful way to give "
+"style to your tab. You’ll\n"
+"                    have a %1$swide selection of icons%2$s (Font Awesome and "
+"Font Retina) put at your disposal, but if you want\n"
+"                    even more, you can upload your own icon and preview it "
+"before publishing it."
+msgstr ""
+
+#: ../templates/admin/premium.php:256
+msgid "Tab type"
+msgstr ""
+
+#: ../templates/admin/premium.php:259
+#, php-format
+msgid ""
+"Not all tabs are meant to be associated to all products indiscriminately. "
+"Choose your tab type among\n"
+"                    %1$s“global”, “category”%2$s and %1$s“product”%2$s and "
+"associate the tab either to all products, as set by default,\n"
+"                    to all products belonging to one or more categories or "
+"to one or more specific products."
+msgstr ""
+
+#: ../templates/admin/premium.php:272
+msgid "Custom tab for each product"
+msgstr ""
+
+#: ../templates/admin/premium.php:275
+#, php-format
+msgid ""
+"Do you want a tab with a %1$sdifferent content%2$s for each product? You can "
+"have it!%3$s A specific option of\n"
+"                    this plugin allows you to change the content according "
+"to the product and directly from its page in\n"
+"                    WooCommerce for a quick and simple management."
+msgstr ""
+
+#: ../templates/admin/premium.php:293
+msgid "8 tab layouts available"
+msgstr ""
+
+#: ../templates/admin/premium.php:296
+#, php-format
+msgid ""
+"One would say “... and you name it!”%1$s\n"
+"                    %2$sEight different layouts%3$s will allow you to create "
+"unlimited tabs with different contents, which is\n"
+"                    not just text. You can add image or video galleries, "
+"contact forms, maps, F.A.Q.s, files available\n"
+"                    for download or set the tab so that you can add whatever "
+"shortcode you need.\n"
+"                    %2$sYou do not need anything more to achieve the best "
+"results!%3$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:310
+msgid "WooCommerce tabs"
+msgstr ""
+
+#: ../templates/admin/premium.php:313
+#, php-format
+msgid ""
+"Edit or remove %1$s\"Reviews\"%2$s and %1$s\"Description\"%2$s tabs that "
+"WooCommerce adds defaultly in every product of the shop. In this way, you "
+"will have the full control of every detail of the pages, shaping them as you "
+"want."
+msgstr ""

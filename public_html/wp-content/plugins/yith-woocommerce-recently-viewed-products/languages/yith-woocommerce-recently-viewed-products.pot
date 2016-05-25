@@ -1,0 +1,231 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Recently Viewed Products\n"
+"POT-Creation-Date: 2015-10-13 17:25+0200\n"
+"PO-Revision-Date: 2015-04-21 10:16+0100\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wrvp-admin.php:122
+#: ../includes/class.yith-wrvp-admin.php:146
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-wrvp-admin.php:124
+#: ../includes/class.yith-wrvp-admin.php:150
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-wrvp-admin.php:156
+#: ../includes/class.yith-wrvp-admin.php:157
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: ../includes/class.yith-wrvp-admin.php:211
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Recently Viewed Products is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Recently Viewed "
+"Products while you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/general-options.php:11
+msgid "General Options"
+msgstr ""
+
+#: ../plugin-options/general-options.php:19
+msgid "Section title"
+msgstr ""
+
+#: ../plugin-options/general-options.php:20
+msgid "The title of the plugin section in single product page"
+msgstr ""
+
+#: ../plugin-options/general-options.php:22
+msgid "You may be interested in:"
+msgstr ""
+
+#: ../plugin-options/general-options.php:28
+msgid "Set cookie time"
+msgstr ""
+
+#: ../plugin-options/general-options.php:29
+msgid ""
+"Set the duration (days) of the cookie that tracks customer viewed products."
+msgstr ""
+
+#: ../plugin-options/general-options.php:36
+msgid "Set number of products"
+msgstr ""
+
+#: ../plugin-options/general-options.php:37
+msgid ""
+"Set how many products to show in plugin section (set -1 to display all)."
+msgstr ""
+
+#: ../plugin-options/general-options.php:47
+msgid "Hide out-of-stock products"
+msgstr ""
+
+#: ../plugin-options/general-options.php:48
+msgid "Choose whether to exclude products that are out-of-stock"
+msgstr ""
+
+#: ../templates/admin/premium.php:226 ../templates/admin/premium.php:371
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Recently Viewed "
+"Products%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:229 ../templates/admin/premium.php:374
+msgid "UPGRADE"
+msgstr ""
+
+#: ../templates/admin/premium.php:230 ../templates/admin/premium.php:375
+msgid "to the premium version"
+msgstr ""
+
+#: ../templates/admin/premium.php:236
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:244
+msgid "Recently viewed products"
+msgstr ""
+
+#: ../templates/admin/premium.php:247
+#, php-format
+msgid ""
+"The page %1$s\"Recently viewed\"%2$s aims at improving the experience of "
+"users who browse the pages of your shop and shows all products that have "
+"been recently viewed in one page only. With one move, so, users will be "
+"able to get an overview on viewed products and to go back to the one that "
+"has drawn their attention."
+msgstr ""
+
+#: ../templates/admin/premium.php:257
+msgid "Rules for product display"
+msgstr ""
+
+#: ../templates/admin/premium.php:260
+#, php-format
+msgid ""
+"The aim of the plugin is to highlight some of the products in the shop in "
+"product detail page and in the page \"Recently Viewed\", according to "
+"specific selection criteria. In plugin option panel you can choose if you "
+"want to display only products %1$srecently viewed%2$s by users or add also "
+"products that belong to the same %1$scategories%2$s or have the same "
+"%1$stags%2$s as the recently viewed ones."
+msgstr ""
+
+#: ../templates/admin/premium.php:263
+#, php-format
+msgid ""
+"For an even more accurate selection, you can %1$shide products that have "
+"already been purchased%2$s and show also, among recently viewed products, "
+"all those items belonging to most visited categories."
+msgstr ""
+
+#: ../templates/admin/premium.php:279
+msgid "Display in slider"
+msgstr ""
+
+#: ../templates/admin/premium.php:282
+#, php-format
+msgid ""
+"A slider allows you to make your pages more dynamic and to show contents "
+"in a better way, especially when elements shown are not just a few. "
+"Moreover, it is %1$stouch-frienldy%2$s: an extra touch for displaying of "
+"products you want to suggest to your users."
+msgstr ""
+
+#: ../templates/admin/premium.php:292
+msgid "Email sending"
+msgstr ""
+
+#: ../templates/admin/premium.php:295
+#, php-format
+msgid ""
+"Do not lose grasp of those who were interested in your products: write a "
+"%1$scustom email%2$s that will be sent after a specific number of days "
+"since their last access in your shop and choose the products you want to "
+"suggest them. Statistics prove, in fact, that a well-structured email can "
+"bring new sales to your store."
+msgstr ""
+
+#: ../templates/admin/premium.php:311
+msgid "Coupons"
+msgstr ""
+
+#: ../templates/admin/premium.php:314
+#, php-format
+msgid ""
+"Who wouldn’t be happy to %1$sreceive a discount coupon%2$s for a future "
+"purchase? The plugin gives you the possibility to offer a coupon to your "
+"customers and attach it to the email you send to them: the coupon will be "
+"applied to the first item listed among products suggested in the email "
+"message."
+msgstr ""
+
+#: ../templates/admin/premium.php:324
+msgid "Dynamic custom shortcodes"
+msgstr ""
+
+#: ../templates/admin/premium.php:327
+#, php-format
+msgid ""
+"One of the biggest news in the premium version of the plugin is the "
+"possibility to create dynamically %1$sunlimited shortcodes for recently "
+"viewed and suggested products%2$s of your shop from plugin option panel."
+"%3$sConfigure custom attributes for your shortcodes and then paste the "
+"shortcode into your pages. Easy, isn’t it?"
+msgstr ""
+
+#: ../templates/admin/premium.php:343
+msgid "Widget"
+msgstr ""
+
+#: ../templates/admin/premium.php:346
+#, php-format
+msgid ""
+"Enrich your shop sidebars with the widget %1$s\"YITH WooCommerce Recently "
+"Viewed Products\"%2$s, so that you can show suggested products also in "
+"that part of the page that most catches users’ eye. "
+msgstr ""
+
+#: ../templates/admin/premium.php:356
+msgid "Product list "
+msgstr ""
+
+#: ../templates/admin/premium.php:359
+#, php-format
+msgid ""
+"Manage information in a slightly different way with the premium version of "
+"the plugin: data are no longer saved only in cookies, but, if users log "
+"in, information about their previous searches will be stored in your "
+"%1$ssite database%2$s. %3$sThis means that the list of recently viewed "
+"products shown to users will be updated in a more realistic way, even if "
+"they access from a different browser!"
+msgstr ""

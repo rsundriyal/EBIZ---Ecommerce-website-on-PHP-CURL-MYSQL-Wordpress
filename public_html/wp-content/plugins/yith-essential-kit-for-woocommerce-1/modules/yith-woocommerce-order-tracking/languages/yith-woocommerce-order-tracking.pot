@@ -1,0 +1,300 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Order Tracking\n"
+"POT-Creation-Date: 2016-05-04 10:47+0200\n"
+"PO-Revision-Date: 2015-03-04 14:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: class.yith-woocommerce-order-tracking.php:420
+msgid "General"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:424
+msgid "Carriers"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:426
+#: class.yith-woocommerce-order-tracking.php:487
+msgid "Premium Version"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:484
+msgid "Settings"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:512
+msgid "Plugin Documentation"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:525
+msgid ""
+"YITH WooCommerce Order Tracking is available in an outstanding PREMIUM "
+"version with many new options, discover it now."
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:526
+msgid "Premium version"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:533
+#: plugin-options/general-options.php:78
+msgid "YITH WooCommerce Order Tracking"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:534
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Advanced Reviews options. "
+"From this menu you can access all settings of YITH plugins activated."
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:569
+msgid "Order tracking"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:596
+msgid "Tracking code:"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:599
+msgid "Enter tracking code"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:605
+msgid "Carrier name:"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:608
+msgid "Enter carrier name"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:614
+msgid "Pickup date:"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:618
+msgid "Enter pick up date"
+msgstr ""
+
+#: class.yith-woocommerce-order-tracking.php:625
+msgid "Order picked up"
+msgstr ""
+
+#: init.php:43
+msgid ""
+"YITH WooCommerce Order Tracking is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:51
+msgid ""
+"You can't activate the free version of YITH WooCommerce Order Tracking while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/general-options.php:19 plugin-options/general-options.php:27
+msgid "Default carrier name"
+msgstr ""
+
+#: plugin-options/general-options.php:22
+msgid ""
+"  To display the list of carriers, you have to select them first from the "
+"specific \"Carriers\" tab that you can find in the top part of the screen."
+msgstr ""
+
+#: plugin-options/general-options.php:38
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/general-options.php:44
+msgid "Text in the Orders page"
+msgstr ""
+
+#: plugin-options/general-options.php:47
+msgid ""
+"Your order has been picked up by [carrier_name] on [pickup_date]. Your track "
+"code is [track_code]."
+msgstr ""
+
+#: plugin-options/general-options.php:48
+msgid ""
+"This is the text showed in Order details page. You can customize the text "
+"using the following 3 placeholders, representing real shipping information."
+msgstr ""
+
+#: plugin-options/general-options.php:52
+msgid "Position of the text in the Orders page"
+msgstr ""
+
+#: plugin-options/general-options.php:55
+msgid ""
+"Choose if tracking text have to be shown on top (before order product list) "
+"or on bottom (after product list)."
+msgstr ""
+
+#: plugin-options/general-options.php:57
+msgid "Show on top"
+msgstr ""
+
+#: plugin-options/general-options.php:58
+msgid "Show on bottom"
+msgstr ""
+
+#: plugin-options/general-options.php:75
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: plugin-options/general-options.php:79
+msgid "Discover Advanced Features"
+msgstr ""
+
+#: plugin-options/general-options.php:80
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE ORDER TRACKING to benefit "
+"from all features!"
+msgstr ""
+
+#: plugin-options/general-options.php:84
+msgid ""
+"See YITH WooCommerce Order tracking plugin with full premium features in "
+"action"
+msgstr ""
+
+#: plugin-options/general-options.php:86
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/general-options.php:87
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: templates/admin/premium.php:177 templates/admin/premium.php:290
+#, php-format
+msgid ""
+"Upgrade to the %1$spremium version%2$s of %1$sYITH WooCommerce Order Tracking"
+"%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:180 templates/admin/premium.php:293
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:181 templates/admin/premium.php:294
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:187
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:190 templates/admin/premium.php:195
+msgid "Carrier list"
+msgstr ""
+
+#: templates/admin/premium.php:199
+#, php-format
+msgid ""
+"You can choose among many logistics companies from a list that is always "
+"%1$supdated and expanded.%2$s From the %1$splugin options,%2$s activate only "
+"the carriers you support, and the others will be ignored. You can always "
+"%1$sadd or remove%2$s some of them when you want."
+msgstr ""
+
+#: templates/admin/premium.php:209
+msgid "Default carrier"
+msgstr ""
+
+#: templates/admin/premium.php:212
+#, php-format
+msgid ""
+"Do you use a specific carrier frequently? Set it as %1$sdefault carrier:%2$s "
+"during the creation of a new order, the carrier will be set automatically "
+"without choosing from the list."
+msgstr ""
+
+#: templates/admin/premium.php:215
+msgid "Set a default carrier"
+msgstr ""
+
+#: templates/admin/premium.php:222
+msgid "TRACK THE ORDER DIRECTLY"
+msgstr ""
+
+#: templates/admin/premium.php:227
+msgid "Tracking"
+msgstr ""
+
+#: templates/admin/premium.php:230
+#, php-format
+msgid ""
+"Do you have a tracking code and you want to follow the delivery process? "
+"%1$sThe plugin generates dynamically an address to track your order from the "
+"site of the carrier.%2$s You can find the link everywhere: %1$sin the mail, "
+"in the order detail and in orders page.%2$s"
+msgstr ""
+
+#: templates/admin/premium.php:239
+msgid "EMAIL TEXT"
+msgstr ""
+
+#: templates/admin/premium.php:243
+#, php-format
+msgid ""
+"Customize the email that users %1$sreceive when orders are complete%2$s "
+"adding the picking up information."
+msgstr ""
+
+#: templates/admin/premium.php:246 templates/admin/premium.php:282
+msgid "Email text"
+msgstr ""
+
+#: templates/admin/premium.php:253 templates/admin/premium.php:258
+msgid "Csv Import"
+msgstr ""
+
+#: templates/admin/premium.php:262
+#, php-format
+msgid ""
+"You would like to switch to %1$sYITH Woocommerce Order Tracking%2$s, but you "
+"are afraid you might lose tracking data generated so far by a similar "
+"plugin? No problem, this will not happen."
+msgstr ""
+
+#: templates/admin/premium.php:265
+#, php-format
+msgid ""
+"Collect existing data in a CSV file and a simple upload will be enough to "
+"bring them back. Thanks to the %1$sadvanced import tool%2$s included in the "
+"plugin, none of your data will be lost and you’ll be able to enjoy YITH "
+"WooCommerce Order Tracking without any inconveniences.  "
+msgstr ""
+
+#: templates/admin/premium.php:275
+msgid "Completed order"
+msgstr ""
+
+#: templates/admin/premium.php:279
+#, php-format
+msgid ""
+"You inserted tracking data: do you consider the order as completed? Well, "
+"maybe the system could consider it in a different way, since it sees your "
+"order as still processing. %3$s No need to worry though. The plugin allows "
+"to automatize this action, by applying the %1$s\"Completed\" status soon "
+"after inserting tracking data%2$s."
+msgstr ""

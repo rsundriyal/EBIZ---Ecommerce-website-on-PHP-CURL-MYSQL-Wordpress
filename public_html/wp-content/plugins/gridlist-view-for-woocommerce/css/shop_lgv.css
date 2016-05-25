@@ -1,0 +1,246 @@
+.berocket_lgv_additional_data{
+    font-size: 19px;
+}
+.berocket_lgv_additional_data *{
+    font: inherit;
+}
+.berocket_lgv_additional_data .fa{
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+.berocket_lgv_additional_data p,
+.berocket_lgv_additional_data .lgv_link, 
+.berocket_lgv_additional_data .lgv_link_hover,
+.berocket_lgv_additional_data .lgv_link h3,
+.berocket_lgv_additional_data .lgv_link_hover h3,
+.berocket_lgv_additional_data .lgv_description,
+.berocket_lgv_additional_data .lgv_meta,
+.berocket_lgv_additional_data .lgv_price{
+    padding: 0;
+    margin: 0;
+}
+.berocket_lgv_additional_data .lgv_link, 
+.berocket_lgv_additional_data .lgv_link_hover{
+    color: #333333;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+.berocket_lgv_additional_data a{
+    text-decoration: none;
+    color: inherit;
+}
+.berocket_lgv_additional_data a:hover, 
+.berocket_lgv_additional_data a:focus {
+    color: rgba(51, 51, 51, 0.7);
+}
+.berocket_lgv_additional_data .lgv_link h3, 
+.berocket_lgv_additional_data .lgv_link_hover h3{
+    color: inherit;
+    font: inherit;
+    line-height: inherit;
+}
+.berocket_lgv_additional_data .lgv_description,
+.berocket_lgv_additional_data .lgv_meta{
+    font-size: 0.85em;
+    line-height: 1.1em;
+    color: #333333;
+}
+.berocket_lgv_additional_data .lgv_price{
+    font-size: 0.85em;
+    line-height: 1.1em;
+    color: #77a464;
+}
+
+.berocket_lgv_grid .berocket_lgv_additional_data,
+.berocket_lgv_grid .berocket_lgv_additional_data{
+    display: none;
+}
+.berocket_lgv_after_additional{
+    display: block;
+    clear: both;
+    height: 10px;
+}
+.berocket_lgv_additional_data{
+    display: block;
+    line-height: 1em;
+    clear: none;
+    float: left;
+    max-width: 60%;
+    width: initial;
+    text-align: initial;
+    letter-spacing: initial;
+}
+.berocket_lgv_additional_data h3{
+    clear: none;
+}
+.woocommerce ul.products .product.berocket_lgv_list:nth-child(n),
+.woocommerce-page ul.products .product.berocket_lgv_list:nth-child(n){
+    float: left;
+    margin: 0;
+    margin-right: 10px;
+}
+.woocommerce ul.products .product.berocket_lgv_list > a img.
+.woocommerce-page ul.products .product.berocket_lgv_list > a img,
+.woocommerce ul.products .product.berocket_lgv_list p,
+.woocommerce-page ul.products .product.berocket_lgv_list p{
+    margin: 0;
+}
+.woocommerce ul.products .product.berocket_lgv_list div,
+.woocommerce-page ul.products .product.berocket_lgv_list div{
+    margin-bottom: 5px;
+}
+.woocommerce ul.products .product.berocket_lgv_list h1,
+.woocommerce-page ul.products .product.berocket_lgv_list h1,
+.woocommerce ul.products .product.berocket_lgv_list h2,
+.woocommerce-page ul.products .product.berocket_lgv_list h2,
+.woocommerce ul.products .product.berocket_lgv_list h3,
+.woocommerce-page ul.products .product.berocket_lgv_list h3,
+.woocommerce ul.products .product.berocket_lgv_list h4,
+.woocommerce-page ul.products .product.berocket_lgv_list h4,
+.woocommerce ul.products .product.berocket_lgv_list h5,
+.woocommerce-page ul.products .product.berocket_lgv_list h5,
+.woocommerce ul.products .product.berocket_lgv_list h6,
+.woocommerce-page ul.products .product.berocket_lgv_list h6,
+.woocommerce ul.products .product.berocket_lgv_list .price,
+.woocommerce-page ul.products .product.berocket_lgv_list .price,
+.woocommerce-page ul.products li.berocket_lgv_list_grid.product.berocket_lgv_list .price{
+    display: none;
+}
+a.berocket_lgv_button, .berocket_lgv_widget a.berocket_lgv_button, a.berocket_lgv_button_test, .lgv_admin_settings .lgv_toggle_next {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px #ddd inset, 0 1px 1px #fff;
+    border: 0 solid black;
+    background: #dcdcdc linear-gradient(#fff, #dcdcdc);
+    transition: all 0.1s linear;
+}
+a.berocket_lgv_button .fa, .berocket_lgv_widget a.berocket_lgv_button .fa, a.berocket_lgv_button_test .fa, .lgv_admin_settings .lgv_toggle_next .fa{
+    line-height: inherit;
+}
+.berocket_lgv_widget a.berocket_lgv_button:hover, 
+a.berocket_lgv_button_test.hover, 
+.lgv_admin_settings .lgv_toggle_next:hover {
+    background: #dcdcdc linear-gradient(#dcdcdc, #fff);
+}
+.berocket_lgv_widget a.berocket_lgv_button.selected, 
+a.berocket_lgv_button_test.selected, 
+.lgv_admin_settings .lgv_toggle_next:active {
+    background: #dcdcdc linear-gradient(#dcdcdc, #fff);
+    box-shadow: 0 0 0 1px #bbb inset, 0 1px 3px rgba(0,0,0,.5) inset, 0 1px 2px #fff;
+}
+.br_lgv_product_count_block a, 
+.br_lgv_product_count_block span{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    line-height: 1.2em;
+    text-align: center;
+    border: 0 solid black;
+}
+.br_lgv_product_count_block a{
+    color: #0073aa;
+    width: initial;
+}
+.br_lgv_product_count_block a:hover{
+    color: #30a3da;
+}
+.br_lgv_product_count_block a.selected{
+    color: #333;
+}
+.berocket_lgv_widget .br_lgv_product_count_block{
+    display: inline-block;
+}
+.lgv_img_advanced{
+    width: 24%;
+    margin: 0 ;
+    float: left;
+    box-sizing: border-box;
+}
+.lgv_img_advanced a{
+    display: block;
+}
+.lgv_img_advanced a img{
+    width: 100%;
+    height: initial;
+}
+.berocket_lgv_list.berocket_lgv_advanced{
+    display: none!important;
+}
+.woocommerce ul.products .berocket_lgv_additional_data .add_to_cart_button,
+.berocket_lgv_additional_data .add_to_cart_button,
+.berocket_lgv_additional_data .out_of_stock_button{
+    width: 100%;
+    text-align: center;
+    background-color: #ebe9eb;
+    border: 0px solid black;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #515151;
+    cursor: pointer;
+    display: inline-block;
+    font-family: inherit;
+    font-size: 100%;
+    box-sizing: border-box;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0.618em 0em;
+    position: relative;
+    text-decoration: none;
+    text-shadow: none;
+    white-space: nowrap;
+    height: initial;
+    clear: none;
+}
+.berocket_lgv_additional_data span.out_of_stock_button{
+    cursor: initial;
+    white-space: normal;
+}
+.woocommerce ul.products .berocket_lgv_additional_data .add_to_cart_button:hover,
+.berocket_lgv_additional_data .add_to_cart_button:hover{
+    background-color: #dad8da;
+}
+.berocket_lgv_additional_data .lgv_img_advanced{
+    position: relative;
+}
+.berocket_lgv_additional_data .lgv_pos_inside_img,
+.berocket_lgv_additional_data .lgv_out_of_stock_inside_img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.2s linear;
+}
+.berocket_lgv_additional_data span.out_of_stock_button.lgv_out_of_stock_inside_img{
+    cursor: pointer;
+}
+.berocket_lgv_additional_data .lgv_pos_inside_img *{
+    display: block;
+}
+.berocket_lgv_additional_data .lgv_img_advanced:hover .lgv_pos_inside_img,
+.berocket_lgv_additional_data .lgv_img_advanced:hover .lgv_out_of_stock_inside_img{
+    opacity: 1;
+}
+.berocket_lgv_additional_data.lgv_advanced{
+    max-width: 100%;
+    width: 100%;
+}
+.berocket_lgv_additional_data .lgv_addtocart_advanced{
+    box-sizing: border-box;
+    display: inline-block;
+}
+.lgv_text_div_advanced{
+    padding-left: 0.5em;
+}

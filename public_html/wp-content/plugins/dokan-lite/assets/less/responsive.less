@@ -1,0 +1,147 @@
+/*--------------------------------------------------
+:: Responsive Styles
+-------------------------------------------------- */
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+    .dokan-primary {
+        width: 100% !important;
+        padding-left: 15px;
+        padding-right: 15px;
+        li.product {
+            width: 100% !important;
+        }
+    }
+    .dokan-secondary {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .dokan-dashboard {
+        .dokan-dash-sidebar,
+        .dokan-dashboard-content {
+            float: none;
+            width: 100%;
+        }
+
+        .dokan-dash-sidebar ul.dokan-dashboard-menu li {
+            display: inline-block;
+            border-right: 1px solid #454545;
+
+            &.active:after {
+                content: '';
+                display: none;
+            }
+
+            a {
+                padding: 12px 24px;
+            }
+        }
+
+        .dokan-dashboard-content {
+            padding-left: 0;
+        }
+    }
+
+    // store page
+    .dokan-single-store .profile-frame .profile-info-box {
+        width: 60%;
+    }
+
+    ul.dokan-seller-wrap {
+        text-align: center;
+        li.dokan-single-seller {
+            width: 90% !important;
+            margin-bottom: 50px;
+        }
+    }
+}
+
+@media (max-width: 430px) {
+    .dokan-dashboard {
+        .dokan-dash-sidebar,
+        .dokan-dashboard-content {
+            float: none;
+            width: 100%;
+        }
+        
+        .dashboard-content-area {
+            .dokan-announcement-widget {
+                .dokan-right {
+                    float: right !important; 
+                } 
+                .dokan-left {
+                    float: left !important;
+                }
+            }
+        }
+
+        .dokan-dash-sidebar ul.dokan-dashboard-menu {
+            .clearfix();
+
+            li {
+                float: left;
+                width: 50%;
+
+                a {
+                    padding: 12px 18px;
+                }
+            }
+        }
+
+        // product listing
+        .dokan-product-listing .dokan-product-listing-area {
+            .product-listing-top ul.dokan-listing-filter {
+                width: 100%;
+            }
+        }
+
+        .dokan-right,
+        .dokan-left {
+            float: none !important;
+        }
+
+        .dokan-w6, .dokan-w8, .dokan-w4 {
+            float: none;
+            width: 100%;
+        }
+
+        //reports
+        .dokan-reports-content .dokan-reports-area .dokan-reports-wrap {
+            .report-left,
+            .report-right {
+                width: 100%;
+            }
+        }
+
+        // product edit
+        .dokan-product-edit-area {
+            .dokan-product-edit-left,
+            .dokan-product-edit-right {
+                float: none;
+                width: 100%;
+            }
+        }
+
+        .content-half-part {
+            float: none;
+            width: 100%;
+        }
+
+        ul.dokan_tabs {
+            padding-left: 0;
+            margin-right: 0;
+
+            li {
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    // store page
+    .dokan-single-store .profile-frame .profile-info-box {
+        width: 100%;
+    }
+}

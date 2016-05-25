@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Stripe\n"
+"POT-Creation-Date: 2015-04-21 10:24+0100\n"
+"PO-Revision-Date: 2015-04-21 10:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class-yith-stripe-admin.php:72
+#: ../includes/class-yith-stripe-admin.php:165
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:76
+#: ../includes/class-yith-stripe-admin.php:168
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:82
+#: ../includes/class-yith-stripe-admin.php:83
+#: ../includes/class-yith-stripe-gateway.php:81
+msgid "Stripe"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:143
+msgid "Authorize & Capture status"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:145
+msgid "Captured"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:145
+msgid "Authorized only (not captured yet)"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:193
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:214
+#: ../includes/plugin-options/video-box.php:26
+#: ../includes/plugin-options/video-box.php:33
+msgid "YITH WooCommerce Stripe"
+msgstr ""
+
+#: ../includes/class-yith-stripe-admin.php:215
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Stripe options. From this "
+"menu you can access all settings of YITH plugins activated."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:82
+msgid ""
+"Take payments via Stripe - uses stripe.js to create card tokens and the "
+"Stripe SDK. Requires SSL when sandbox is disabled."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:137
+msgid "The card number is incorrect."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:138
+msgid "The card number is not a valid credit card number."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:139
+msgid "The card's expiration month is invalid."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:140
+msgid "The card's expiration year is invalid."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:141
+msgid "The card's security code is invalid."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:142
+msgid "The card has expired."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:143
+msgid "The card's security code is incorrect."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:144
+msgid "The card's zip code failed validation."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:145
+msgid "The card was declined."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:146
+msgid "There is no card on a customer that is being charged."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:147
+msgid "An error occurred while processing the card."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:148
+msgid ""
+"An error occurred due to requests hitting the API too quickly. Please let us "
+"know if you're consistently running into this error."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:163
+msgid "Stripe needs the CURL PHP extension."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:167
+msgid "Stripe needs the JSON PHP extension."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:171
+msgid "Stripe needs the Multibyte String PHP extension."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:175
+msgid "Please enter the public and private keys for Stripe gateway."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:179
+msgid ""
+"Stripe sandbox testing is disabled and can performe live transactions but "
+"the <a href=\"%s\">force SSL option</a> is disabled; your checkout is not "
+"secure! Please enable SSL and ensure your server has a valid SSL "
+"certificate. <a href=\"%\">Learn more</a>."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:212
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:214
+msgid "Enable Stripe Payment"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:218
+msgid "Title"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:220
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:221
+msgid "Credit Card"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:225
+msgid "Description"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:228
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:229
+msgid "Pay with a credit card."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:232
+msgid "Customization"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:234
+msgid "Customize the payment gateway on frontend"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:237
+msgid "Modal image"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:240
+msgid "Define the URL of image to show on Stripe checkout modal."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:244
+msgid "Testing & Debug"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:246
+msgid ""
+"Enable here the testing mode, to debug the payment system before going into "
+"production"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:249
+msgid "Enable Test Mode"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:251
+msgid ""
+"Check this option if you want to test the gateway before going into "
+"production"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:255
+msgid "API Keys"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:257
+#, php-format
+msgid "You can find it in <a href=\"%s\">your stripe dashboard</a>"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:260
+msgid "Test Secret Key"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:262
+msgid "Set the secret API key for test"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:267
+msgid "Test Publishable Key"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:269
+msgid "Set the published API key for test"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:274
+msgid "Live Secret Key"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:276
+msgid "Set the secret API key for live production"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:281
+msgid "Live Publishable Key"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:283
+msgid "Set the published API key for live production"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:334
+#, php-format
+msgid "%s - Order %s"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:353
+#, php-format
+msgid "Stripe payment approved (ID: %s)"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:381
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:383
+msgid "Proceed to payment"
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:404
+msgid ""
+"Thank you for your order, please click the button below to pay with credit "
+"card using Stripe."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:443
+msgid "Payment was declined by Stripe."
+msgstr ""
+
+#: ../includes/class-yith-stripe-gateway.php:464
+#, php-format
+msgid "TEST MODE ENABLED. Use a test card: %s"
+msgstr ""
+
+#: ../includes/class-yith-stripe.php:178
+msgid "Stripe Credit Card Refund failed because the Transaction ID is missing."
+msgstr ""
+
+#: ../includes/class-yith-stripe.php:192
+msgid "Charge not captured."
+msgstr ""
+
+#: ../includes/plugin-options/video-box.php:23
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../includes/plugin-options/video-box.php:27
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: ../includes/plugin-options/video-box.php:28
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Stripe to benefit from "
+"all features!"
+msgstr ""
+
+#: ../includes/plugin-options/video-box.php:35
+#: ../includes/plugin-options/video-box.php:39
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../includes/plugin-options/video-box.php:36
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: ../init.php:44
+msgid ""
+"YITH WooCommerce Stripe Payment Gateway is enabled but not effective. It "
+"requires Woocommerce in order to work."
+msgstr ""
+
+#: ../init.php:57
+msgid ""
+"You can't activate the free version of YITH WooCommerce Stripe while you are "
+"using the premium one."
+msgstr ""
+
+#: ../templates/admin/settings-tab.php:21
+msgid "Save changes"
+msgstr ""

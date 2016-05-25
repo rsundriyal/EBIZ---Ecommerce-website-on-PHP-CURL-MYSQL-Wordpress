@@ -1,0 +1,233 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Ajax Search Free\n"
+"POT-Creation-Date: 2015-09-18 11:22+0200\n"
+"PO-Revision-Date: 2015-07-17 09:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wcas-admin.php:106 ../class.yith-wcas-admin.php:128
+msgid "Settings"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:107 ../class.yith-wcas-admin.php:129
+msgid "Premium Version"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:135 ../class.yith-wcas-admin.php:136
+msgid "Ajax Search"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:190
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:207 ../plugin-options/settings-options.php:24
+#: ../plugin-options/settings-options.php:31
+msgid "YITH WooCommerce Ajax Search"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:208
+msgid ""
+"In the YIT Plugin tab you can find the YITH WooCommerce Ajax Search "
+"options.\n"
+"With this menu, you can access to all the settings of our plugins that you "
+"have activated.\n"
+"YITH WooCommerce Ajax Search is available in an outstanding PREMIUM version "
+"with many new options, <a href=\""
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:221
+msgid "YITH WooCommerce Ajax Search Updated"
+msgstr ""
+
+#: ../class.yith-wcas-admin.php:222
+msgid ""
+"From now on, you can find all the options of YITH WooCommerce Ajax Search "
+"Updated under YIT Plugin -> Ajax Search instead of WooCommerce -> Settings -"
+"> Ajax Search, as in the previous version.\n"
+"When one of our plugins updates, a new voice will be added to this menu.\n"
+"YITH WooCommerce Ajax Search renovates with new available options, discover "
+"the <a href=\""
+msgstr ""
+
+#: ../class.yith-wcas.php:175
+msgid "No results"
+msgstr ""
+
+#: ../init.php:40
+msgid ""
+"You can't activate the free version of YITH WooCommerce Ajax Search while "
+"you are using the premium one."
+msgstr ""
+
+#: ../init.php:104
+msgid ""
+"YITH WooCommerce Ajax Search is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:21
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:25
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:26
+msgid ""
+"Upgrade to the PREMIUM VERSION\n"
+"of YITH WOOCOMMERCE AJAX SEARCH to benefit from all features!"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:33
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:34
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:44
+msgid "General settings"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:53
+msgid "Search input label"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:55
+#: ../plugin-options/settings-options.php:63
+msgid "Label for Search input field."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:57
+msgid "Search for products"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:61
+msgid "Search submit label"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:65
+msgid "Search"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:69
+msgid "Minimum number of characters"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:70
+msgid "Minimum number of characters required to trigger autosuggest."
+msgstr ""
+
+#: ../plugin-options/settings-options.php:83
+msgid "Maximum number of results"
+msgstr ""
+
+#: ../plugin-options/settings-options.php:84
+msgid "Maximum number of results showed within the autosuggest box."
+msgstr ""
+
+#: ../templates/admin/premium.php:251 ../templates/admin/premium.php:299
+#, php-format
+msgid ""
+"Upgrade to the %1$spremium version%2$s%3$s of %1$sYITH WooCommerce Ajax "
+"Search%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:253 ../templates/admin/premium.php:301
+#, php-format
+msgid "%1$sUPGRADE%2$s %3$sto the premium version%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:259
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:261
+msgid "HOW TO CUSTOMIZE THE RESULTS OF THE AUTOCOMPLETE"
+msgstr ""
+
+#: ../templates/admin/premium.php:263
+msgid "RESULTS OF THE AUTOCOMPLETE"
+msgstr ""
+
+#: ../templates/admin/premium.php:268
+#, php-format
+msgid "Show %1$sthe image%2$s of the product (left or right aligned)"
+msgstr ""
+
+#: ../templates/admin/premium.php:269
+#, php-format
+msgid "Enable the %1$sprice visualization%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:270
+#, php-format
+msgid "Show the %1$sproduct description%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:271
+#, php-format
+msgid "Tell to the client if the product is %1$son discount or is featured%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:279
+msgid "HOW TO CUSTOMIZE THE SEARCH OPTIONS"
+msgstr ""
+
+#: ../templates/admin/premium.php:283
+#, php-format
+msgid "%1$sExtend the research%2$s in the excerpt and in the content"
+msgstr ""
+
+#: ../templates/admin/premium.php:284
+#, php-format
+msgid "%1$sActivate%2$s the category search"
+msgstr ""
+
+#: ../templates/admin/premium.php:285
+#, php-format
+msgid "Configure the %1$stag%2$s search"
+msgstr ""
+
+#: ../templates/admin/premium.php:286
+#, php-format
+msgid "Search a product with an %1$sID%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:292
+msgid "SEARCH OPTIONS"
+msgstr ""
+
+#: ../templates/yith-woocommerce-ajax-search.php:18
+msgid "Search for:"
+msgstr ""
+
+#: ../widgets/class.yith-wcas-ajax-search.php:28
+msgid "An Ajax Search box for products only."
+msgstr ""
+
+#: ../widgets/class.yith-wcas-ajax-search.php:30
+msgid "YITH WooCommerce Ajax Product Search"
+msgstr ""
+
+#: ../widgets/class.yith-wcas-ajax-search.php:89
+msgid "Title:"
+msgstr ""

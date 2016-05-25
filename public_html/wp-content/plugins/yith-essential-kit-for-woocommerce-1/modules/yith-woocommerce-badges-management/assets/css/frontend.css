@@ -1,0 +1,85 @@
+/**
+ * Frontend style
+ *
+ * @author Leanza Francesco
+ * @version 1.0.0
+ */
+
+.yith-wcbm-badge {
+    position   : absolute;
+    box-sizing : border-box;
+    text-align : center;
+    z-index    : 10;
+}
+
+.yith-wcbm-badge img {
+    max-width  : 200px;
+    max-height : 200px;
+}
+
+p.yith-wcbm-badge-txt {
+    margin  : 0;
+    padding : 0;
+}
+
+.container-image-and-badge {
+    position    : relative;
+    display     : block;
+    text-indent : 0;
+}
+
+.yith-wcbm-badge img {
+    margin : 0 !important;
+}
+
+span.onsale {
+    z-index : 10;
+}
+
+/* ============================================================================================
+ *            T h e m e s  a n d   p l u g i n s    C o m p a t i b i l i t y
+ * ============================================================================================
+*/
+
+/* - - - hide badges on product thumbnails - - - - */
+.product-thumbnails .yith-wcbm-badge {
+    display : none !important;
+}
+
+/* - - - - - - F L A T S O M E - - - - - - */
+.iosSlider.product-thumbnails .yith-wcbm-badge {
+    display : none !important;
+}
+
+#mini-cart-content .container-image-and-badge .yith-wcbm-badge {
+    display : none !important;
+}
+
+#mini-cart-content .container-image-and-badge {
+    position : static !important;
+}
+
+/* ----- WISHLIST ----- */
+#yith-wcwl-form .yith-wcbm-badge {
+    display : none !important;
+}
+
+/* ---- FREQUENTLY BOUGHT TOGETHER --- */
+.yith-wfbt-section .yith-wcbm-badge, .yith-wfbt-form .yith-wcbm-badge{
+    display:none !important;
+}
+
+/*---- SAVE FOR LATER ---- */
+#ywsfl_container_list .yith-wcbm-badge {
+    display : none !important;
+}
+
+/* ---------- AJAX SEARCH ---------- */
+.yith-ajaxsearchform-container .yith-wcbm-badge {
+    display: none !important;
+}
+
+/* ---------- Product Bundles -------------- */
+.yith-wcpb-product-bundled-items .yith-wcbm-badge {
+    display: none !important;
+}

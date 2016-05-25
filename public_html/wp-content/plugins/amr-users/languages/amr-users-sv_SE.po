@@ -1,0 +1,2604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: amr users\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/amr-users\n"
+"POT-Creation-Date: 2014-04-22 07:38:47+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anna-marie <Redpath>\n"
+"Language-Team: Elger Lindgren <elger@bilddigital.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: amr-users.php:200
+msgid "Not logged in or no permission for non public user list"
+msgstr "Inte inloggad eller inget tillstånd för icke offentliga Användarlistor"
+
+#: amr-users.php:221
+msgid "Settings"
+msgstr "Inställningar"
+
+#: amr-users.php:232
+msgid "Update of User %s - user reporting cache update requested"
+msgstr ""
+"Uppdatering av användaren %s - cacheuppdatering krävs för användarrapport"
+
+#: amr-users.php:242
+msgid "Update of user meta record %s - user reporting cache update requested"
+msgstr ""
+"Uppdatering av användarmetadata %s - cacheuppdatering krävs för "
+"användarrapport"
+
+#: amr-users.php:254
+msgid "Report Cache has been scheduled."
+msgstr "Rapport-Cache har schemalagts."
+
+#: amr-users.php:255
+msgid "If you have a lot of records, it may take a while."
+msgstr "Om du har många poster kan det ta en stund."
+
+#: amr-users.php:256
+msgid ""
+"Please check the cache log - refresh for updates and do not reschedule until "
+"all the reports have completed. "
+msgstr ""
+"Kontrollera cache loggen - uppdatera för uppdateringar och schemalägg inte "
+"förrän alla rapporter har slutförts. "
+
+#: amr-users.php:257
+msgid ""
+"If you think it is taking too long, problems may be occuring in the "
+"background job, such as running out of memory.  Check server logs and/or "
+"Increase wordpress\\s php memory limit"
+msgstr ""
+"Om du tror att det tar för lång tid, kanske problem uppstår i bakgrunden-"
+"jobbet som t.ex slut på minne.  Kontrollera serverloggar och/eller öka "
+"wordpress\\s php minnesgräns"
+
+#: amr-users.php:258
+msgid ""
+"The cache status or the TPC Memory Usage plugin may be useful to assess this."
+msgstr ""
+"Cache status eller TPC Memory Usage plugin kan vara lämpligt att bedöma "
+"detta."
+
+#: amr-users.php:279 includes/ameta-admin.php:288
+msgid "Cache of %s already in progress"
+msgstr "Cache av %s pågår redan"
+
+#: amr-users.php:284 includes/ameta-admin.php:296
+msgid "Report "
+msgstr "Rapport "
+
+#: amr-users.php:290 amr-users.php:326
+msgid "Schedule background cacheing of report: %s"
+msgstr "Schemalägg bakgrundscachening av rapport: %s"
+
+#: amr-users.php:300
+msgid "Error: No stored options found."
+msgstr "Fel: Inga lagrade alternativ finns."
+
+#: amr-users.php:306
+msgid "Received background cache request for %s reports"
+msgstr "Erhöll bakgrundscache begäran för %s rapporter"
+
+#: amr-users.php:317
+msgid "All reports: "
+msgstr "Alla rapporter: "
+
+#: includes/ameta-admin-cache-settings.php:17
+msgid "Activated regular cacheing of lists: "
+msgstr "Aktiverad regelbundna cachening av listor: "
+
+#: includes/ameta-admin-cache-settings.php:19
+msgid "Next cache run on user change or soon after: "
+msgstr "Nästa cache körs vid användarändring eller strax efter: "
+
+#: includes/ameta-admin-cache-settings.php:34
+msgid "Deactivated any existing regular cacheing of lists"
+msgstr "Avaktiveras alla befintliga regelbundna cachening listor"
+
+#: includes/ameta-admin-cache-settings.php:83 includes/ameta-admin.php:142
+msgid "Cache Settings"
+msgstr "Cache-inställningar"
+
+#: includes/ameta-admin-cache-settings.php:84
+msgid "Cache Logs"
+msgstr "Cache loggar"
+
+#: includes/ameta-admin-cache-settings.php:85 includes/ameta-admin.php:398
+msgid "Cache Status"
+msgstr "Cache status"
+
+#: includes/ameta-admin-cache-settings.php:112
+#: includes/ameta-admin-cache-status.php:43
+msgid "Background cache request received"
+msgstr "Begäran om bakgrundscachening erhållen"
+
+#: includes/ameta-admin-cache-settings.php:136
+msgid "No scheduled auto cacheing"
+msgstr "Ingen schemalagd autocachening"
+
+#: includes/ameta-admin-cache-settings.php:138
+msgid "Hourly"
+msgstr "Timvis"
+
+#: includes/ameta-admin-cache-settings.php:139
+msgid "Twice daily"
+msgstr "Två gånger dagligen"
+
+#: includes/ameta-admin-cache-settings.php:140
+msgid "Daily"
+msgstr "Dagligen"
+
+#: includes/ameta-admin-cache-settings.php:150
+msgid "Activate regular cache rebuild ? "
+msgstr "Aktivera regelbunden cache ombyggnad? "
+
+#: includes/ameta-admin-cache-settings.php:153
+msgid ""
+"This cacheing grabs all the raw data it can find and does some "
+"preprocessing. "
+msgstr ""
+"Denna cacheing tar alla raw-data det kan hitta och gör en del förbehandling. "
+
+#: includes/ameta-admin-cache-settings.php:156
+msgid ""
+"The data is stored in a flat db table for later formatting and reporting. "
+msgstr ""
+"Data lagras i en platt db tabell för senare formatering och rapportering. "
+
+#: includes/ameta-admin-cache-settings.php:159
+msgid ""
+"The cache log will tell you the last few times that the cache was rebuilt "
+"and why. "
+msgstr ""
+"Cache loggen kommer att visa de senaste gångerna som cache återuppbyggdes "
+"och varför. "
+
+#: includes/ameta-admin-cache-settings.php:160
+msgid "Go to cache log"
+msgstr "Gå till cache loggen"
+
+#: includes/ameta-admin-cache-settings.php:162
+msgid "A cron plugin may also be useful."
+msgstr "Ett cron plugin kan också vara användbar."
+
+#: includes/ameta-admin-cache-settings.php:165
+msgid "More information"
+msgstr "Mer information"
+
+#: includes/ameta-admin-cache-settings.php:182
+msgid "Do NOT re-cache on user update"
+msgstr "Kör INTE re-cache vid användaruppdatering"
+
+#: includes/ameta-admin-cache-settings.php:191
+msgid "Do re-cache on user update"
+msgstr "Kör re-cache vid användaruppdatering"
+
+#: includes/ameta-admin-cache-settings.php:197
+msgid ""
+"If you have very frequent user updates consider only cacheing at regular "
+"intervals"
+msgstr ""
+"Om du har mycket täta användaruppdateringar, överväg cacheing med jämna "
+"mellanrum"
+
+#: includes/ameta-admin-cache-settings.php:199
+msgid "This will help prevent excessive database activity"
+msgstr "Detta kommer att förhindra överdriven databasaktivitet"
+
+#: includes/ameta-admin-cache-settings.php:201
+msgid ""
+"EG: Are you tracking every page ? every login.. you do not want it recaching "
+"all the time?!"
+msgstr ""
+"T.ex: Spårar du varje sida? varje inloggning... du vill väl inte ha re-"
+"caching hela tiden?!"
+
+#: includes/ameta-admin-cache-settings.php:202
+msgid "Rather cache hourly only.  A refresh can be requested."
+msgstr "Cacha snarare varje timme. En uppfriskning kan begäras."
+
+#: includes/ameta-admin-cache-settings.php:204
+msgid ""
+"Wordpress transients are also used to cache the html in public lists and "
+"front end"
+msgstr ""
+"WordPress transienter används också till att cacha html i offentliga listor "
+"och framsidan"
+
+#: includes/ameta-admin-cache-settings.php:207
+msgid ""
+"To switch off all auto cacheing, select \"Do not..\" above AND \"No...\" "
+"below."
+msgstr ""
+"För att stänga av alla autocacheing, välj \"Gör inte..\" ovan OCH \"Nr...\" "
+"nedan."
+
+#: includes/ameta-admin-cache-settings.php:209
+msgid "Lists will then be re-generated on manual refresh request only."
+msgstr ""
+"Listor kommer då endast på begäran att återskapas vid manuell uppdatering."
+
+#: includes/ameta-admin-cache-status.php:4
+msgid "Delete the cache log records"
+msgstr "Ta bort cache-loggposter"
+
+#: includes/ameta-admin-cache-status.php:10
+msgid "Delete the actual cache records."
+msgstr "Ta bort de aktuella cache-posterna."
+
+#: includes/ameta-admin-cache-status.php:10
+msgid "Delete all cache entries"
+msgstr "Ta bort alla cache-poster"
+
+#: includes/ameta-admin-cache-status.php:16
+msgid "Does not delete report cache, only the status records."
+msgstr "Tar inte bort rapportcachen, endast statusposterna."
+
+#: includes/ameta-admin-cache-status.php:16
+msgid "Delete all cache status records"
+msgstr "Ta bort alla cache-statusposter"
+
+#: includes/ameta-admin-cache-status.php:23
+msgid "Cache status records deleted, try building cache again"
+msgstr "Cache-statusposter borttagna, försök bygga cache igen"
+
+#: includes/ameta-admin-cache-status.php:25 includes/ameta-cache.php:279
+#: includes/ameta-cache.php:340
+msgid "Return"
+msgstr "Åter"
+
+#: includes/ameta-admin-configure.php:10
+msgid "Update Column Headings"
+msgstr "Uppdatera kolumnrubriker"
+
+#: includes/ameta-admin-configure.php:12
+msgid "Reset Column Headings"
+msgstr "Återställ kolumnrubriker"
+
+#: includes/ameta-admin-configure.php:94
+msgid "No fields selected for display"
+msgstr "Inga fält har valts för visning"
+
+#: includes/ameta-admin-configure.php:188
+msgid ""
+"At least some display order must be specified for the list to be meaningful"
+msgstr ""
+"Åtminstone några visningsordningar måste anges för att listan skall vara "
+"meningsfull"
+
+#: includes/ameta-admin-configure.php:192
+#: includes/ameta-admin-nice-names.php:50
+#: includes/ameta-admin-overview.php:212
+msgid "Options Updated"
+msgstr "Alternativ Uppdaterad"
+
+#: includes/ameta-admin-configure.php:241
+msgid "Update overview settings"
+msgstr "Uppdatera inställningar för översikt"
+
+#: includes/ameta-admin-configure.php:245 includes/amr-users-widget.php:126
+msgid "Go to overview of all lists"
+msgstr "Gå till översikt av alla listor"
+
+#: includes/ameta-admin-configure.php:246 includes/amr-users-widget.php:127
+msgid "Manage lists"
+msgstr "Hantera listor"
+
+#: includes/ameta-admin-configure.php:250
+msgid "Find Fields (must have sample data in them)"
+msgstr "Hitta fält (måste ha exempeldata i dem)"
+
+#: includes/ameta-admin-configure.php:251
+msgid "Find Fields"
+msgstr "Hitta fält"
+
+#: includes/ameta-admin-configure.php:262
+msgid "Update field settings"
+msgstr "Uppdatera Fältinställningar"
+
+#: includes/ameta-admin-configure.php:270
+msgid "Field name"
+msgstr "Fältnamn"
+
+#: includes/ameta-admin-configure.php:271
+msgid ""
+"Blank to hide, Enter a number to select and specify column order.  Eg: 1 2 6 "
+"8"
+msgstr ""
+"Tom för att dölja, ange ett heltal för att välja och ange kolumnordningen.  "
+"T.ex.: 1 2 6 8"
+
+#: includes/ameta-admin-configure.php:271
+msgid "Display order"
+msgstr "Visningsordning"
+
+#: includes/ameta-admin-configure.php:272
+msgid "Html to appear before if there is a value"
+msgstr "HTML att visas innan om det finns ett värde"
+
+#: includes/ameta-admin-configure.php:272
+msgid "Before:"
+msgstr "Före:"
+
+#: includes/ameta-admin-configure.php:273
+msgid "Html to appear after if there is a value"
+msgstr "HTML att visas efter om det finns ett värde"
+
+#: includes/ameta-admin-configure.php:273
+msgid "After:"
+msgstr "Efter:"
+
+#: includes/ameta-admin-configure.php:275
+msgid "Type of link to be generated on the field value"
+msgstr "Typ av länk som ska genereras på värdet i fältet"
+
+#: includes/ameta-admin-configure.php:275
+msgid "Link Type:"
+msgstr "Länktyp:"
+
+#: includes/ameta-admin-configure.php:276
+msgid "Eg: value1,value2"
+msgstr "T.ex.: värde1, värde2"
+
+#: includes/ameta-admin-configure.php:277
+#: includes/ameta-admin-configure.php:283
+msgid "Do not use spaces unless your field values have spaces."
+msgstr "Använd inte blanksteg om inte dina fältvärden har mellanrum."
+
+#: includes/ameta-admin-configure.php:279
+msgid "Include:"
+msgstr "Inkludera:"
+
+#: includes/ameta-admin-configure.php:280
+msgid "Tick to include a user ONLY if there is no value"
+msgstr ""
+"Kryssa endast i om det finns något värde för att inkludera en användare"
+
+#: includes/ameta-admin-configure.php:280
+msgid "Include ONLY if Blank:"
+msgstr "Inkludera endast om fältet är tomt:"
+
+#: includes/ameta-admin-configure.php:281
+msgid "Eg: value1,value2."
+msgstr "T.ex.: värde1, värde2"
+
+#: includes/ameta-admin-configure.php:282
+msgid ""
+"Display the field to set up the exclusion, then you can undisplay it "
+"afterwards."
+msgstr ""
+"Visa fältet för att ställa in undantag, sedan du kan gömma det efteråt."
+
+#: includes/ameta-admin-configure.php:284
+msgid "But Exclude:"
+msgstr "Men uteslut:"
+
+#: includes/ameta-admin-configure.php:285
+msgid "Tick to exclude a user if there is no value"
+msgstr "Markera om du vill undanta en användare om det inte finns något värde"
+
+#: includes/ameta-admin-configure.php:285
+msgid "Exclude if Blank:"
+msgstr "Uteslut om tomt:"
+
+#: includes/ameta-admin-configure.php:288
+msgid "Enter integers, need not be contiguous"
+msgstr "Ange heltal, behöver inte vara sammanhängande"
+
+#: includes/ameta-admin-configure.php:290
+msgid "Maximum 2 sort level. Can switch off display."
+msgstr "Max 2 sorteringsnivåer. Kan stänga av visning."
+
+#: includes/ameta-admin-configure.php:291
+msgid "Sort Order:"
+msgstr "Sorteringsordning:"
+
+#: includes/ameta-admin-configure.php:292
+msgid "For sort order.  Default is ascending"
+msgstr "För sorteringsordningen. Standard är stigande"
+
+#: includes/ameta-admin-configure.php:292
+msgid "Sort Descending:"
+msgstr "Sortera fallande:"
+
+#: includes/ameta-admin-configure.php:299
+#: includes/amr-users-headings-forms.php:129
+msgid "Explanation of comment total functionality"
+msgstr "Förklaring av kommentar totalt funktionalitet"
+
+#: includes/ameta-admin-configure.php:426
+msgid ""
+"Activate or acquire amr-user-plus-grouping addon for listing users in a "
+"group by any field"
+msgstr ""
+"Aktivera eller skaffa amr-user-plus-grouping tillägget för att lista "
+"användare i en grupp per valt fält"
+
+#: includes/ameta-admin-configure.php:428
+#: includes/ameta-admin-configure.php:450
+msgid "Edit grouping"
+msgstr "Redigera gruppering"
+
+#: includes/ameta-admin-configure.php:436
+msgid "Exit grouping"
+msgstr "Gå ur gruppering"
+
+#: includes/ameta-admin-configure.php:449
+msgid "Grouping %u: %s"
+msgstr "Gruppering %u: %s"
+
+#: includes/ameta-admin-configure.php:459
+msgid ""
+"Activate or acquire amr-user-plus addon for custom (eg: alphabetical) "
+"navigation"
+msgstr ""
+"Aktivera eller skaffa amr-user-plustillägget för att anpassa (t.ex.: "
+"alfabetisk) navigering"
+
+#: includes/ameta-admin-configure.php:461
+#: includes/ameta-admin-configure.php:483
+msgid "Edit navigation"
+msgstr "Redigera navigering"
+
+#: includes/ameta-admin-configure.php:469
+msgid "Exit navigation"
+msgstr "Gå ur navigation"
+
+#: includes/ameta-admin-configure.php:482
+msgid "Custom navigation %u: %s"
+msgstr "Anpassa navigering %u: %s"
+
+#: includes/ameta-admin-configure.php:493
+msgid "Activate or acquire amr-user-plus addon for real time filtering"
+msgstr "Aktivera eller skaffa amr-user-plustillägget för realtidsfiltrering"
+
+#: includes/ameta-admin-configure.php:494
+#: includes/ameta-admin-configure.php:504
+msgid "Edit filtering"
+msgstr "Redigera filtrering"
+
+#: includes/ameta-admin-configure.php:499
+msgid "Exit filtering"
+msgstr "Gå ur filtrering"
+
+#: includes/ameta-admin-configure.php:503
+msgid "Realtime filtering %u: %s"
+msgstr "Realtidsfiltrering %u: %s"
+
+#: includes/ameta-admin-configure.php:517
+msgid "Exit headings"
+msgstr "Avsluta rubriker"
+
+#: includes/ameta-admin-configure.php:522
+msgid "Edit the column headings %u: %s"
+msgstr "Redigera kolumnrubriker %u: %s"
+
+#: includes/ameta-admin-configure.php:523
+msgid "Edit headings"
+msgstr "Redigera rubriker"
+
+#: includes/ameta-admin-configure.php:537
+msgid "Rebuild list"
+msgstr "Återskapa listan"
+
+#: includes/ameta-admin-configure.php:550
+msgid "Rebuild list in realtime - could be slow!"
+msgstr "Återskapa listan i realtid - kan gå långsamt!"
+
+#: includes/ameta-admin-configure.php:559
+msgid "Build Cache in Background"
+msgstr "Bygg Cache i bakgrunden"
+
+#: includes/ameta-admin-configure.php:560
+msgid "Build Cache for all"
+msgstr "Bygg Cache för allt"
+
+#: includes/ameta-admin-configure.php:569
+msgid ""
+"Almost all possible user fields that have data are listed in field list "
+"(nice names).  If you have not yet created data for another plugin used in "
+"your main site, then there may be no related data here.  Yes this is a "
+"looooong list, and if you have a sophisticated membership system, it may be "
+"even longer than others.  The fields that you are working with will be "
+"sorted to the top, once you have defined their display order."
+msgstr ""
+"Nästan alla möjliga användarfält som har data visas i fältlistan (vackra "
+"namn).  Om du inte har skapat data för en annan plugin som används i din "
+"huvudsakliga webbplats, kan det saknas relaterade data här.  Ja detta är en "
+"lååååång lista, och om du har ett sofistikerat medlemskapssystem, kan det "
+"vara ännu längre än andra.  De fält som du arbetar med kommer att sorteras "
+"till toppen, när du väl har definierat deras visningsordning."
+
+#: includes/ameta-admin-configure.php:571
+msgid ""
+"After a configuration change, the cached listing must be rebuilt for the "
+"view to reflect the change."
+msgstr ""
+"Efter en konfigurationsändring, måste cachelagrade listor byggas om för att "
+"återge ändringen."
+
+#: includes/ameta-admin-configure.php:573
+msgid ""
+"Enter a number in the display order column to select a field for display and "
+"to define the display order."
+msgstr ""
+"Ange ett nummer i kolumnen Visa ordning för att markera ett fält för visning "
+"och definiera visningsordning."
+
+#: includes/ameta-admin-configure.php:575
+msgid "Enter a number (1-2) to define the sort order for your list"
+msgstr "Ange ett nummer (1-2) för att definiera sorteringsordning för listan"
+
+#: includes/ameta-admin-configure.php:577
+msgid ""
+"Use decimals to define ordered fields in same column (eg: first name, last "
+"name)"
+msgstr ""
+"Använd decimaler för att definiera fältsortering i samma kolumn (t.ex.: "
+"förnamn, efternamn)"
+
+#: includes/ameta-admin-configure.php:579
+msgid ""
+"If a sort order should be descending, such as counts or dates, click \"sort "
+"descending\" for that field."
+msgstr ""
+"Om en sorteringsordning bör vara fallande, som tal eller datum, klicka på "
+"\"sortera fallande \" för fältet."
+
+#: includes/ameta-admin-configure.php:581
+msgid ""
+"From the view list, you will see the data values.  If you wish to include or "
+"exclude a record by a value, note the value, then enter that value in the "
+"Include or Exclude Column.  Separate the values with a comma, but NO spaces."
+msgstr ""
+"Från visa listan, kommer du att se datavärden. Om du vill inkludera eller "
+"utesluta ett rekord med ett värde, anteckna värdet, sedan in detta värde i "
+"inkludera eller utesluta kolumn. Skilj värdena med ett kommatecken, men "
+"några mellanrum."
+
+#: includes/ameta-admin-configure.php:582
+msgid "Note: Exclude and Include blank override any other value selection."
+msgstr ""
+"Obs: Undanta och inkludera tomma fält åsidosätter alla andra värdesurval."
+
+#: includes/ameta-admin-configure.php:611
+#: includes/ameta-admin-overview.php:341
+msgid "Configure"
+msgstr "Konfigurera"
+
+#: includes/ameta-admin-configure.php:616
+#: includes/ameta-admin-overview.php:523
+msgid "Add new"
+msgstr "Lägg till ny"
+
+#: includes/ameta-admin-configure.php:632
+msgid "New list copy of "
+msgstr "Ny listkopia av "
+
+#: includes/ameta-admin-configure.php:693
+msgid "Grouping Function not active"
+msgstr "Grupperingsfunktion ej aktiv"
+
+#: includes/ameta-admin-configure.php:710
+msgid "List Fields Validation failed"
+msgstr "List-fältens validering misslyckades"
+
+#: includes/ameta-admin-general.php:37
+msgid "Invalid avatar size"
+msgstr "Ogiltigt avatarstorlek"
+
+#: includes/ameta-admin-general.php:110 uninstall.php:29
+msgid "Deleting number of lists and names in database"
+msgstr "Radera antal listor och namn i databasen"
+
+#: includes/ameta-admin-general.php:113
+msgid "Deleting all main settings in database"
+msgstr "Tar bort alla huvudsakliga inställningar i databasen"
+
+#: includes/ameta-admin-general.php:116
+#: includes/ameta-admin-nice-names.php:421 uninstall.php:31
+msgid "Deleting all nice name settings in database"
+msgstr "Ta bort alla fina namn inställningar i databasen"
+
+#: includes/ameta-admin-general.php:118
+#: includes/ameta-admin-nice-names.php:423
+msgid "Deleting all nice name exclusion settings in database"
+msgstr "Tar bort alla vackra namn uteslutande inställningar i databasen"
+
+#: includes/ameta-admin-general.php:120
+msgid "Deleting the show in wp list settings"
+msgstr "Tar bort visa i wp listinställningar"
+
+#: includes/ameta-admin-general.php:123 uninstall.php:32
+msgid "Deleting cache status in database"
+msgstr "Tar bort cachestatus i databasen"
+
+#: includes/ameta-admin-general.php:125
+#: includes/ameta-admin-nice-names.php:425
+msgid "Deleting original keys mapping in database"
+msgstr "Tar bort original nyckelmappning i databasen"
+
+#: includes/ameta-admin-general.php:128
+msgid "Deleting custom-headings in database"
+msgstr "Tar bort anpassade rubriker i databasen"
+
+#: includes/ameta-admin-general.php:130
+msgid "Deleting amr-users-filtering in database"
+msgstr "Tar bort amr-users-filtrering i databasen"
+
+#: includes/ameta-admin-general.php:132
+msgid "Deleting amr-users-prefixes-in-use in database"
+msgstr "Tar bort amr-användare-prefix-in-use i databasen"
+
+#: includes/ameta-admin-general.php:137
+msgid "All cached listings cleared."
+msgstr "Alla cachelagrade listor rensade."
+
+#: includes/ameta-admin-general.php:143
+msgid "Click to find your user fields again."
+msgstr "Klicka för att hitta dina användarfält igen."
+
+#: includes/ameta-admin-general.php:156 includes/ameta-options.php:210
+#: includes/ameta-upgrades.php:36
+msgid "Csv"
+msgstr "CSV"
+
+#: includes/ameta-admin-general.php:159 includes/ameta-options.php:211
+#: includes/ameta-upgrades.php:40
+msgid "Refresh user list cache"
+msgstr "Uppdatera användarlist cachen"
+
+#: includes/ameta-admin-general.php:161 includes/ameta-options.php:212
+msgid "You do not have access to this list, or are not logged in."
+msgstr "Du har inte tillgång till denna lista, eller är inte inloggad."
+
+#: includes/ameta-admin-general.php:179
+msgid "How to fetch data?"
+msgstr "Hur Hämta data?"
+
+#: includes/ameta-admin-general.php:183
+msgid "Fetch user data with wp_query? &nbsp; "
+msgstr "Hämta användardata med wp_query? &nbsp; "
+
+#: includes/ameta-admin-general.php:184
+msgid "WordPress does some extra work which requires more memory"
+msgstr "WordPress gör lite extra arbete viket kräver mer minne"
+
+#: includes/ameta-admin-general.php:192
+msgid "Fetch user data directly? &nbsp; "
+msgstr "Hämta användardata direkt? &nbsp; "
+
+#: includes/ameta-admin-general.php:193
+msgid "This seems to use less memory, better for very large databases."
+msgstr "Detta verkar använda mindre minne, bättre för mycket stora databaser."
+
+#: includes/ameta-admin-general.php:197
+msgid "General & Styling"
+msgstr "Allmännt & Styling"
+
+#: includes/ameta-admin-general.php:199
+msgid "No css "
+msgstr "Ingen css "
+
+#: includes/ameta-admin-general.php:207
+msgid "Do not use css provided, my theme css is good enough"
+msgstr "Använd inte css som tillhandahålls, mitt tema css är bra nog"
+
+#: includes/ameta-admin-general.php:217
+msgid "Use css on these pages only "
+msgstr "Använd css endast på dessa sidor "
+
+#: includes/ameta-admin-general.php:219
+msgid "(Else all if using css)"
+msgstr "(Annars alla om css används)"
+
+#: includes/ameta-admin-general.php:220
+msgid "(comma separated integers)"
+msgstr "(kommaseparerade heltal)"
+
+#: includes/ameta-admin-general.php:231
+msgid "Text for csv link"
+msgstr "Text för CSV-länk"
+
+#: includes/ameta-admin-general.php:233
+msgid "(May be plain text or an icon link)"
+msgstr "(Kan vara ren text eller en ikon länk)"
+
+#: includes/ameta-admin-general.php:239 includes/ameta-admin-general.php:249
+msgid "Preview:"
+msgstr "Förhandsgranska:"
+
+#: includes/ameta-admin-general.php:240 includes/ameta-admin-general.php:250
+msgid "This will be a link"
+msgstr "Detta blir en länk"
+
+#: includes/ameta-admin-general.php:243
+msgid "Text for cache refresh link"
+msgstr "Text för cachens uppdateingslänk"
+
+#: includes/ameta-admin-general.php:253
+msgid "Message when user does not have access or not logged in."
+msgstr "Meddelande när användaren inte har tillgång eller inte inloggad."
+
+#: includes/ameta-admin-general.php:261
+msgid "Default rows per page:"
+msgstr "Standardrader per sida:"
+
+#: includes/ameta-admin-general.php:268
+msgid "Avatar size:"
+msgstr "Avatar Storlek:"
+
+#: includes/ameta-admin-general.php:270
+msgid "Info"
+msgstr "Info"
+
+#: includes/ameta-admin-general.php:292 includes/ameta-admin.php:484
+msgid "General"
+msgstr "Allmän"
+
+#: includes/ameta-admin-import-export-list.php:6
+msgid "Import a list's settings"
+msgstr "Importera en listas inställningar"
+
+#: includes/ameta-admin-import-export-list.php:7
+msgid "Imported settings must be from a compatible system."
+msgstr "Importerade inställningar måste vara från ett kompatibelt system."
+
+#: includes/ameta-admin-import-export-list.php:8
+msgid ""
+"Ensure any fields used by the list are in your database and have been \"found"
+"\"."
+msgstr ""
+"Se till att alla fält som används av listan finns i din databas och har "
+"\"hittats\"."
+
+#: includes/ameta-admin-import-export-list.php:12
+msgid "Import"
+msgstr "Importera"
+
+#: includes/ameta-admin-import-export-list.php:27
+msgid "Export a list's settings"
+msgstr "Exportera en listas inställningar"
+
+#: includes/ameta-admin-import-export-list.php:36
+msgid "Export"
+msgstr "Exportera"
+
+#: includes/ameta-admin-import-export-list.php:142
+msgid "Invalid data in settings file"
+msgstr "Ogiltiga data i filen med inställningar"
+
+#: includes/ameta-admin-import-export-list.php:147
+msgid ""
+"Your plugin version is %s. Imported settings are from plugin version: %s"
+msgstr ""
+"Din plugin-version är %s. Importerade inställningar är från plugin-version: "
+"%s"
+
+#: includes/ameta-admin-import-export-list.php:153
+msgid ""
+"Your plugin version is %s, BUT imported settings are from plugin version: %s"
+msgstr ""
+"Din plugin-version är %s, MEN importerade inställningar från plugin-version: "
+"%s"
+
+#: includes/ameta-admin-import-export-list.php:156
+msgid "Please test thoroughly."
+msgstr "Testa ordentligt."
+
+#: includes/ameta-admin-import-export-list.php:180
+msgid "List %s will be saved with imported data"
+msgstr "Lista %s kommer att sparas med importerade data"
+
+#: includes/ameta-admin-nice-names.php:64
+#: includes/ameta-admin-nice-names.php:73
+msgid "Find any new fields."
+msgstr "Hitta alla nya fält."
+
+#: includes/ameta-admin-nice-names.php:72 includes/ameta-admin.php:252
+#: includes/ameta-admin.php:261
+msgid "Update"
+msgstr "Uppdatera"
+
+#: includes/ameta-admin-nice-names.php:74
+msgid "Reset and make new nice names"
+msgstr "Återställ och göra nya fina namn"
+
+#: includes/ameta-admin-nice-names.php:92 includes/ameta-admin.php:125
+msgid "Fields &amp; Nice Names"
+msgstr "Fält &amp; fint namn"
+
+#: includes/ameta-admin-nice-names.php:93
+msgid "Nicer names for list headings"
+msgstr "Trevligare namn för listrubriker"
+
+#: includes/ameta-admin-nice-names.php:96
+msgid "Extracts all user meta records (almost, some specifically excluded.)"
+msgstr "Extraherar allaanvändar-meta poster (nästan, några undantagna.)"
+
+#: includes/ameta-admin-nice-names.php:97
+msgid "Sample data MUST exist!"
+msgstr "Exempeldata MÅSTE finnas!"
+
+#: includes/ameta-admin-nice-names.php:100
+msgid ""
+"Digs deep into composite records, to extract out \"fields\" that should have "
+"been simple meta."
+msgstr ""
+"Gräver djupt i sammansatta poster för att extrahera ut \"fält\" som borde ha "
+"varit enkla meta."
+
+#: includes/ameta-admin-nice-names.php:103
+msgid ""
+"Composite user meta are usually created by plugins who do not do things the "
+"way wordpress intended."
+msgstr ""
+"Sammansatta användar-meta skapas vanligtvis av plugins som inte gör saker på "
+"samma sätt som wordpress avsett."
+
+#: includes/ameta-admin-nice-names.php:106
+msgid ""
+"If the necessary add ons have been activated, will dig deeper or look "
+"further into other tables."
+msgstr ""
+"Om nödvändiga tilllägg har aktiverats, kommer vi gräva djupare eller titta "
+"närmare på andra tabeller."
+
+#: includes/ameta-admin-nice-names.php:113
+msgid "Nice Name"
+msgstr "Trevligt namn"
+
+#: includes/ameta-admin-nice-names.php:116
+msgid "Yes the main wordpress user list"
+msgstr "Ja Wordpress huvudsakliga användarlista"
+
+#: includes/ameta-admin-nice-names.php:117
+msgid "Show in wp user list?"
+msgstr "Visa i wp användarlistan?"
+
+#: includes/ameta-admin-nice-names.php:119
+msgid "wp fields only"
+msgstr "endast wp fält"
+
+#: includes/ameta-admin-nice-names.php:122
+msgid "Exclude from Reports?"
+msgstr "Undanta från rapporter?"
+
+#: includes/ameta-admin-nice-names.php:137
+msgid ""
+"This field may/may not show in the wp list.  It is not a simple user meta "
+"field"
+msgstr ""
+"Det här fältet kan/kan inte visas i wp-listan.  det är inte ett enkelt "
+"användar-meta fält"
+
+#: includes/ameta-admin-nice-names.php:163
+msgid "List of possible fields not yet built."
+msgstr "Listan över möjliga fält ännu inte byggd."
+
+#: includes/ameta-admin-nice-names.php:169
+msgid "You have many users. Please be patient when you rebuild."
+msgstr "Du har många användare. Ha tålamod när du återskapar."
+
+#: includes/ameta-admin-nice-names.php:179
+msgid "Automatically rebuilding list of possible fields now."
+msgstr "Återskapar automatiskt listan över möjliga fält nu."
+
+#: includes/ameta-admin-nice-names.php:184
+msgid "List Rebuilt"
+msgstr "Listan återskapad"
+
+#: includes/ameta-admin-nice-names.php:194
+msgid ""
+"If you are not seeing all the fields you expect to see, then rebuild the "
+"list. "
+msgstr "Om du inte ser alla fält du förväntar dig att se, återskapa listan. "
+
+#: includes/ameta-admin-nice-names.php:197
+msgid ""
+"Please note that what you see is dependant on the data in your system. If "
+"there is no meta data for a field you are expecting to see, it is impossible "
+"for that field to appear."
+msgstr ""
+"Observera att det du ser är beroende av datat i ditt system. Om det inte "
+"finns någon metadata för ett fält som du förväntar dig att se, kan fältet "
+"inte visas."
+
+#: includes/ameta-admin-nice-names.php:198
+msgid ""
+"If you add another user related plugin that adds meta data, first add some "
+"data to at least one user.  Then you may need to rebuild the list of fields "
+"below and/or reconfigure your reports if you want to see the new data."
+msgstr ""
+"Om du lägger till ett annat användarrelaterat plugin som lägger till "
+"metadata, lägg då till några data i minst en användare.  Sedan kan du behöva "
+"återskapa listan över fält nedan och/eller konfigurera dina rapporter om du "
+"ska kunna se de nya uppgifterna."
+
+#: includes/ameta-admin-nice-names.php:219
+msgid "You have %s main user table fields"
+msgstr "Du har %s huvudsakliga användartabell fält"
+
+#: includes/ameta-admin-nice-names.php:227
+msgid "Added to report DB:"
+msgstr "Lades till i rapport DB:"
+
+#: includes/ameta-admin-nice-names.php:231
+msgid "Excluded:"
+msgstr "Uteslutna:"
+
+#: includes/ameta-admin-nice-names.php:254
+msgid "Check for fields from non wp tables."
+msgstr "Kontrollera fält från icke wp tabeller."
+
+#: includes/ameta-admin-nice-names.php:275
+msgid "You have %u distinct meta key / meta value records. "
+msgstr "Du har %u distinkta metanyckel / metavärde poster."
+
+#: includes/ameta-admin-nice-names.php:276
+msgid "...Deserialising and rationalising...looking for new fields."
+msgstr "...Avserialiserar och rationaliserar... söker efter nya fält."
+
+#: includes/ameta-admin-nice-names.php:306
+msgid "Added complex meta to report DB: "
+msgstr " Lade till komplex metadata till rapport DB: "
+
+#: includes/ameta-admin-nice-names.php:318
+msgid "Added meta to report DB: "
+msgstr "Lade till meta till rapport DB:"
+
+#: includes/ameta-admin-nice-names.php:330
+msgid "Added to report DB: "
+msgstr "Lades till i rapport DB:"
+
+#: includes/ameta-admin-nice-names.php:356
+msgid "Try to make some nicer names."
+msgstr "Försök göra några finare namn."
+
+#: includes/ameta-admin-nice-names.php:379
+msgid "Created name %s for %s"
+msgstr "Skapade namn %s för %s"
+
+#: includes/ameta-admin-nice-names.php:417
+msgid "Validation failed"
+msgstr "Validering misslyckades"
+
+#: includes/ameta-admin-nice-names.php:429
+msgid "Rebuild Complete."
+msgstr "Återskapande komplett."
+
+#: includes/ameta-admin-overview.php:10
+msgid "Inadequate access"
+msgstr "Otillräcklig behörighet"
+
+#: includes/ameta-admin-overview.php:28
+msgid " - copy"
+msgstr " -kopiera"
+
+#: includes/ameta-admin-overview.php:42
+msgid "Error deleting list %S"
+msgstr "Fel när listan %S skulle raderas"
+
+#: includes/ameta-admin-overview.php:64
+msgid "List and the cache deleted."
+msgstr "Listan och cachen borttagen."
+
+#: includes/ameta-admin-overview.php:76 includes/ameta-admin-overview.php:78
+msgid "New list"
+msgstr "Ny lista"
+
+#: includes/ameta-admin-overview.php:159
+msgid "Csv lists privacy check done.  Any no longer public lists deleted. "
+msgstr ""
+"Csv listors integritetskontroll klar. Alla ickeaktuella publika listor "
+"raderade."
+
+#: includes/ameta-admin-overview.php:228
+msgid "No."
+msgstr "Nej."
+
+#: includes/ameta-admin-overview.php:231
+msgid "Name of List"
+msgstr "Listans namn"
+
+#: includes/ameta-admin-overview.php:236
+msgid "Public"
+msgstr "Offentlig"
+
+#: includes/ameta-admin-overview.php:238
+msgid "List may be viewed in public pages"
+msgstr "Listan kan ses på offentliga sidor"
+
+#: includes/ameta-admin-overview.php:242
+msgid " Public Html Type"
+msgstr " Offentlig HTML-typ"
+
+#: includes/ameta-admin-overview.php:246
+msgid "Rows per page"
+msgstr "Rader per sida"
+
+#: includes/ameta-admin-overview.php:249
+msgid "Avatar size"
+msgstr "Profilbildens storlek"
+
+#: includes/ameta-admin-overview.php:253
+msgid "Search"
+msgstr "Sök"
+
+#: includes/ameta-admin-overview.php:255
+msgid "If list is public, show user search form."
+msgstr "Om listan är offentlig, visa användarsökformulär."
+
+#: includes/ameta-admin-overview.php:258
+#: includes/amr-users-headings-forms.php:97
+msgid "Per page"
+msgstr "Per sida"
+
+#: includes/ameta-admin-overview.php:260
+msgid "If list is public, show per page option."
+msgstr "Om listan är offentlig, visa per sida alternativ."
+
+#: includes/ameta-admin-overview.php:263
+msgid "Pagination"
+msgstr "Sidindelning"
+
+#: includes/ameta-admin-overview.php:265
+msgid "If list is public, show pagination, else just show top n results."
+msgstr ""
+"Om listan är offentlig, visa sidnumrering, annars visa bara  n toppresultat."
+
+#: includes/ameta-admin-overview.php:268
+msgid "Headings"
+msgstr "Rubriker"
+
+#: includes/ameta-admin-overview.php:270
+msgid "If list is public, show column headings."
+msgstr "Om listan är offentlig, visa kolumnrubriker."
+
+#: includes/ameta-admin-overview.php:273
+msgid "Csv link"
+msgstr "CSV-länk"
+
+#: includes/ameta-admin-overview.php:275
+msgid "If list is public, show a link to csv export file"
+msgstr "Om listan är offentlig, visa en länk till CSV-exportfilen"
+
+#: includes/ameta-admin-overview.php:278
+msgid "Refresh"
+msgstr "Uppdatera"
+
+#: includes/ameta-admin-overview.php:280
+msgid "If list is public, show a link to refresh the cache"
+msgstr "Om listan är offentlig, visa en länk till uppdatera cachen"
+
+#: includes/ameta-admin-overview.php:285
+msgid "Sortable"
+msgstr "Sorterbar"
+
+#: includes/ameta-admin-overview.php:287
+msgid "Offer sorting of the cached list by clicking on the columns."
+msgstr ""
+"Erbjuder sortering av cachelagrad lista genom att klicka på kolumnerna."
+
+#: includes/ameta-admin-overview.php:291
+msgid "Custom navigation"
+msgstr "Anpassade navigering"
+
+#: includes/ameta-admin-overview.php:293
+msgid "Show custom navigation to find users. "
+msgstr "Visa anpassad navigering för att hitta användare. "
+
+#: includes/ameta-admin-overview.php:294 includes/ameta-admin-overview.php:301
+msgid "Requires the amr-users-plus addon."
+msgstr "Kräver amr-users-plus tillägget."
+
+#: includes/ameta-admin-overview.php:298
+msgid "Filtering Location"
+msgstr "Filtrerar plats"
+
+#: includes/ameta-admin-overview.php:300
+msgid "Show filtering. "
+msgstr "Visa filtrering. "
+
+#: includes/ameta-admin-overview.php:342
+msgid "Copy"
+msgstr "Kopiera"
+
+#: includes/ameta-admin-overview.php:345
+msgid "Rebuild"
+msgstr "Återskapa"
+
+#: includes/ameta-admin-overview.php:348 includes/ameta-includes.php:629
+msgid "Delete"
+msgstr "Radera"
+
+#: includes/ameta-admin-overview.php:349 includes/ameta-admin.php:317
+msgid "View"
+msgstr "Visa"
+
+#: includes/ameta-admin-overview.php:352
+msgid "Add page"
+msgstr "Lägg till sida"
+
+#: includes/ameta-admin-overview.php:445
+msgid "in table"
+msgstr "i tabell"
+
+#: includes/ameta-admin-overview.php:446
+msgid "above"
+msgstr "ovan"
+
+#: includes/ameta-admin-overview.php:447 includes/ameta-options.php:43
+msgid "none"
+msgstr "ingen"
+
+#: includes/ameta-admin-overview.php:490
+msgid "Problem creating DB tables"
+msgstr "Problem att skapa DB-tabeller"
+
+#: includes/ameta-admin-overview.php:496 includes/ameta-admin.php:131
+msgid "Overview &amp; tools"
+msgstr "Översikt &amp; verktyg"
+
+#: includes/ameta-admin-overview.php:503
+msgid ""
+"There is a problem - Some overview list settings got lost somehow.  Try "
+"reset options."
+msgstr ""
+"Det finns ett problem - vissa översikts listinställningar gick vilse på "
+"något sätt.  Försök återställa alternativen."
+
+#: includes/ameta-admin-testyourdb.php:14
+msgid ""
+"Compare the memory limits to the memory stats shown in your cache status"
+msgstr "Jämför minnesgränser mot minnes statistik som visas i din cache status"
+
+#: includes/ameta-admin-testyourdb.php:15
+msgid "go"
+msgstr "gå"
+
+#: includes/ameta-admin-testyourdb.php:19
+msgid ""
+"If the user and user meta numbers are large, you may experience problems "
+"with large lists."
+msgstr ""
+"Om användaren och användar-meta nummren är stora, kan du få problem med "
+"stora listor."
+
+#: includes/ameta-admin-testyourdb.php:22
+msgid ""
+"If this happens, try: increasing php memory, clean up users (get rid of the "
+"spammy users), clean up usermeta.  You may have records from inactive "
+"plugins."
+msgstr ""
+"Om detta händer, prova: öka php minne, städa upp användare (ta bort "
+"skräppost-användare), rensa upp usermeta.  Du kan ha poster från inaktiva "
+"plugins."
+
+#: includes/ameta-admin-testyourdb.php:30
+msgid "This is a multi-site network.  All users shown here."
+msgstr "Detta är en multi-site nätverk.  Alla användare visas här."
+
+#: includes/ameta-admin-testyourdb.php:37
+msgid "This website with blog_id=%s and prefix=%s has:"
+msgstr "Denna webbplats med blog_id =%s och prefix=%s har:"
+
+#: includes/ameta-admin-testyourdb.php:42
+msgid "Plugin version: %s"
+msgstr "Plugin-version: %s"
+
+#: includes/ameta-admin-testyourdb.php:45
+msgid "Php version: %s "
+msgstr "PHP version: %s "
+
+#: includes/ameta-admin-testyourdb.php:48
+msgid "Wp version: %s "
+msgstr "WP version: %s "
+
+#: includes/ameta-admin-testyourdb.php:51
+msgid "Wordpress Memory limit: %s "
+msgstr "WordPress minnesgräns: %s "
+
+#: includes/ameta-admin-testyourdb.php:54
+msgid "Php Memory Limit: %s "
+msgstr "PHP minnesgräns: %s "
+
+#: includes/ameta-admin-testyourdb.php:57
+msgid "Charset: %s "
+msgstr "Charset: %s "
+
+#: includes/ameta-admin-testyourdb.php:61
+msgid "Collation: %s "
+msgstr "Kollation: %s "
+
+#: includes/ameta-admin-testyourdb.php:68
+msgid "There are %s total users: "
+msgstr "Det finns %s totalt antal användare: "
+
+#: includes/ameta-admin-testyourdb.php:79
+msgid "%d sites"
+msgstr "%d platser"
+
+#: includes/ameta-admin-testyourdb.php:90
+msgid "These queries could be slow.  Be patient.  Wait:"
+msgstr "Dessa frågor kan vara långsamma.  Ha tålamod.  Vänta:"
+
+#: includes/ameta-admin-testyourdb.php:92
+msgid "Get meta stats"
+msgstr "Hämtar meta statistik"
+
+#: includes/ameta-admin-testyourdb.php:96
+msgid "Run user test query"
+msgstr "Kör användartestfråga"
+
+#: includes/ameta-admin-testyourdb.php:100
+msgid "Run user meta test query"
+msgstr "Kör användar-meta testfråga"
+
+#: includes/ameta-admin-testyourdb.php:111
+msgid "Meta stats:"
+msgstr "Meta stats:"
+
+#: includes/ameta-admin-testyourdb.php:134
+msgid "%s different user meta keys."
+msgstr "%s olika meta användarnycklar."
+
+#: includes/ameta-admin-testyourdb.php:139
+msgid "%d user meta records."
+msgstr "%d användare meta poster."
+
+#: includes/ameta-admin-testyourdb.php:148
+msgid "Running some test queries:"
+msgstr "Kör några test frågor:"
+
+#: includes/ameta-admin-testyourdb.php:173
+msgid ""
+"If these queries completed, the \"fetch users directly\" method should work, "
+"even if the \"wp_query\" method fails."
+msgstr ""
+"Om dessa frågor slutförts bör metoden \"Hämta användare direkt\" fungerar, "
+"även om metoden \"wp_query\" misslyckas."
+
+#: includes/ameta-admin-testyourdb.php:173
+msgid "See \"How to fetch data\" in the general settings."
+msgstr "Se \"Hur man hämta data\" i allmänna inställningar."
+
+#: includes/ameta-admin-testyourdb.php:192
+msgid "Page complete.  Please note memory and incremental runtimes."
+msgstr "Sida komplett.  Observera minne och inkrementella runtimes."
+
+#: includes/ameta-admin-testyourdb.php:221
+msgid "%s sites"
+msgstr "%s platser"
+
+#: includes/ameta-admin-testyourdb.php:227
+msgid "About your user database"
+msgstr "Om din användardatabas"
+
+#: includes/ameta-admin.php:101
+msgid "User Lists"
+msgstr "Användarlistor"
+
+#: includes/ameta-admin.php:116 includes/ameta-admin.php:611
+msgid "About"
+msgstr "Om"
+
+#: includes/ameta-admin.php:120 includes/ameta-admin.php:124
+#: includes/ameta-admin.php:130
+msgid "User List Settings"
+msgstr "Användarlista Inställningar"
+
+#: includes/ameta-admin.php:120
+msgid "General Settings"
+msgstr "Allmänna Inställningar"
+
+#: includes/ameta-admin.php:136
+msgid "Configure a list"
+msgstr "Konfigurera en lista"
+
+#: includes/ameta-admin.php:142
+msgid "Cacheing"
+msgstr "Cachening"
+
+#: includes/ameta-admin.php:156
+msgid "User lists"
+msgstr "Användarlistor"
+
+#: includes/ameta-admin.php:253
+msgid "Reset all options"
+msgstr "Återställa alla alternativ"
+
+#: includes/ameta-admin.php:267
+msgid "Rebuild cache in background"
+msgstr "Återuppbygg cache i bakgrunden"
+
+#: includes/ameta-admin.php:273
+msgid ""
+"For large databases, rebuilding in realtime can take a long time. Consider "
+"running a background cache instead."
+msgstr ""
+"För stora databaser kan ombyggnad i realtid ta lång tid. Prova att köra en "
+"bakgrundscache istället."
+
+#: includes/ameta-admin.php:274
+msgid "If you choose realtime, keep the page open after clicking the button."
+msgstr ""
+"Om du väljer realtid, håll sidan öppen efter att du klickat på knappen."
+
+#: includes/ameta-admin.php:277
+msgid "Rebuild in realtime"
+msgstr "Återskapa i realtid"
+
+#: includes/ameta-admin.php:278
+msgid "Rebuild in background"
+msgstr "Återskapa i bakgrunden"
+
+#: includes/ameta-admin.php:312 includes/amr-users-headings-forms.php:56
+msgid "Rebuild cache now"
+msgstr "Återskapa cache nu"
+
+#: includes/ameta-admin.php:324
+msgid "Members"
+msgstr "Medlemmar"
+
+#: includes/ameta-admin.php:326
+msgid "Add a new page with shortcode for this list"
+msgstr "Lägg till en ny sida med kortkod för den här listan"
+
+#: includes/ameta-admin.php:342
+msgid "Configure List %u: %s"
+msgstr "Konfigurera listan %u: %s"
+
+#: includes/ameta-admin.php:355
+msgid "Delete List %u: %s"
+msgstr "Ta bort lista %u: %s"
+
+#: includes/ameta-admin.php:364
+msgid "Copy list to new %u: %s"
+msgstr "Kopiera lista till ny %u: %s"
+
+#: includes/ameta-admin.php:392
+msgid "Log of cache requests"
+msgstr "Logg för cache-begäranden"
+
+#: includes/ameta-admin.php:392
+msgid "Cache Log"
+msgstr "Cache Log"
+
+#: includes/ameta-admin.php:404
+msgid ""
+"Related plugins are continually being developed in response to requests. "
+"They are packaged separately so you only add what you need."
+msgstr ""
+"Relaterade plugins utvecklas ständigt på begäran. De är förpackade separat "
+"så att du endast lägga till vad du behöver."
+
+#: includes/ameta-admin.php:409
+msgid "Improve visibility and manage the cron schedules"
+msgstr "Förbättra synlighet och hantera cron scheman"
+
+#: includes/ameta-admin.php:413
+msgid "Adds functionality such as complex filtering"
+msgstr "Lägger till funktioner som komplex filtrering"
+
+#: includes/ameta-admin.php:417
+msgid "Adds subscribers in the separate subscribe2 table to the user lists"
+msgstr ""
+"Lägger till abonnenter i den enskilda tabellen subscribe2 till "
+"användarlistorna"
+
+#: includes/ameta-admin.php:421
+msgid ""
+"Makes the separate \"cimy extra fields\" table look like normal user meta "
+"data"
+msgstr ""
+"Gör så att den enskilda \"cimy extra fält\" tabellen ser ut som vanlig "
+"användar-metadata"
+
+#: includes/ameta-admin.php:425
+msgid "Adds bulk ym updates and better formatting of ym fields."
+msgstr "Lägger till volym ym uppdateringar och bättre formatering av ym fält."
+
+#: includes/ameta-admin.php:428
+msgid "amr users multi site"
+msgstr "amr users multi site"
+
+#: includes/ameta-admin.php:429
+msgid "Makes amr users operate in the network pages across the sites."
+msgstr "Gör att arm users opererar i nätverkssidor över multi-webbplatser."
+
+#: includes/ameta-admin.php:434
+msgid "... there may be more."
+msgstr "... det kan bli mer."
+
+#: includes/ameta-admin.php:448
+msgid "Support"
+msgstr "Support"
+
+#: includes/ameta-admin.php:451 includes/amr-users-credits.php:82
+msgid "Rate it"
+msgstr "Betygsätt detta"
+
+#: includes/ameta-admin.php:455
+msgid "Rss feed"
+msgstr "RSS-flöde"
+
+#: includes/ameta-admin.php:458
+msgid "Say thanks to anmari@anmari.com"
+msgstr "Säga tack till anmari@anmari.com"
+
+#: includes/ameta-admin.php:472
+msgid "You do not have sufficient permissions to update list settings."
+msgstr ""
+"Du har inte tillräcklig behörighet för att uppdatera listinställningarna."
+
+#: includes/ameta-admin.php:487
+msgid "Test your db"
+msgstr "Testa din db"
+
+#: includes/ameta-admin.php:490
+msgid "Overview"
+msgstr "Översikt"
+
+#: includes/ameta-admin.php:493
+msgid "Nice Names"
+msgstr "Fina namn"
+
+#: includes/ameta-admin.php:498
+msgid "Rebuild Cache in Background"
+msgstr "Återuppbygg cache i bakgrunden"
+
+#: includes/ameta-admin.php:513 includes/ameta-admin.php:638
+msgid "Fields and Nice Names"
+msgstr "Fält och fina namn"
+
+#: includes/ameta-admin.php:514 includes/ameta-admin.php:528
+msgid "Lists"
+msgstr "Listor"
+
+#: includes/ameta-admin.php:515 includes/ameta-admin.php:520
+#: includes/ameta-admin.php:640
+msgid "List Settings"
+msgstr "Listinställningar"
+
+#: includes/ameta-admin.php:529
+msgid ""
+"Defaults lists are provided as examples only.  Please configure them to your "
+"requirements."
+msgstr ""
+"Standardlistor finns bara som exempel.  Konfigurera dem efter dina krav."
+
+#: includes/ameta-admin.php:531
+msgid "Update any new list details and configure the list."
+msgstr "Uppdatera sedan list-detaljerna och konfigurera listan."
+
+#: includes/ameta-admin.php:532
+msgid ""
+"Each new list is copied from the last configured list.  This may be useful "
+"if configuring a range of similar lists - add the lists one by one - slowly "
+"incrementing the number of lists."
+msgstr ""
+"Varje ny lista är kopierad från tidigare konfigurerad lista. Detta kan vara "
+"användbart om du konfigurerar en rad liknande listor - lägg till listorna en "
+"efter en - och öka sakta antalet listor."
+
+#: includes/ameta-admin.php:534
+msgid "List settings from compatible systems can be imported"
+msgstr "Listinställningar från kompatibla system kan importeras"
+
+#: includes/ameta-admin.php:542
+msgid "Cache rebuilt for %s "
+msgstr "Cache ombyggd för%s "
+
+#: includes/ameta-admin.php:543
+msgid "View Report"
+msgstr "Visa rapport"
+
+#: includes/ameta-admin.php:543
+msgid "View the recently cached report"
+msgstr "Visa den nyligen cachade rapporten"
+
+#: includes/ameta-admin.php:545
+msgid "Check cache log for completion of list %s "
+msgstr "Kolla cache loggen för slutförande av listan%s "
+
+#: includes/ameta-admin.php:590
+msgid "Create sample users with sample data."
+msgstr "Skapa exempelanvändare med exempeldata."
+
+#: includes/ameta-admin.php:593
+msgid "There must be at least one entry for each field you want to see."
+msgstr "Det måste finnas minst en post för varje fält som du vill se."
+
+#: includes/ameta-admin.php:594
+msgid "Execute \"find the fields\"."
+msgstr "Utför \"hitta fälten\""
+
+#: includes/ameta-admin.php:595
+msgid "Configure the lists."
+msgstr "Konfigurera listorna."
+
+#: includes/ameta-admin.php:596
+msgid "Rebuild cache."
+msgstr "Återskapa cachen."
+
+#: includes/ameta-admin.php:597
+msgid "Add user plugins ? Add fields ? Add data ? : "
+msgstr "Lägg användartillägg? Lägg till fält? Lägg till data?: "
+
+#: includes/ameta-admin.php:598
+msgid "Cache must be updated for changes to show. (duh!)"
+msgstr "Cache måste uppdateras för att ändringarna ska visas. (Duh!)"
+
+#: includes/ameta-admin.php:612
+msgid "Your user db"
+msgstr "Din användar db"
+
+#: includes/ameta-admin.php:613 includes/ameta-admin.php:624
+msgid "News"
+msgstr "Nyheter"
+
+#: includes/ameta-admin.php:626
+msgid "amr wpusersplugin news"
+msgstr "arm wpusersplugin nyheter"
+
+#: includes/ameta-admin.php:627
+msgid "other anmari news"
+msgstr "Andra Anmari nyheter"
+
+#: includes/ameta-admin.php:635
+msgid "Shortcodes to add to pages:"
+msgstr "Kortkoder för att lägga till sidor:"
+
+#: includes/ameta-admin.php:637
+msgid "Instructions."
+msgstr "Instruktioner."
+
+#: includes/ameta-building.php:500
+msgid "Excluding where:"
+msgstr "Exklusive där:"
+
+#: includes/ameta-building.php:503 includes/ameta-building.php:564
+msgid " or "
+msgstr " eller "
+
+#: includes/ameta-building.php:528
+msgid "Exclude if blank:"
+msgstr "Uteslut om tomt:"
+
+#: includes/ameta-building.php:546
+msgid "Include only if blank:"
+msgstr "Inkludera endast om fältet är tomt:"
+
+#: includes/ameta-building.php:561
+msgid "Including where:"
+msgstr "Inklusive där"
+
+#: includes/ameta-building.php:595
+msgid " Cache sorted by: "
+msgstr " Cache sorterade efter: "
+
+#: includes/ameta-building.php:629
+msgid "All %1s Users processed."
+msgstr "Alla %1s Användare bearbetade."
+
+#: includes/ameta-building.php:633
+msgid "%1s Users processed from total of %2s"
+msgstr "%1s Användare bearbetade av totalt %2s"
+
+#: includes/ameta-building.php:772
+msgid "No users found for list %s"
+msgstr "Inga användare hittades för lista %s"
+
+#: includes/ameta-building.php:775
+msgid "No fields chosen for display in settings for list %s"
+msgstr "Inga områden som valts för visning i inställningarna för listan %s"
+
+#: includes/ameta-building.php:777
+msgid "No users in database! - que pasar?"
+msgstr "Inga användare i databasen! - vad hände?"
+
+#: includes/ameta-building.php:788
+msgid "Completed %s in %s microseconds"
+msgstr "Avklarade %s på %s mikrosekunder"
+
+#: includes/ameta-cache.php:20
+msgid "No records found in this list"
+msgstr "Inga träffar i denna lista"
+
+#: includes/ameta-cache.php:21
+msgid "Number of Lists must be between 1 and 40."
+msgstr "Antal listor måste vara mellan 1 och 40."
+
+#: includes/ameta-cache.php:22
+msgid "Rows per page must be between 1 and 999."
+msgstr "Rader per sida måste vara mellan 1 och 999."
+
+#: includes/ameta-cache.php:23
+msgid "Unexpected Problem reading names of lists - no array"
+msgstr "Oväntad Problem med att läsa namnen på listorna - inte array"
+
+#: includes/ameta-cache.php:24
+msgid "No cache exists for this report."
+msgstr "Ingen cache existerar för denna rapport."
+
+#: includes/ameta-cache.php:25
+msgid "No cache exists for any reports."
+msgstr "Ingen cache existerar för någon rapporter."
+
+#: includes/ameta-cache.php:26
+msgid "Cache update in progress.  Please wait a few seconds then refresh."
+msgstr "Cache uppdatering pågår. Vänta några sekunder och uppdatera sedan."
+
+#: includes/ameta-cache.php:90
+msgid "Report %s started %s ago"
+msgstr "Rapport %s startade för %s sedan"
+
+#: includes/ameta-cache.php:91
+msgid ""
+"Something may be wrong - delete cache status, try again, check server logs "
+"and/or memory limit"
+msgstr ""
+"Något kan vara fel - radera cache status, försök igen, kolla serverloggar "
+"och/eller minnesgräns"
+
+#: includes/ameta-cache.php:94 includes/ameta-cache.php:593
+msgid "Houston, we have a problem"
+msgstr "Houston, vi har ett problem"
+
+#: includes/ameta-cache.php:114
+msgid "Cache already scheduled for %s, in %s time"
+msgstr "Cache redan planerad till %s, på %s tid"
+
+#: includes/ameta-cache.php:162 includes/ameta-cache.php:183
+msgid "Error updating report headings."
+msgstr "Fel vid uppdatering av rapportrubriker."
+
+#: includes/ameta-cache.php:163 includes/ameta-cache.php:184
+#: includes/ameta-cache.php:245 includes/ameta-cache.php:266
+msgid "Killing myself.. please check log and status and try again later."
+msgstr "Avslutar mig själv .. kolla loggen och status och försök igen senare."
+
+#: includes/ameta-cache.php:244 includes/ameta-cache.php:265
+msgid "Error inserting - maybe clashing with a background run?"
+msgstr "Fel vid insättning - kanske kollision med en bakgrundskörning?"
+
+#: includes/ameta-cache.php:276
+msgid "Logs deleted"
+msgstr "Loggar raderade"
+
+#: includes/ameta-cache.php:277
+msgid "No logs or Error deleting Logs."
+msgstr "Inga loggar eller fel vid radering av loggar."
+
+#: includes/ameta-cache.php:330
+msgid "Cache cleared. "
+msgstr "Cache rensad. "
+
+#: includes/ameta-cache.php:332
+msgid "Error clearing cache, or no cache to clear. "
+msgstr "Fel vid cacherensning, eller ingen cache för rensa. "
+
+#: includes/ameta-cache.php:335
+msgid "Cache status in db cleared"
+msgstr "Cache status i db rensad"
+
+#: includes/ameta-cache.php:337
+msgid "Error clearing cache in db, or no cache to clear"
+msgstr "Fel vid cacherensning, eller ingen cache att rensa."
+
+#: includes/ameta-cache.php:511
+msgid ""
+"Taking too long, may have been aborted... delete cache status, try again, "
+"check server logs and/or memory limit"
+msgstr ""
+"Tar för lång tid, kan ha avbrutits ... radera cache status, försök igen, "
+"kolla serverloggar och/eller minnesgräns"
+
+#: includes/ameta-cache.php:515
+msgid "Started %s"
+msgstr "Startade %s"
+
+#: includes/ameta-cache.php:518 includes/ameta-cache.php:519
+#: includes/ameta-cache.php:520
+msgid "?"
+msgstr "?"
+
+#: includes/ameta-cache.php:559
+msgid "Report Id"
+msgstr "Rapport Id"
+
+#: includes/ameta-cache.php:560
+msgid "Name"
+msgstr "Namn"
+
+#: includes/ameta-cache.php:561
+msgid "Lines"
+msgstr "Rader"
+
+#: includes/ameta-cache.php:562
+msgid "Ended?"
+msgstr "Slutade?"
+
+#: includes/ameta-cache.php:563
+msgid "How long ago?"
+msgstr "Hur länge sedan?"
+
+#: includes/ameta-cache.php:564
+msgid "Seconds taken"
+msgstr "Tagna sekunder"
+
+#: includes/ameta-cache.php:565
+msgid "Peak Memory"
+msgstr "Peakat minne"
+
+#: includes/ameta-cache.php:566
+msgid "Details"
+msgstr "Detaljer"
+
+#: includes/ameta-cache.php:593
+msgid "Link to audio file of the astronauts of Apollo 13 reporting a problem."
+msgstr ""
+"Länk till ljudfil av astronaut av Apollo 13 som rapporterar ett problem."
+
+#: includes/ameta-cache.php:594
+msgid "The background job's may be having problems."
+msgstr "Bakgrundsjobben kan ha problem."
+
+#: includes/ameta-cache.php:595
+msgid "Delete all the cache records and try again"
+msgstr "Radera alla cache poster och försök igen"
+
+#: includes/ameta-cache.php:596
+msgid "Check the server logs and your php wordpress memory limit."
+msgstr "Kontrollera serverloggar och din php wordpress minnesgräns."
+
+#: includes/ameta-cache.php:597
+msgid ""
+"The TPC memory usage plugin may be useful to assess whether the problem is "
+"memory."
+msgstr ""
+"TPC memory usage plugin kan vara användbar för att bedöma om det är "
+"minnesproblem."
+
+#: includes/ameta-cache.php:621
+msgid "Unknown error."
+msgstr "Okänt fel."
+
+#: includes/ameta-includes.php:28
+msgid "Error finding amr-user option in database"
+msgstr "Fel, hittar inte amr-user alternativ i databasen"
+
+#: includes/ameta-includes.php:34
+msgid "amr-user option has no lists in database. Possible corruption."
+msgstr ""
+"amr-användaralternativ har inga listor i databasen. Möjligen korruption."
+
+#: includes/ameta-includes.php:40
+msgid "Found list number : %s"
+msgstr "Hittade lista nummer: %s"
+
+#: includes/ameta-includes.php:45
+msgid "Using first list found"
+msgstr "Använder första hittade lista"
+
+#: includes/ameta-includes.php:213
+msgid "At %s seconds,  peak mem= %s"
+msgstr "Vid %s sekunder, peak mem= %s"
+
+#: includes/ameta-includes.php:447
+msgid "Custom Column Headings Updated"
+msgstr "Anpassade Kolumnrubriker Uppdaterad"
+
+#: includes/ameta-includes.php:450
+msgid "Column headings not updated - no change or error."
+msgstr "Kolumnrubriker uppdateras inte - ingen ändring eller fel."
+
+#: includes/ameta-includes.php:483
+msgid "Click to toggle"
+msgstr "Klicka för att växla"
+
+#: includes/ameta-includes.php:567
+msgid "No items"
+msgstr "Inga objekt"
+
+#: includes/ameta-includes.php:636
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: includes/ameta-includes.php:645 includes/amr-users-headings-forms.php:100
+msgid "Apply"
+msgstr "Utför"
+
+#: includes/ameta-includes.php:694
+msgid "No users selected"
+msgstr "Inga användare valda"
+
+#: includes/ameta-list.php:264
+msgid "No lists Defined"
+msgstr "Inga listor definierade"
+
+#: includes/ameta-list.php:359
+msgid "No such list: %s"
+msgstr "Ingen sådan lista: %s"
+
+#: includes/ameta-list.php:374
+msgid ""
+"Note to logged in admin only: Now using temporary saved html (transient) for "
+"frontend.  Click to refresh."
+msgstr ""
+"Notera bara inloggad admin: Nu används tillfälligt sparade html (transient) "
+"för framsidan. Klicka för att uppdatera."
+
+#: includes/ameta-list.php:471
+msgid "No lines found."
+msgstr "Inga linjer hittas."
+
+#: includes/ameta-list.php:589
+msgid "This Message shows to admin only!"
+msgstr "Detta meddelande visas bara för admin!"
+
+#: includes/ameta-list.php:591
+msgid "Filter requested."
+msgstr "Filter begärts."
+
+#: includes/ameta-list.php:592
+msgid ""
+"Maybe you chose \"show all\", which is OKAY... or are attempting some own "
+"html or link ? ."
+msgstr ""
+"Kanske du valde \"visa alla\", vilket är okej ... eller försöker med en egen "
+"html eller länk? ."
+
+#: includes/ameta-list.php:594
+msgid "No valid filter column given."
+msgstr "Ingen giltig filterkolumn angiven."
+
+#: includes/ameta-list.php:595
+msgid "Column filter Usage is :"
+msgstr "Kolumn filter användning är:"
+
+#: includes/ameta-list.php:601
+msgid "Note: Hide only works if the column is currently being displayed."
+msgstr "Obs: Göm bara om kolumnen för närvarande visas."
+
+#: includes/ameta-list.php:602
+msgid "For this list, expecting column_name to be one of "
+msgstr "För den här listan, förväntas kolumnnamn vara en av "
+
+#: includes/ameta-list.php:715
+msgid "Sorted by:"
+msgstr "Sorterat efter:"
+
+#: includes/ameta-options.php:44
+msgid "edit user"
+msgstr "redigera användare"
+
+#: includes/ameta-options.php:45
+msgid "mail to"
+msgstr "epost till"
+
+#: includes/ameta-options.php:46
+msgid "posts by author in admin"
+msgstr "inlägg av författare i admin"
+
+#: includes/ameta-options.php:47
+msgid "author archive"
+msgstr "författare arkiv"
+
+#: includes/ameta-options.php:48
+msgid "comments by author (*)"
+msgstr "kommentarer av författaren (*)"
+
+#: includes/ameta-options.php:49
+msgid "users url"
+msgstr "användares url"
+
+#: includes/ameta-options.php:50
+msgid "wp user list filtered by user"
+msgstr "wp användarlistan filtreras enligt användare"
+
+#: includes/ameta-options.php:51
+msgid "bbpress user profile page"
+msgstr "bbPress användarprofilsida"
+
+#: includes/ameta-options.php:64
+msgid "Id"
+msgstr "ID"
+
+#: includes/ameta-options.php:65
+msgid "Avatar"
+msgstr "Profilbild"
+
+#: includes/ameta-options.php:66
+msgid "User name"
+msgstr "Användarnamn"
+
+#: includes/ameta-options.php:67
+msgid "Nice name"
+msgstr "Trevligt namn"
+
+#: includes/ameta-options.php:68
+msgid "Email"
+msgstr "E-post"
+
+#: includes/ameta-options.php:69
+msgid "Url"
+msgstr "URL"
+
+#: includes/ameta-options.php:70
+msgid "Registered days ago"
+msgstr "Registrerade dagar sedan"
+
+#: includes/ameta-options.php:71
+msgid "Registration date"
+msgstr "Registreringsdatum"
+
+#: includes/ameta-options.php:72
+msgid "User status"
+msgstr "Användarstatus"
+
+#: includes/ameta-options.php:73
+msgid "Display Name"
+msgstr "Visningsnamn"
+
+#: includes/ameta-options.php:74
+msgid "First name"
+msgstr "Förnamn"
+
+#: includes/ameta-options.php:75
+msgid "Last name"
+msgstr "Efternamn"
+
+#: includes/ameta-options.php:76
+msgid "Nick Name"
+msgstr "Smeknamn"
+
+#: includes/ameta-options.php:77
+msgid "Post Count"
+msgstr "Antal inlägg"
+
+#: includes/ameta-options.php:78
+msgid "Comment Count"
+msgstr "Kommentarräknare"
+
+#: includes/ameta-options.php:79
+msgid "First Role"
+msgstr "Första Roll"
+
+#: includes/ameta-options.php:218
+msgid "Users: Details"
+msgstr "Användare: Detaljer"
+
+#: includes/ameta-options.php:219
+msgid "Users: Directory"
+msgstr "Användare: Bibliotek"
+
+#: includes/ameta-upgrades.php:21
+msgid "Previous version was %s. "
+msgstr "Föregående version var %s. "
+
+#: includes/ameta-upgrades.php:22
+msgid "New version activated. "
+msgstr "Ny version aktiverad. "
+
+#: includes/ameta-upgrades.php:23
+msgid "We may need to process some updates.... checking now... "
+msgstr "Vi kan behöva processa vissa uppdateringar .... kollar nu ... "
+
+#: includes/ameta-upgrades.php:32 includes/ameta-upgrades.php:51
+#: includes/ameta-upgrades.php:64 includes/ameta-upgrades.php:78
+msgid "Prev version less than %s"
+msgstr "Föregående version mindre än %s"
+
+#: includes/ameta-upgrades.php:43
+msgid "Image links updated."
+msgstr "Bildlänkar uppdaterade."
+
+#: includes/ameta-upgrades.php:56
+msgid "Problem creating amr user DB tables"
+msgstr "Problem med att skapa arm användar DB tabeller"
+
+#: includes/ameta-upgrades.php:58
+msgid "Cacheing tables recreated."
+msgstr "Cacheing tabeller skapade."
+
+#: includes/ameta-upgrades.php:65
+msgid "Minor sub option name change for avatar size"
+msgstr "Mindre underalternativ vid namnändring för avatarstorlek"
+
+#: includes/ameta-upgrades.php:79
+msgid "New Pagination option default to yes for all lists."
+msgstr "Ny standard-sidindelningsalternativ till yes för alla listor."
+
+#: includes/ameta-upgrades.php:92
+msgid "Finished Update Checks"
+msgstr "Avslutade uppdateringskontroller"
+
+#: includes/ameta-upgrades.php:94
+msgid "Please read the changelog"
+msgstr "Läs ändringsloggen"
+
+#: includes/ameta-upgrades.php:96
+msgid "As a precaution we will now rebuild the nice names."
+msgstr "Som en försiktighetsåtgärd kommer vi nu bygga om de fina namn."
+
+#: includes/ameta-upgrades.php:97
+msgid "Relax .... you won't lose anything."
+msgstr "Lugn .... du kommer inte förlora något."
+
+#: includes/amr-users-credits.php:18
+msgid "credits"
+msgstr "medverkande"
+
+#: includes/amr-users-credits.php:26
+msgid "wordpress searchable user directory plugin"
+msgstr "wordpress sökbar användarkatalog plugin"
+
+#: includes/amr-users-credits.php:27
+msgid "wordpress searchable member directory plugin"
+msgstr "wordpress sökbar medlemsbiblioteks plugin"
+
+#: includes/amr-users-credits.php:28
+msgid "wordpress user list plugin"
+msgstr "wordpress användarlista plugin"
+
+#: includes/amr-users-credits.php:29
+msgid "wordpress member list plugin"
+msgstr "wordpress medlemslista plugin"
+
+#: includes/amr-users-credits.php:30
+msgid "wordpress users statistics plugin"
+msgstr "wordpress användare statistik plugin"
+
+#: includes/amr-users-credits.php:31
+msgid "wordpress member statistics plugin"
+msgstr "wordpress medlemsstatistik plugin"
+
+#: includes/amr-users-credits.php:32
+msgid "wordpress sortable member list plugin"
+msgstr "wordpress sortering medlemslista plugin"
+
+#: includes/amr-users-credits.php:33
+msgid "wordpress sortable user list plugin"
+msgstr "wordpress sorteranvändarlista plugin"
+
+#: includes/amr-users-credits.php:34
+msgid "wordpress team list plugin"
+msgstr "wordpress team list plugin"
+
+#: includes/amr-users-credits.php:48
+msgid "Acknowledgements"
+msgstr "Tack"
+
+#: includes/amr-users-credits.php:57
+msgid "Very discreetly, give credit"
+msgstr "Mycket diskret, ge kredit"
+
+#: includes/amr-users-credits.php:65
+msgid "Do not give credit"
+msgstr "Ge inte kredit"
+
+#: includes/amr-users-credits.php:70
+msgid "Express thanks in other ways:"
+msgstr "Uttryck tack på andra sätt:"
+
+#: includes/amr-users-credits.php:72
+msgid "Buy it"
+msgstr "Köp den"
+
+#: includes/amr-users-credits.php:76
+msgid "Work it"
+msgstr "Arbeta den"
+
+#: includes/amr-users-credits.php:79
+msgid "Plug it"
+msgstr "Plug it"
+
+#: includes/amr-users-credits.php:85
+msgid "Watch it"
+msgstr "Lolla den"
+
+#: includes/amr-users-credits.php:88
+msgid "Press it"
+msgstr "Press it"
+
+#: includes/amr-users-credits.php:91
+msgid "Send it"
+msgstr "Skicka den"
+
+#: includes/amr-users-credits.php:94
+msgid "Tweet it"
+msgstr "Twittra det"
+
+#: includes/amr-users-credits.php:97
+msgid "Like it"
+msgstr "Gilla den"
+
+#: includes/amr-users-csv.php:50
+msgid "Export a user list"
+msgstr "Exportera en användarlista"
+
+#: includes/amr-users-csv.php:147
+msgid "%s lines found, 1 heading line, the rest data."
+msgstr "%s rader hittades, 1 huvudrad, resten uppgifter."
+
+#: includes/amr-users-csv.php:156
+msgid "Public user list csv file: "
+msgstr "Offentlig användarlista csv-fil: "
+
+#: includes/amr-users-csv.php:160
+msgid "List %s, %s lines, plus heading line"
+msgstr "Lista %s,%s rader, plus rubrikrad"
+
+#: includes/amr-users-csv.php:196
+msgid "Export CSV as .txt"
+msgstr "Export CSV som .txt"
+
+#: includes/amr-users-csv.php:198
+msgid "Export to CSV"
+msgstr "Exportera till CSV"
+
+#: includes/amr-users-csv.php:217
+msgid "Csv Export"
+msgstr "CSV Export"
+
+#: includes/amr-users-csv.php:236
+msgid "Refresh Cache"
+msgstr "Uppdatera cache"
+
+#: includes/amr-users-csv.php:261
+msgid "Your csv directory %s has been created"
+msgstr "Din csv katalog %s har skapats"
+
+#: includes/amr-users-csv.php:266
+msgid "Error creating csv directory %s. Please check permissions"
+msgstr "Fel vid skapande av csv katalogen %s. Kontrollera behörigheter"
+
+#: includes/amr-users-headings-forms.php:18
+msgid "CSV Export"
+msgstr "CSV Export"
+
+#: includes/amr-users-headings-forms.php:22
+msgid " - Standard CSV."
+msgstr " - Standard CSV."
+
+#: includes/amr-users-headings-forms.php:23
+msgid "Txt Export"
+msgstr "Txt Export"
+
+#: includes/amr-users-headings-forms.php:25
+msgid ""
+"- a .txt file, with CR/LF filtered out, html stripped, tab delimiters, no "
+"quotes "
+msgstr ""
+"- en .txt-fil, med CR/LF filtrerades bort, html avskalade, tabbavgränsare, "
+"inga citat "
+
+#: includes/amr-users-headings-forms.php:29
+msgid "Configure this list"
+msgstr "Konfigurera denna lista"
+
+#: includes/amr-users-headings-forms.php:79
+msgid "Search Users"
+msgstr "Sök medlemmar"
+
+#: includes/amr-users-headings-forms.php:146
+msgctxt "Indicates sort priority"
+msgid "Sorted 1%s"
+msgstr "Sorterat 1%s"
+
+#: includes/amr-users-headings-forms.php:155
+msgctxt "Indicates sort priority"
+msgid "Sorted %s"
+msgstr "Sorterade %s"
+
+#: includes/amr-users-headings-forms.php:181
+msgid "Click to sort.  Click again to change direction."
+msgstr "Klicka för att sortera. Klicka igen för att ändra riktning."
+
+#: includes/amr-users-widget.php:12 includes/amr-users-widget.php:72
+msgid "Users"
+msgstr "Användare"
+
+#: includes/amr-users-widget.php:13
+msgid "users"
+msgstr "användare"
+
+#: includes/amr-users-widget.php:14
+msgid "User list"
+msgstr "Användarlista"
+
+#: includes/amr-users-widget.php:39
+msgid "See more"
+msgstr "Läs mer!"
+
+#: includes/amr-users-widget.php:76
+msgid "...more"
+msgstr "...mer"
+
+#: includes/amr-users-widget.php:86
+msgid "Does not exist yet!"
+msgstr "Finns inte än!"
+
+#: includes/amr-users-widget.php:91
+msgid "Title"
+msgstr "Titel"
+
+#: includes/amr-users-widget.php:95
+msgid "User List"
+msgstr "Användarlista"
+
+#: includes/amr-users-widget.php:103
+msgid "Show Pagination"
+msgstr "Visa sidindelning"
+
+#: includes/amr-users-widget.php:108
+msgid "No Pagination - Top x only"
+msgstr "Ingen sidindelning - endast topp x"
+
+#: includes/amr-users-widget.php:113
+msgid "Member page to link to for rest of users:"
+msgstr "Medlems sida att länka till för resten av användarna:"
+
+#: includes/amr-users-widget.php:117
+msgid "None"
+msgstr "Inga"
+
+#: includes/amr-users-widget.php:120
+msgid "More Text"
+msgstr "Mer Text"
+
+#: includes/ausers-pluggable.php:40
+msgid "year"
+msgid_plural "years"
+msgstr[0] "år"
+msgstr[1] "år"
+
+#: includes/ausers-pluggable.php:44
+msgid "month"
+msgid_plural "months"
+msgstr[0] "månad"
+msgstr[1] "månader"
+
+#: includes/ausers-pluggable.php:49
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagar"
+
+#: includes/ausers-pluggable.php:55
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "timme"
+msgstr[1] "timmar"
+
+#: includes/ausers-pluggable.php:60 includes/ausers-pluggable.php:68
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minut"
+msgstr[1] "minuter"
+
+#: includes/ausers-pluggable.php:72
+msgctxt "Separator in for example years, months, days"
+msgid ","
+msgstr ","
+
+#: includes/ausers-pluggable.php:73
+msgctxt "how many days, minutes etc ago and event occured"
+msgid "ago"
+msgstr "sedan"
+
+#: includes/ausers-pluggable.php:134 includes/ausers-pluggable.php:147
+msgctxt "indicate how long ago something happened"
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: includes/ausers-pluggable.php:343
+msgid "Email the user"
+msgstr "Eposta användaren"
+
+#: includes/ausers-pluggable.php:345
+msgid "Edit the user"
+msgstr "Redigera användaren"
+
+#: includes/ausers-pluggable.php:347
+msgid "Go to author archive"
+msgstr "Gå till författararkiv"
+
+#: includes/ausers-pluggable.php:349
+msgid "Go to users website"
+msgstr "Gå till användarnas hemsida"
+
+#: includes/ausers-pluggable.php:351
+msgid "View posts in admin"
+msgstr "Visa inlägg i admin"
+
+#: includes/ausers-pluggable.php:353
+msgid "See comments by user"
+msgstr "Se kommentarer efter användare"
+
+#: includes/ausers-pluggable.php:355
+msgid "Go to wp userlist filtered by user "
+msgstr "Gå till wp användarlista filtrerad efter användare"
+
+#: includes/ausers-pluggable.php:603 includes/ausers-pluggable.php:902
+msgid "%s Users found."
+msgstr "%s användare hittades."
+
+#: includes/ausers-pluggable.php:606 includes/ausers-pluggable.php:905
+msgid "Searching for \"%s\" in list"
+msgstr "Söker efter \"%s\" i listan"
+
+#: includes/ausers-pluggable.php:632 includes/ausers-pluggable.php:931
+msgid "Selected users with: "
+msgstr "Valda användare med: "
+
+#: includes/ausers-pluggable.php:761
+msgid "%1s record"
+msgid_plural "%1s records"
+msgstr[0] "% 1s post"
+msgstr[1] "%1s poster"
+
+#: includes/ausers-pluggable.php:1090
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Visar %s&#8211;%s av %s"
+
+#: uninstall.php:30
+msgid "Deleting all lists settings in database"
+msgstr "Radera alla listor inställningar i databasen"
+
+#: uninstall.php:33
+msgid "Deleting cached lists info in database"
+msgstr "Radera cachade infolistor i databasen"
+
+#: uninstall.php:39
+msgid "Removed scheduled action"
+msgstr "Tog bort planerad åtgärd"
+
+#: uninstall.php:42
+msgid "Deleted cache table"
+msgstr "Raderade cache tabell"
+
+#: uninstall.php:43
+msgid "Deleted cache log table"
+msgstr "Raderade cache-logg tabell"
+
+#. Plugin Name of the plugin/theme
+msgid "amr users"
+msgstr "amr users"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpusersplugin.com/"
+msgstr "http://wpusersplugin.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Configurable users listings by meta keys and values, comment count and post "
+"count. Includes  display, inclusion, exclusion, sorting configuration and an "
+"option to export to CSV. If you found this useful, please <a href=\"http://"
+"wordpress.org/extend/plugins/amr-users/\">  or rate it</a>, or write a post."
+msgstr ""
+"Konfigurerbara användarlistor av meta nycklar och värden, kommentar räkna "
+"och antal inlägg. Inkluderar visning, inkludering, exkludering, "
+"sorteringskonfiguration och en möjlighet att exportera till CSV. Om du "
+"hittade detta användbart, vänligen <a href=\"http://wordpress.org/extend/"
+"plugins/amr-users/\">eller betygsätt den</a> , eller skriv ett inlägg."
+
+#. Author of the plugin/theme
+msgid "anmari"
+msgstr "anmari"
+
+#. Author URI of the plugin/theme
+msgid "http://webdesign.anmari.com"
+msgstr "http://webdesign.anmari.com"
+
+#~ msgid "copy"
+#~ msgstr "kopiera"
+
+#~ msgid "Number of Lists must be greater than 0 and less than 40"
+#~ msgstr "Antal listor måste vara större än 0 och mindre än 40."
+
+#~ msgid "Uninstall"
+#~ msgstr "Avinstallera"
+
+#~ msgid "Clean Up Nice Names"
+#~ msgstr "Rensa upp trevliga namn"
+
+#~ msgid "Removed nice name no longer in use:"
+#~ msgstr "Ta bort fint namn som inte längre används:"
+
+#~ msgid "Options Cleaned Up"
+#~ msgstr "Alternativ rensades upp"
+
+#~ msgid "Must be numeric  %s <= %s"
+#~ msgstr "Måste vara numeriskt %s <= %s"
+
+#~ msgid "%s Must be  <= %s"
+#~ msgstr "%s måste vara <= %s"
+
+#~ msgid "Configure list %s: %s"
+#~ msgstr "Konfigurera listan %s: %s"
+
+#~ msgid "View (please update first)"
+#~ msgstr "Visa (uppdatera först)"
+
+#~ msgid ""
+#~ "Blank to hide, Enter a integer to select and specify column order.  Eg: 1 "
+#~ "2 6 8"
+#~ msgstr ""
+#~ "Tom för att dölja, ange ett heltal för att välja och ange "
+#~ "kolumnordningen.  T.ex.: 1 2 6 8"
+
+#~ msgid "Click to return to defaults settings"
+#~ msgstr "Klicka för att återgå till standardinställningarna"
+
+#~ msgid "Number of User Lists:"
+#~ msgstr "Antal användarlistor:"
+
+#~ msgid "Name of List "
+#~ msgstr "Namnet på listan "
+
+#~ msgid "AmR User List News"
+#~ msgstr "Nyheter om AmR användarlista"
+
+#~ msgid "Other Anmari News"
+#~ msgstr "Andra nyheter från Anmari"
+
+#~ msgid "Support at Author&#39;s website"
+#~ msgstr "Support på Author&#39;s hemsida"
+
+#~ msgid "Support at wordpress"
+#~ msgstr "Support på WordPress"
+
+#~ msgid "Donate"
+#~ msgstr "Donera"
+
+#~ msgid "Configure User Lists:"
+#~ msgstr "Konfigurera användarlistor:"
+
+#~ msgid "Home: Number and names of User Lists"
+#~ msgstr "Hem: Nummer och namn på användarlistor"
+
+#~ msgid "Nice Names for User Fields"
+#~ msgstr "Trevliga namn för användarfält"
+
+#~ msgid "Instructions"
+#~ msgstr "Instruktioner"
+
+#~ msgid "Configure each list as you wish"
+#~ msgstr "Konfigurera varje lista som du vill"
+
+#~ msgid "To add a list, increase the number of lists and press update."
+#~ msgstr "För att lägga till en lista, öka antalet och tryck uppdatera."
+
+#~ msgid "Then update the list details and configure it"
+#~ msgstr "Uppdatera sedan list-detaljerna och konfigurera den"
+
+#~ msgid ""
+#~ "Almost all possible user fields that have data in this wordpress install "
+#~ "are listed below.  If you have not yet created data for another plugin "
+#~ "used in your main site, then there may be no related data here.  Yes this "
+#~ "is a looooong list, and if you have a sophisticated membership system, it "
+#~ "may be even longer than others.  The fields that you are working with "
+#~ "will be sorted to the top."
+#~ msgstr ""
+#~ "Nästan alla möjliga användare-fält som har data i denna "
+#~ "wordpressinstallation är listade nedan.  Om du inte har skapat data för "
+#~ "en annan plugin som används i din huvudsakliga webbplats, kanske inga "
+#~ "relaterade data finns här.  Ja detta är en lååååång lista, och om du har "
+#~ "ett sofistikerad medlemskapssystem, kan det vara ännu längre än normalt.  "
+#~ "De fält som du arbetar med kommer att sorteras till toppen."
+
+#~ msgid ""
+#~ "Configure a list in the suggested sequence below. <b>Update</b> after "
+#~ "each step, then click <b>view</b> (top right) to see the result.  Click "
+#~ "Configure or back to return."
+#~ msgstr ""
+#~ "Konfigurera en lista i den föreslagna sekvensen nedan. <b>Uppdatera</ b> "
+#~ "efter varje steg, klicka på <b>visa</ b> (överst till höger) för att se "
+#~ "resultatet. Klicka på Konfigurera eller tillbaks för att återgå."
+
+#~ msgid "Note: Exclude and Include blank override any values."
+#~ msgstr "Obs: Uteslut och Inkludera tomma överstyr alla värden."
+
+#~ msgid "Users: Member status and dates"
+#~ msgstr "Användare: Medlemsstatus och datum"
+
+#~ msgid "Users: Post and Comment Counts"
+#~ msgstr "Användare: inlägg och kommentarräknare"
+
+#~ msgid "Jump to CSV Export"
+#~ msgstr "Hoppa till CSV Exportera"
+
+#~ msgid "Configure all lists"
+#~ msgstr "Anpassa alla listor"
+
+#~ msgid " Sorting by: "
+#~ msgstr " Sortering efter: "
+
+#~ msgid "%1s Users selected from total of %2s"
+#~ msgstr "%1s användare utvalda från totalt %2s"
+
+#~ msgid "AmR user Options deleted from Database"
+#~ msgstr "AmR användaralternativ raderade från databasen"
+
+#~ msgid "Uninstall AmR user Options"
+#~ msgstr "Avinstallera AmR användaralternativ"
+
+#~ msgid ""
+#~ "Note this function removes the options from the database.  To completely "
+#~ "uninstall, one should continue on to use the standard wordpress functions "
+#~ "to deactivate the plugin and delete the files.  It is not necessary to "
+#~ "run this separately as the uninstall will also run as part of the "
+#~ "wordpress delete plug-in files."
+#~ msgstr ""
+#~ "Obs, denna funktion tar bort alternativ från databasen. För att helt "
+#~ "avinstallera, bör man fortsätta genom att använda Wordpress standard "
+#~ "funktioner för att avaktivera plugin och ta bort filerna. Det är inte "
+#~ "nödvändigt att köra den här separat eftersom de avinstalleraren även "
+#~ "kommer att köras som en del av wordpress egen borttagning av plugin-filer."
+
+#~ msgid ""
+#~ "The function is provided here as an aid to someone who has perhaps got "
+#~ "their wordpress install in a knot and wishes to temporarily remove the "
+#~ "options from the database as part of their debugging or cleanup.  "
+#~ "Consider also the use of the RESET."
+#~ msgstr ""
+#~ "Funktionen finns här som ett stöd till någon som kanske har fått sin "
+#~ "Wordpressinstallation i en loop och önskar att tillfälligt ta bort "
+#~ "alternativ från databasen som en del av deras felsökning eller piffa upp. "
+#~ "Överväg också att använda Återställ."
+
+#~ msgid ""
+#~ "Note: Navigating to \"User List Settings\" will RELOAD default options - "
+#~ "negating the uninstall."
+#~ msgstr ""
+#~ "Obs: Vid navigera till \"Användarinställningar för lista\" kommer "
+#~ "standardalternativen att laddas - avböj avinstallationen."
+
+#~ msgid "Continue to Plugin list to delete files as well"
+#~ msgstr "Fortsätt till Pluginlista för att även radera filer"
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Really Uninstall Options?"
+#~ msgstr "Vill du verkligen avinstallera alternativen?"
+
+#~ msgid "AmR users"
+#~ msgstr "AmR användare"
+
+#~ msgid "http://webdesign.anmari.com/plugins/users/"
+#~ msgstr "http://webdesign.anmari.com/plugins/users/"
+
+#~ msgid ""
+#~ "Configurable users listings by meta keys and values, comment count and "
+#~ "post count. Includes  display, inclusion, exclusion, sorting "
+#~ "configuration and an option to export to CSV. <a href=\"options-general."
+#~ "php?page=ameta-admin.php\">Manage Settings</a>  or <a href=\"users.php?"
+#~ "page=ameta-list.php\">Go to Users Lists</a>.     If you found this "
+#~ "useful, please <a href=\"https://www.paypal.com/cgi-bin/webscr?"
+#~ "cmd=_donations&business=anmari%40anmari%2ecom&item_name=AmRUsersPlugin"
+#~ "\">Donate</a>, <a href=\"http://wordpress.org/extend/plugins/amr-users/"
+#~ "\">  or rate it</a>, or write a post."
+#~ msgstr ""
+#~ "Konfigurerbara användarlistor med meta nycklar och värden, kommentera och "
+#~ "räkna antal inlägg. Inkluderar visning, inkludering, exkludering, "
+#~ "sorteringskonfiguration och en möjlighet att exportera till CSV. <a href="
+#~ "\"options-general.php?page=ameta-admin.php\">Hantera inställningar</ a> "
+#~ "eller <a href=\"users.php?page=ameta-list.php\">Gå till användarelistor</ "
+#~ "a>.     Om du tycker detta varit till hjälp, kan du <a href=\"https://www."
+#~ "paypal.com/cgi-bin/webscr?cmd=_donations&business=anmari%40anmari"
+#~ "%2ecom&item_name=AmRUsersPlugin\">Donera</ a>, <a href=\"http://wordpress."
+#~ "org/extend/plugins/amr-users/\"> eller betygsätta det</ a>, eller skriva "
+#~ "ett inlägg."
+
+#~ msgid "Anna-marie Redpath"
+#~ msgstr "Anna-marie Redpath"

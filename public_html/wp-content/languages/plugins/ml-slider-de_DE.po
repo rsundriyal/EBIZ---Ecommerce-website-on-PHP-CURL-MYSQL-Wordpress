@@ -1,0 +1,677 @@
+# Translation of Stable (latest release) in German
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-28 10:12:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: ml-slider.php:1606
+msgid "Opacity"
+msgstr "Durchsichtigkeit"
+
+#: ml-slider.php:1608
+msgid "Opacity of title and navigation"
+msgstr "Durchsichtigkeit von Titel und Navigation"
+
+#: ml-slider.php:1619
+msgid "Caption speed"
+msgstr "Geschwindigkeit der Beschriftung"
+
+#: ml-slider.php:1621
+msgid "Set the fade in speed of the caption"
+msgstr "Stellen Sie die Geschwindigkeit des Einblendens für die Beschriftung ein"
+
+#: ml-slider.php:1628
+msgid "Developer options"
+msgstr "Entwickler Optionen"
+
+#: ml-slider.php:1633
+msgid "CSS classes"
+msgstr "CSS Klassen"
+
+#: ml-slider.php:1635
+msgid "Specify any custom CSS Classes you would like to be added to the slider wrapper"
+msgstr "Geben Sie benutzerdefinierte CSS Klassen an, die zum Diashow-Wrapper hinzugefügt werden sollen"
+
+#: ml-slider.php:1641
+msgid "Print CSS"
+msgstr "CSS einfügen"
+
+#: ml-slider.php:1644
+msgid "Uncheck this is you would like to include your own CSS"
+msgstr "Deaktivieren Sie dies wenn Sie eigenes CSS verwenden möchten"
+
+#: ml-slider.php:1649
+msgid "Print JS"
+msgstr "JS einfügen"
+
+#: ml-slider.php:1652
+msgid "Uncheck this is you would like to include your own Javascript"
+msgstr "Deaktivieren Sie dies wenn Sie eigene Javascripts verwenden möchten"
+
+#: ml-slider.php:1657
+msgid "No conflict mode"
+msgstr "No Conflict Modus"
+
+#: ml-slider.php:1660
+msgid "Delay adding the flexslider class to the slideshow"
+msgstr "Das Hinzufügen der Flexslider Class zur Diashow verzögern"
+
+#: ml-slider.php:1674
+msgid "Usage"
+msgstr "Anwendung"
+
+#: ml-slider.php:1677
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ml-slider.php:1678
+msgid "Template Include"
+msgstr "In Template einfügen"
+
+#: ml-slider.php:1682
+msgid "Copy & paste the shortcode directly into any WordPress post or page."
+msgstr "Diesen Shortcode in einen beliebigen WordPress Beitrag bzw. Seite einfügen."
+
+#: ml-slider.php:1685
+msgid "Copy & paste this code into a template file to include the slideshow within your theme."
+msgstr "Diesen Code in eine Template-Datei kopieren, um die Diashow innerhalb Ihres Themes anzuzeigen."
+
+#: ml-slider.php:1721
+msgid "Delete Slider"
+msgstr "Diashow löschen"
+
+#: ml-slider.php:1747
+msgid "Select slideshow to insert into post"
+msgstr "Wählen Sie eine Diashow zum Einfügen aus"
+
+#: ml-slider.php:1750
+msgid "Add slider"
+msgstr "Diashow hinzufügen"
+
+#: ml-slider.php:1784
+msgid "Insert Meta Slider"
+msgstr "Meta Slider Diashow einfügen"
+
+#: ml-slider.php:1786
+msgid "Choose slideshow"
+msgstr "Diashow auswählen"
+
+#: ml-slider.php:1791
+msgid "Insert slideshow"
+msgstr "Diashow einfügen"
+
+#: ml-slider.php:1810
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: ml-slider.php:1834
+msgid "Upgrade to Pro $19"
+msgstr "Upgrade auf Pro $19"
+
+#. #-#-#-#-#  tmp-ml-slider.pot (Meta Slider 3.3.7)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-ml-slider.pot (Meta Slider 3.3.7)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.metaslider.com"
+msgstr "https://www.metaslider.com"
+
+#. Description of the plugin/theme
+msgid "Easy to use slideshow plugin. Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides."
+msgstr "Einfach zu verwendendes Plugin für Diashows. Erzeuge für Suchmaschinen optimierte, responsive Diashows mit dem Nivo Slider, Flex Slider, Coin Slider und Responsive Slides."
+
+#. Author of the plugin/theme
+msgid "Matcha Labs"
+msgstr "Matcha Labs"
+
+#. #-#-#-#-#  tmp-ml-slider.pot (Meta Slider 3.3.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/metaslider.widget.class.php:19
+msgid "Meta Slider"
+msgstr "Meta Slider"
+
+#: inc/metaslider.widget.class.php:109
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/metaslider.widget.class.php:112
+msgid "Select Slider:"
+msgstr "Diashow wählen:"
+
+#: inc/metaslider.widget.class.php:122 ml-slider.php:1793
+msgid "No slideshows found"
+msgstr "Keine Diashows gefunden"
+
+#: inc/slide/metaslide.class.php:76 inc/slide/metaslide.image.class.php:32
+msgid "Security check failed. Refresh page and try again."
+msgstr "Sicherheits-Check fehlgeschlagen. Seite aktualisieren und bitte erneut versuchen."
+
+#: inc/slide/metaslide.class.php:121
+msgid "File copy failed. Please check upload directory permissions."
+msgstr "Kopieren der Datei fehlgeschlagen. Bitte überprüfe die Verzeichnis-Rechte zum Hochladen."
+
+#: inc/slide/metaslide.class.php:286
+msgid "Delete slide"
+msgstr "Dia löschen."
+
+#: inc/slide/metaslide.image.class.php:48
+msgid "Failed to add slide. Slide already exists in slideshow."
+msgstr "Fehler beim Hinzufügen. Slide existiert bereits in der Diashow."
+
+#: inc/slide/metaslide.image.class.php:52
+msgid "Failed to add slide. Slide is not of type 'image'."
+msgstr "Fehler beim Hinzufügen. Slide ist nicht vom Typ 'Bild'."
+
+#: inc/slide/metaslide.image.class.php:56
+msgid "Failed to add slide. Slide is not an image."
+msgstr "Hinzufügen eines Dias fehlgeschlagen. Dia ist nicht ein Bild."
+
+#: inc/slide/metaslide.image.class.php:120
+msgid "Image Slide"
+msgstr "Bild"
+
+#: inc/slide/metaslide.image.class.php:155 ml-slider.php:472
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: inc/slide/metaslide.image.class.php:156 ml-slider.php:471
+msgid "URL"
+msgstr "URL"
+
+#: inc/slide/metaslide.image.class.php:158 ml-slider.php:473
+msgid "New Window"
+msgstr "Neues Fenster"
+
+#: inc/slide/metaslide.image.class.php:162
+msgid "Warning: Image data does not exist. Please re-upload the image."
+msgstr "Warnung: Bild existiert leider nicht mehr. Bitte das Bild erneut hochladen."
+
+#: inc/slide/metaslide.image.class.php:167
+msgid "Image Title Text"
+msgstr "Bild Titel"
+
+#: inc/slide/metaslide.image.class.php:169
+msgid "Image Alt Text"
+msgstr "Bild Alternativtext"
+
+#: inc/slide/metaslide.image.class.php:174
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/slide/metaslide.image.class.php:178
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/slide/metaslide.image.class.php:191
+msgid "Crop Position"
+msgstr "Zuschneideposition"
+
+#: inc/slide/metaslide.image.class.php:194
+msgid "Top Left"
+msgstr "Oben links"
+
+#: inc/slide/metaslide.image.class.php:195
+msgid "Top Center"
+msgstr "Oben mittig"
+
+#: inc/slide/metaslide.image.class.php:196
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: inc/slide/metaslide.image.class.php:197
+msgid "Center Left"
+msgstr "Mittig links"
+
+#: inc/slide/metaslide.image.class.php:198
+msgid "Center Center"
+msgstr "Mittig mittig"
+
+#: inc/slide/metaslide.image.class.php:199
+msgid "Center Right"
+msgstr "Mittig rechts"
+
+#: inc/slide/metaslide.image.class.php:200
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: inc/slide/metaslide.image.class.php:201
+msgid "Bottom Center"
+msgstr "Unten mittig"
+
+#: inc/slide/metaslide.image.class.php:202
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: inc/slide/metaslide.image.class.php:207
+msgid "Crop"
+msgstr "Zuschneiden"
+
+#: ml-slider.php:284 ml-slider.php:285
+msgid "Go Pro!"
+msgstr "Go Pro!"
+
+#: ml-slider.php:418
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ml-slider.php:474
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: ml-slider.php:476
+msgid "Select replacement image"
+msgstr "Ersatzbild auswählen"
+
+#: ml-slider.php:481
+msgid "Caution: This setting is for advanced developers only. If you're unsure, leave it checked."
+msgstr "Achtung: Diese Einstellung ist nur für fortgeschrittene Entwickler. Wenn Sie unsicher sind, lassen Sie es sein."
+
+#: ml-slider.php:544
+msgid "Image"
+msgstr "Bild"
+
+#: ml-slider.php:545
+msgid "Add to slider"
+msgstr "Hinzufügen zur Diashow"
+
+#: ml-slider.php:815
+msgid "New Slider"
+msgstr "Neue Diashow"
+
+#: ml-slider.php:1106
+msgid "Switch to Dropdown view"
+msgstr "Zur Dropdown-Ansicht umschalten"
+
+#: ml-slider.php:1106
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: ml-slider.php:1127
+msgid "New slideshow created. Click 'Add Slide' to get started!"
+msgstr "Neue Diashow erstellt. Klicken Sie 'Dia hinzufügen' um loszulegen!"
+
+#: ml-slider.php:1131
+msgid "Switch to Tab view"
+msgstr "Zur Reiter-Ansicht umschalten"
+
+#: ml-slider.php:1131
+msgid "Tabs"
+msgstr "Reiter"
+
+#: ml-slider.php:1133
+msgid "Select Slider"
+msgstr "Diashow wählen"
+
+#: ml-slider.php:1152
+msgid "or"
+msgstr "oder"
+
+#: ml-slider.php:1153
+msgid "Add New Slideshow"
+msgstr "Neue Diashow hinzufügen"
+
+#: ml-slider.php:1159
+msgid "Create your first slideshow"
+msgstr "Erstellen Sie Ihre erste Diashow"
+
+#: ml-slider.php:1235
+msgid "Slides"
+msgstr "Dias"
+
+#: ml-slider.php:1239 ml-slider.php:1240
+msgid "Add Slide"
+msgstr "Dia hinzufügen"
+
+#: ml-slider.php:1263
+msgid "Save"
+msgstr "Speichern"
+
+#: ml-slider.php:1264
+msgid "Save & Preview"
+msgstr "Speichern & Vorschau"
+
+#: ml-slider.php:1277
+msgid "Flex Slider"
+msgstr "Flex Slider"
+
+#: ml-slider.php:1278
+msgid "R. Slides"
+msgstr "R. Slides"
+
+#: ml-slider.php:1279
+msgid "Nivo Slider"
+msgstr "Nivo Slider"
+
+#: ml-slider.php:1280
+msgid "Coin Slider"
+msgstr "Coin Slider"
+
+#: ml-slider.php:1291 ml-slider.php:1530
+msgid "Width"
+msgstr "Breite"
+
+#: ml-slider.php:1293
+msgid "Slideshow width"
+msgstr "Diashow Breite"
+
+#: ml-slider.php:1294 ml-slider.php:1307 ml-slider.php:1457
+msgid "px"
+msgstr "px"
+
+#: ml-slider.php:1304 ml-slider.php:1543
+msgid "Height"
+msgstr "Höhe"
+
+#: ml-slider.php:1306
+msgid "Slideshow height"
+msgstr "Diashow Höhe"
+
+#: ml-slider.php:1313
+msgid "Effect"
+msgstr "Effekt"
+
+#: ml-slider.php:1315
+msgid "Slide transition effect"
+msgstr "Diashow Übergangseffekt"
+
+#: ml-slider.php:1317 ml-slider.php:1462
+msgid "Random"
+msgstr "Zufällig"
+
+#: ml-slider.php:1318
+msgid "Swirl"
+msgstr "Wirbel"
+
+#: ml-slider.php:1319
+msgid "Rain"
+msgstr "Regen"
+
+#: ml-slider.php:1320
+msgid "Straight"
+msgstr "Gerade"
+
+#: ml-slider.php:1321
+msgid "Slide Down"
+msgstr "Gleiten nach unten"
+
+#: ml-slider.php:1322
+msgid "Slice Up"
+msgstr "Teilen nach oben"
+
+#: ml-slider.php:1323
+msgid "Slide Up Left"
+msgstr "Gleiten von unten nach links"
+
+#: ml-slider.php:1324
+msgid "Slice Up Down"
+msgstr "Teilen von oben und unten"
+
+#: ml-slider.php:1325
+msgid "Slide Up Down Left"
+msgstr "Gleiten von unten nach links oben"
+
+#: ml-slider.php:1326
+msgid "Fold"
+msgstr "Falten"
+
+#: ml-slider.php:1327
+msgid "Fade"
+msgstr "Überblenden"
+
+#: ml-slider.php:1328
+msgid "Slide In Right"
+msgstr "Gleiten nach rechts"
+
+#: ml-slider.php:1329
+msgid "Slide In Left"
+msgstr "Gleiten nach links"
+
+#: ml-slider.php:1330
+msgid "Box Random"
+msgstr "Zufällige Kästchen"
+
+#: ml-slider.php:1331
+msgid "Box Rain"
+msgstr "Kästchen-Regen"
+
+#: ml-slider.php:1332
+msgid "Box Rain Reverse"
+msgstr "Kästchen-Regen umgekehrt"
+
+#: ml-slider.php:1333
+msgid "Box Rain Grow Reverse"
+msgstr "Kästchen-Regen wachsend umgekehrt"
+
+#: ml-slider.php:1334
+msgid "Slide"
+msgstr "Gleiten"
+
+#: ml-slider.php:1341
+msgid "Theme"
+msgstr "Theme"
+
+#: ml-slider.php:1343
+msgid "Slideshow theme"
+msgstr "Diashow Theme"
+
+#: ml-slider.php:1345
+msgid "Default"
+msgstr "Standard"
+
+#: ml-slider.php:1346
+msgid "Dark (Nivo)"
+msgstr "Dark (Nivo)"
+
+#: ml-slider.php:1347
+msgid "Light (Nivo)"
+msgstr "Light (Nivo)"
+
+#: ml-slider.php:1348
+msgid "Bar (Nivo)"
+msgstr "Bar (Nivo)"
+
+#: ml-slider.php:1354
+msgid "Arrows"
+msgstr "Pfeile"
+
+#: ml-slider.php:1357
+msgid "Show the previous/next arrows"
+msgstr "Zeige die zurück/weiter Pfeile"
+
+#: ml-slider.php:1362
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ml-slider.php:1365
+msgid "Show the slide navigation bullets"
+msgstr "Punkte für die Navigation anzeigen"
+
+#: ml-slider.php:1367
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: ml-slider.php:1368
+msgid "Dots"
+msgstr "Punkte"
+
+#: ml-slider.php:1379
+msgid "Title"
+msgstr "Titel"
+
+#: ml-slider.php:1380
+msgid "Slideshow title"
+msgstr "Diashow Titel"
+
+#: ml-slider.php:1394
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: ml-slider.php:1403
+msgid "Stretch"
+msgstr "Strecken"
+
+#: ml-slider.php:1405
+msgid "100% wide output"
+msgstr "100% Breite"
+
+#: ml-slider.php:1407
+msgid "Stretch the slideshow output to fill it's parent container"
+msgstr "Diashow an die Grösse des Containers anpassen"
+
+#: ml-slider.php:1412
+msgid "Center align"
+msgstr "Mittig ausrichten"
+
+#: ml-slider.php:1415
+msgid "Center align the slideshow"
+msgstr "Diashow mittig ausrichten"
+
+#: ml-slider.php:1420
+msgid "Auto play"
+msgstr "Automatische Wiedergabe"
+
+#: ml-slider.php:1423
+msgid "Transition between slides automatically"
+msgstr "Überblendung zwischen Dias automatisch"
+
+#: ml-slider.php:1428
+msgid "Image Crop"
+msgstr "Bild zuschneiden"
+
+#: ml-slider.php:1432
+msgid "Smart Crop"
+msgstr "Intelligentes Zuschneiden"
+
+#: ml-slider.php:1433
+msgid "Standard"
+msgstr "Standard"
+
+#: ml-slider.php:1434
+msgid "Disabled"
+msgstr "Aus"
+
+#: ml-slider.php:1435
+msgid "Disabled (Smart Pad)"
+msgstr "Deaktiviert (Smart Pad)"
+
+#: ml-slider.php:1437
+msgid "Smart Crop ensures your responsive slides are cropped to a ratio that results in a consistent slideshow size"
+msgstr "Smart Crop sorgt dafür, dass Ihre Dias in einem Verhältnis zugeschnitten werden, das eine konsistente Größe für die Diashow ergibt"
+
+#: ml-slider.php:1442
+msgid "Carousel mode"
+msgstr "Carousel Modus"
+
+#: ml-slider.php:1445
+msgid "Display multiple slides at once. Slideshow output will be 100% wide."
+msgstr "Zeige mehrere Dias gleichzeitig an. Die Diashow wird 100% breit sein."
+
+#: ml-slider.php:1453
+msgid "Carousel margin"
+msgstr "Carousel Abstand"
+
+#: ml-slider.php:1456
+msgid "Pixel margin between slides in carousel."
+msgstr "Pixelabstand zwischen den Dias im Carousel."
+
+#: ml-slider.php:1465
+msgid "Randomise the order of the slides"
+msgstr "Zufällige Reihenfolge der Dias"
+
+#: ml-slider.php:1470
+msgid "Hover pause"
+msgstr "Pause bei 'Hover'"
+
+#: ml-slider.php:1473
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr "Diashow bei Bewegen der Maus über das Bild anhalten, sobald die Maus das Bild verlässt geht die Animation weiter."
+
+#: ml-slider.php:1478
+msgid "Reverse"
+msgstr "Rückwärts"
+
+#: ml-slider.php:1481
+msgid "Reverse the animation direction"
+msgstr "Richtung der Animation umkehren"
+
+#: ml-slider.php:1491
+msgid "Slide delay"
+msgstr "Anzeigedauer"
+
+#: ml-slider.php:1493
+msgid "How long to display each slide, in milliseconds"
+msgstr "Wie lange jedes Dia angezeigt wird, in Millisekunden"
+
+#: ml-slider.php:1494 ml-slider.php:1507 ml-slider.php:1520 ml-slider.php:1596
+#: ml-slider.php:1622
+msgid "ms"
+msgstr "ms"
+
+#: ml-slider.php:1504
+msgid "Animation speed"
+msgstr "Animationsgeschwindigkeit"
+
+#: ml-slider.php:1506
+msgid "Set the speed of animations, in milliseconds"
+msgstr "Stellen Sie die Geschwindigkeit der Animationen ein, in Millisekunden"
+
+#: ml-slider.php:1517 ml-slider.php:1519
+msgid "Number of slices"
+msgstr "Anzahl der Teile"
+
+#: ml-slider.php:1530 ml-slider.php:1532 ml-slider.php:1543 ml-slider.php:1545
+msgid "Number of squares"
+msgstr "Anzahl der Quadrate"
+
+#: ml-slider.php:1551
+msgid "Slide direction"
+msgstr "Bewegungsrichtung"
+
+#: ml-slider.php:1553
+msgid "Select the sliding direction"
+msgstr "Wählen Sie die Bewegungsrichtung der Diashow"
+
+#: ml-slider.php:1556
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ml-slider.php:1557
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ml-slider.php:1563
+msgid "Easing"
+msgstr "Übergang"
+
+#: ml-slider.php:1565
+msgid "Animation easing effect"
+msgstr "Animationsübergang Effekt"
+
+#: ml-slider.php:1572
+msgid "Previous text"
+msgstr "'Zurück' Text"
+
+#: ml-slider.php:1574
+msgid "Set the text for the 'previous' direction item"
+msgstr "Text für die 'Zurück' Richtungsangabe, Beispiel: Vorheriges Bild"
+
+#: ml-slider.php:1580
+msgid "Next text"
+msgstr "'Weiter' Text"
+
+#: ml-slider.php:1582
+msgid "Set the text for the 'next' direction item"
+msgstr "Text für die 'Weiter' Richtungsangabe, Beispiel: Nächstes Bild"
+
+#: ml-slider.php:1593
+msgid "Square delay"
+msgstr "Pause zwischen Quadraten"
+
+#: ml-slider.php:1595
+msgid "Delay between squares in ms"
+msgstr "Pause zwischen Quadraten in ms"

@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Waiting List\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-04 15:41+0100\n"
+"PO-Revision-Date: 2016-03-18 23:41+0330\n"
+"Last-Translator: amir <tansu68@live.com>\n"
+"Language-Team: Mandegarweb Team <tansu68@live.com>\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Loco-Target-Locale: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: templates/email/plain/yith-wcwtl-mail.php:16 templates/email/yith-wcwtl-mail.php:21
+#, php-format
+msgid "%1$s is now back in stock at %2$s."
+msgstr "در حال‌حاضر محصول %1$s در %2$s موجود شده است."
+
+#: templates/email/plain/yith-wcwtl-mail.php:17
+msgid ""
+"You have been sent this email because your email address was registered in a "
+"waiting list for this product."
+msgstr ""
+"این نامه برای آگاهی شما از موجود شدن محصولی که ایمیل‌تان را در فهرست انتظار آن "
+"افزوده بودید، ارسال شده است."
+
+#: templates/email/plain/yith-wcwtl-mail.php:18
+#, php-format
+msgid "If you want to purchase %s, please visit the following link: %s"
+msgstr "اگر شما قصد خرید %s را دارید، خواهشمندیم از پیوند روبرو را دنبال کنید: %s"
+
+#: templates/email/yith-wcwtl-mail.php:16
+msgctxt "Email salutation"
+msgid "Hi There,"
+msgstr "با درود فراوان،"
+
+#: templates/email/yith-wcwtl-mail.php:22
+msgid ""
+"You have been sent this email because your email address was registered on a "
+"waiting list for this product."
+msgstr ""
+"این نامه برای آگاهی شما از موجود شدن محصولی که ایمیل‌تان را در فهرست انتظار آن "
+"افزوده بودید، ارسال شده است."
+
+#: templates/email/yith-wcwtl-mail.php:26
+#, php-format
+msgid ""
+"If you would like to purchase %s, please visit the following <a href=\"%s\">link</a>"
+msgstr ""
+"اگر شما قصد خرید %s را دارید، خواهشمندیم این <a href=\"%s\">پیوند</a> را دنبال کنید."
+
+#: includes/class.yith-wcwtl-admin.php:129 includes/class.yith-wcwtl-admin.php:152
+msgid "Settings"
+msgstr "پیکربندی"
+
+#: includes/class.yith-wcwtl-admin.php:131 includes/class.yith-wcwtl-admin.php:156
+msgid "Premium Version"
+msgstr "نگارش پولی"
+
+#: includes/class.yith-wcwtl-admin.php:162 includes/class.yith-wcwtl-admin.php:163
+msgid "Waiting List"
+msgstr "فهرست انتظار"
+
+#: includes/class.yith-wcwtl-admin.php:216
+msgid "Plugin Documentation"
+msgstr "مستندات افزونه"
+
+#: includes/class.yith-wcwtl-email.php:32
+msgid "YITH Waiting list"
+msgstr "فهرست انتظار YITH"
+
+#: includes/class.yith-wcwtl-email.php:33
+msgid ""
+"When a product is no more Out-of-Stock and it is In-Stock again, this email is sent "
+"to all users registered in the waiting list for that product."
+msgstr ""
+"هنگامی‌که وضعیت یک محصول از \"در انبار موجود نمی‌باشد\" به \"موجود در انبار\" تغییر "
+"پیدا می‌کند، این ایمیل برای همه‌ی کاربرانی که ایمیل‌شان را در فهرست انتظار آن محصول "
+"افزوده‌اند ارسال می‌شود."
+
+#: includes/class.yith-wcwtl-email.php:35
+msgid "{product_title} is now back in stock at {blogname}"
+msgstr "محصول {product_title} هم‌اکنون در {blogname} موجود می‌باشد"
+
+#: includes/class.yith-wcwtl-email.php:36
+msgid "A product you are waiting for is back in stock"
+msgstr "محصولی که در انتظار آن بودید، موجود شد"
+
+#: includes/class.yith-wcwtl-frontend.php:190
+msgid "Email Address"
+msgstr "آدرس ایمیل شما"
+
+#: includes/class.yith-wcwtl-frontend.php:229
+msgid ""
+"You must provide a valid email address to join the waiting list of this product"
+msgstr ""
+"شما باید برای پیوستن به فهرست انتظار موجود شدن این محصول، از یک ایمیل معتبر استفاده "
+"کنید"
+
+#: includes/class.yith-wcwtl-frontend.php:252
+msgid "You have already registered for this waiting list"
+msgstr "در حال‌حاضر ایمیل شما به فهرست انتظار این محصول افزوده شده است"
+
+#: includes/class.yith-wcwtl-frontend.php:259
+msgid "You have been removed from the waiting list for this product"
+msgstr "ایمیل شما از فهرست انتظار موجود شدن این محصول پاک شد"
+
+#: includes/class.yith-wcwtl-frontend.php:262
+msgid "An error has occurred. Please try again."
+msgstr "مشکلی بوجود آمده است، خواهشمندیم دوباره تلاش کنید."
+
+#: includes/class.yith-wcwtl-meta.php:103
+msgid "Waiting list"
+msgstr "فهرست انتظار"
+
+#: includes/class.yith-wcwtl-meta.php:121
+#, php-format
+msgid "Waiting list for the variation: #%s"
+msgstr "فهرست انتظار برای دگرگونی: #%s"
+
+#: includes/class.yith-wcwtl-meta.php:168
+#, php-format
+msgid "There is %s user in the waiting list for this product"
+msgid_plural "There are %s users in the waiting list for this product"
+msgstr[0] "%s کاربر در فهرست انتظار این محصول قرار گرفته است"
+
+#: includes/class.yith-wcwtl-meta.php:172
+msgid "There are no users in this waiting list"
+msgstr "هیچ کاربری در فهرست انتظار قرار نگرفته است"
+
+#: includes/class.yith-wcwtl-meta.php:193
+msgid "Send the email to the users"
+msgstr "ارسال ایمیل آگاهی‌رسان به کاربران"
+
+#: includes/class.yith-wcwtl-meta.php:224
+msgid "Email sent correctly."
+msgstr "ایمیل به‌درستی ارسال شد."
+
+#: includes/class.yith-wcwtl-meta.php:230
+msgid "An error has occurred, please try again."
+msgstr "مشکلی بوجود آمده است، خواهشمندیم دوباره تلاش کنید."
+
+#: init.php:41
+msgid ""
+"YITH WooCommerce Waiting List is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
+"افزونه فهرست انتظار فعال است اما فعال بودن این افزونه بدون افزونه ووکامرس بی‌فایده "
+"است، برای استفاده از این افزونه باید افزونه ووکامرس در سایت شما فعال باشد."
+
+#: init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Waiting List while you are "
+"using the premium one."
+msgstr ""
+"شما نمی‌توانید در حالی که از نگارش پولی استفاده می‌کنید، نگارش رایگان افزونه فهرست "
+"انتظار را فعال کنید."
+
+#: plugin-options/general-options.php:11
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "آپ‌گرید به نگارش پولی"
+
+#: plugin-options/general-options.php:14 plugin-options/general-options.php:21
+msgid "YITH WooCommerce Waiting List"
+msgstr "فهرست انتظار"
+
+#: plugin-options/general-options.php:15
+msgid "Discover the Advanced Features"
+msgstr "ویژگی‌های پیشرفته را کشف کنید"
+
+#: plugin-options/general-options.php:16
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Waiting List to benefit from all "
+"features!"
+msgstr "با آپ‌گرید به نگارش پولی افزونه فهرست انتظار از همه‌ی ویژگی‌ها بهره‌مند شوید!"
+
+#: plugin-options/general-options.php:23
+msgid "Get Support and Pro Features"
+msgstr "دریافت پشتیبانی و ویژگی‌های حرفه‌ای"
+
+#: plugin-options/general-options.php:24
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of the "
+"advanced features of the product and you will get one year of free updates and "
+"support through our platform available 24h/24."
+msgstr ""
+"با خرید نگارش پولی افزونه فهرست انتظار محصولات ناموجود در ووکامرس علاوه بر استفاده "
+"از ویژگی‌های پیشرفته این افزونه، می‌توانید تا یک‌سال از دریافت پشتیبانی و بروزرسانی‌ها "
+"بهره‌مند شوید."
+
+#: plugin-options/general-options.php:34
+msgid "General Options"
+msgstr "پیکربندی همگانی"
+
+#: plugin-options/general-options.php:42
+msgid "Enable Waiting List"
+msgstr "فعال کردن فهرست انتظار"
+
+#: plugin-options/general-options.php:49
+msgid "Notification message"
+msgstr "پیام آگاهی‌رسان"
+
+#: plugin-options/general-options.php:50
+msgid ""
+"A text message to show before the waiting list form in the single product page."
+msgstr ""
+"یک پیام متنی است که پیش از فرم دریافت ایمیل کاربران در برگه محصول نمایش داده می‌شود."
+
+#: plugin-options/general-options.php:52
+msgid "Notify me when the item is back in stock."
+msgstr ""
+"می‌توانید ایمیل خود را وارد کنید تا از موجود شدن این محصول بصورت خودکار آگاه گردید."
+
+#: plugin-options/general-options.php:57
+msgid "Add button label"
+msgstr "افزودن برچسب دکمه"
+
+#: plugin-options/general-options.php:58
+msgid "The label of the button to be added to the waiting list"
+msgstr "برچسبی برای متن دکمه‌ی افزودن به فهرست انتظار"
+
+#: plugin-options/general-options.php:60
+msgid "Add to waiting list"
+msgstr "به من اطلاع بده"
+
+#: plugin-options/general-options.php:65
+msgid "Remove button label"
+msgstr "برچسب دکمه پاک‌کردن"
+
+#: plugin-options/general-options.php:66
+msgid "The label of the button to be removed from the waiting list"
+msgstr "برچسبی برای متن دکمه‌ی بیرون رفتن از فهرست انتظار"
+
+#: plugin-options/general-options.php:68
+msgid "Leave waiting list"
+msgstr "بیرون رفتن از فهرست انتظار"
+
+#: plugin-options/general-options.php:73
+msgid "Successful registration message"
+msgstr "پیام نام‌نویسی موفقیت‌آمیز"
+
+#: plugin-options/general-options.php:74
+msgid "The text for the successful registration in the waiting list."
+msgstr ""
+"یک پیام متنی است برای کسانی‌که ایمیل‌شان با موفقیت در فهرست انتظار افزوده شده است."
+
+#: plugin-options/general-options.php:76
+msgid "You have been added to the waiting list for this product"
+msgstr ""
+"ایمیل شما با موفقیت افزوده شد و در صورت موجود شدن این محصول ایمیلی برای آگاهی شما "
+"ارسال خواهد شد."
+
+#: templates/email/plain/yith-wcwtl-mail.php:14
+msgctxt "Email greetings"
+msgid "Hi there,"
+msgstr "با درود فراوان،"

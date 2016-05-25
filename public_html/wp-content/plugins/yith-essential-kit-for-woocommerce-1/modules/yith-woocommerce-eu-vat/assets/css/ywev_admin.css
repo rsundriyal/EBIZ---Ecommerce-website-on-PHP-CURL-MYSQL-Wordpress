@@ -1,0 +1,86 @@
+table#eu_vat_selection tbody, table#eu_vat_selection thead {
+    display: block;
+}
+
+table#eu_vat_selection tbody {
+    overflow-x: hidden;
+    height: 300px;
+}
+
+table#eu_vat_selection * {
+    box-sizing: content-box;
+}
+
+.tax-class-table span.description {
+    padding-bottom: 15px;
+    display: block;
+}
+
+#plugin-fw-wc table#eu_vat_selection th {
+    padding: 5px;
+}
+
+#plugin-fw-wc table#eu_vat_selection thead {
+    border-collapse: collapse;
+    border: 1pt solid rgb(226, 224, 224);
+    border-bottom-width: 0px;;
+}
+
+#plugin-fw-wc table#eu_vat_selection tr td,
+#plugin-fw-wc table#eu_vat_selection tr th {
+    border-bottom: 1pt solid rgb(226, 224, 224);
+    border-right: 1pt solid rgb(226, 224, 224);
+}
+
+#plugin-fw-wc table#eu_vat_selection tbody#rates {
+    text-align: left;
+}
+
+#plugin-fw-wc table#eu_vat_selection tbody#rates {
+    width: 100%;
+    border: 1px solid rgb(226, 224, 224);
+    border-collapse: collapse;
+}
+
+#plugin-fw-wc table#eu_vat_selection tbody#rates td {
+    padding: 5px;
+}
+
+#plugin-fw-wc table#eu_vat_selection .select-tax,
+#plugin-fw-wc table#eu_vat_selection .city {
+    width: 35px;
+    min-width: 35px;
+    max-width: 35px;
+}
+
+#plugin-fw-wc table#eu_vat_selection .tax-name,
+#plugin-fw-wc table#eu_vat_selection .country-code,
+#plugin-fw-wc table#eu_vat_selection .post-code {
+    width: 110px;
+    min-width: 110px;
+    max-width: 110px;
+}
+
+#plugin-fw-wc table#eu_vat_selection .tax-class,
+#plugin-fw-wc table#eu_vat_selection .rate,
+#plugin-fw-wc table#eu_vat_selection .state-code {
+    width: 80px;
+    min-width: 80px;
+    max-width: 80px;
+}
+
+#plugin-fw-wc table#eu_vat_selection .tax-name,
+#plugin-fw-wc table#eu_vat_selection tbody#rates td.tax-name {
+    border-right: none;
+    padding-right: 25px;
+}
+
+#plugin-fw-wc table#eu_vat_selection tr td,
+#plugin-fw-wc table#eu_vat_selection tr th {
+    border-bottom: 1pt solid rgb(226, 224, 224);
+    border-right: 1pt solid rgb(226, 224, 224);
+}
+#plugin-fw-wc table.form-table div.tax-report table th {
+    padding: 10px;
+
+}

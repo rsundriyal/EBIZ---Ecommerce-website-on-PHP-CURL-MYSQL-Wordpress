@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Color and Label Variations\n"
+"POT-Creation-Date: 2015-08-17 14:13+0200\n"
+"PO-Revision-Date: 2015-08-17 14:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wccl-admin.php:96
+msgid "Colorpicker"
+msgstr "Selettore di colore"
+
+#: ../class.yith-wccl-admin.php:97
+msgid "Image"
+msgstr "Immagine"
+
+#: ../class.yith-wccl-admin.php:98
+msgid "Label"
+msgstr "Etichetta"
+
+#: ../class.yith-wccl-admin.php:216
+msgid "Value"
+msgstr "Valore"
+
+#: ../class.yith-wccl-admin.php:277
+msgid "Videotutorial"
+msgstr "Tutorial video"
+
+#: ../class.yith-wccl-admin.php:303
+msgid "Select terms"
+msgstr "Seleziona termini"
+
+#: ../class.yith-wccl-admin.php:313
+msgid "Select all"
+msgstr "Seleziona tutto"
+
+#: ../class.yith-wccl-admin.php:314
+msgid "Select none"
+msgstr "Deseleziona tutto"
+
+#: ../class.yith-wccl-admin.php:315
+msgid "Add new"
+msgstr "Aggiungi nuovo"
+
+#: ../init.php:42
+msgid ""
+"You can't activate the free version of YITH WooCommerce Colors and Labels "
+"Variations while you are using the premium one."
+msgstr ""
+"Non è possibile attrivare la versione free di YITH WooCommerce Colors and "
+"Labels Variations se stai già utilizzando la premium."
+
+#: ../templates/single-product/add-to-cart/variable-wccl.php:39
+msgid "This product is currently out of stock and unavailable."
+msgstr "Questo prodotto al momento non è disponibile."
+
+#: ../templates/single-product/add-to-cart/variable-wccl.php:57
+msgid "Choose an option"
+msgstr "Scegli un'opzione"
+
+#: ../templates/single-product/add-to-cart/variable-wccl.php:93
+msgid "Clear selection"
+msgstr "Cancella selezione"
+
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
+
+#~ msgid "Color and Label Variations"
+#~ msgstr "Color and Label Variations"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Documentazione plugin"
+
+#~ msgid "Tooltip"
+#~ msgstr "Tooltip"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "A value is required for this term"
+#~ msgstr "È necessario inserire un valore per questo termine"
+
+#~ msgid ""
+#~ "YITH WooCommerce Color and Label Variations Premium is enabled but not "
+#~ "effective. It requires WooCommerce in order to work."
+#~ msgstr ""
+#~ "YITH WooCommerce Color and Label Variations Premium è abilitato ma non in "
+#~ "funzione. Devi aver installato WooCommerce perché questo possa funzionare "
+#~ "correttamente."
+
+#~ msgid "General Options"
+#~ msgstr "Opzioni generali"
+
+#~ msgid "Enable Tooltip"
+#~ msgstr "Abilita tooltip"
+
+#~ msgid "Enable tooltip for attributes"
+#~ msgstr "Abilita tooltip per gli attributi"
+
+#~ msgid "Tooltip position"
+#~ msgstr "Posizione tooltip"
+
+#~ msgid "Select tooltip position"
+#~ msgstr "Seleziona dove mostrare il tooltip"
+
+#~ msgid "Top"
+#~ msgstr "Sopra"
+
+#~ msgid "Bottom"
+#~ msgstr "Sotto"
+
+#~ msgid "Tooltip animation"
+#~ msgstr "Animazione tooltip"
+
+#~ msgid "Select tooltip animation"
+#~ msgstr "Seleziona l'animazione per il tooltip"
+
+#~ msgid "Fade in"
+#~ msgstr "Dissolvenza"
+
+#~ msgid "Slide in"
+#~ msgstr "Scorrimento"
+
+#~ msgid "Tooltip background"
+#~ msgstr "Sfondo tooltip"
+
+#~ msgid "Select tooltip background"
+#~ msgstr "Seleziona il colore di sfondo per il tooltip"
+
+#~ msgid "Tooltip text color"
+#~ msgstr "Colore testo tooltip"
+
+#~ msgid "Select tooltip text color"
+#~ msgstr "Seleziona il colore del testo del tooltip"
+
+#~ msgid "Show Attribute Description"
+#~ msgstr "Mostra descrizione attributo"
+
+#~ msgid ""
+#~ "Choose to show description below each attribute in single product page"
+#~ msgstr ""
+#~ "Scegli se mostrare una descrizione sotto ogni attributo nella pagina "
+#~ "prodotto"
+
+#~ msgid "Enable plugin in archive page"
+#~ msgstr "Abilita il plugin nella pagina archivio"
+
+#~ msgid "Choose to show attribute selection in archive shop page"
+#~ msgstr ""
+#~ "Scegli se dare la possibilità di selezionare gli attributi dalla pagina "
+#~ "archivio"
+
+#~ msgid "Label for 'Add to cart' button"
+#~ msgstr "Etichetta per il pulsante \"Aggiungi al carrello\""
+
+#~ msgid ""
+#~ "Label for 'Add to cart' button when a variation is selected from archive "
+#~ "page"
+#~ msgstr ""
+#~ "Etichetta per il pulsante \"Aggiungi al carrello\" quando si seleziona "
+#~ "una variazione dalla pagina archivio"
+
+#~ msgid "Add to cart"
+#~ msgstr "Aggiungi al carrello"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Description for product attributes."
+#~ msgstr "Descrizione per attributi prodotto."

@@ -1,0 +1,98 @@
+/**
+ * This file belongs to the YIT Framework.
+ *
+ * This source file is subject to the GNU GENERAL PUBLIC LICENSE (GPL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.gnu.org/licenses/gpl-3.0.txt
+ */
+.yit-plugins_page_yith-jetpack-modules #setting-error-tgmpa {
+  display: none;
+}
+
+.yith-jetpack .plugin-card .action-links {
+    height: 100%;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium {
+    white-space: nowrap;
+    background-color: #ee6443;
+    color: #fff;
+    padding: 7px 10px 7px 35px;
+    font-size: 12px;
+    font-weight: bold;
+    box-sizing: content-box;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    position: absolute;
+    right: 0;
+    bottom: 36px;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium:hover {
+    background-color:#971d00;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium.toactive {
+    background: #0073aa;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium.toactive:hover {
+    background: #005984;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium.installed,.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium.installed:hover {
+    background-color: green;
+    cursor: default;
+}
+
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium:before {
+    position: absolute;
+    background: url('../images/crown.png');
+    content: ' ';
+    left: 8px;
+    top: 8px;
+    display: block;
+    width: 18px;
+    height: 13px;
+}
+
+.yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium.tobuy:before {
+    background: url('../images/cart.png');
+}
+
+.yith-jetpack .plugin-card .column-downloaded {
+    display: block;
+    width: 100%;
+    max-width: none;
+}
+
+.yith-jetpack .plugin-card p.authors {
+ text-transform: capitalize;
+}
+
+.yith-jetpack .product-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+#yit-framework-notice {
+    display: block;
+}
+
+@media screen and (max-width: 1100px) and (min-width: 782px), (max-width: 480px) {
+    .yith-jetpack .plugin-card .plugin-action-buttons li > a.btn-premium {
+        position: relative;
+        display: block;
+        right: auto;
+        bottom: auto;
+    }
+
+    .yith-jetpack .plugin-card .action-links {
+        height: auto;
+    }
+}

@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="yith-wcwtl-form-message" />
+        <key name="yith-wcwtl-button-add-label" />
+        <key name="yith-wcwtl-button-leave-label" />
+        <key name="yith-wcwtl-button-success-msg" />
+    </admin-texts>
+</wpml-config>

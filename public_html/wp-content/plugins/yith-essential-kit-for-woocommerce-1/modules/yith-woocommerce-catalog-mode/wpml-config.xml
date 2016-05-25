@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="ywctm_exclude_price_alternative_text"/>
+        <key name="ywctm_button_text"/>
+    </admin-texts>
+</wpml-config>

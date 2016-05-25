@@ -1,0 +1,75 @@
+.sip-container .sip-nav-premium {
+  background-color:#ed1c24;
+  color:white;
+}
+ 
+.sip-container .sip-nav-premium:hover {
+  border-bottom: 1px solid #f1f1f1;
+  background: #f1f1f1;
+  color: #000;
+}
+
+/*Tab*/
+
+.sip-tab-content .table{
+	width: 97%;
+	border-top: 1px solid #ececec;
+	margin-left: 18px;
+}
+
+.sip-tab-content .table td:nth-child(1) {  
+	width: 40%;
+}
+
+.sip-tab-content .table td:nth-child(2) { 
+	width: 60%;	
+}
+
+.sip-tab-content .table tr:nth-child(2n+1) {
+  background-color: #fcfcfc;
+	text-align:center;
+	height: 50px;
+}
+
+.sip-tab-content .table td {
+  border-color: #ececec;
+  border-style: none solid solid none;
+  border-top: medium none;
+  border-width: medium 1px 1px medium;
+  font-size: 13px;
+  padding: 10px;
+}
+
+.sip-tab-content .table tr td:first-child {
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-color: #ececec;
+}
+
+/* Button Color and settings */
+.sip-tab-content .button.button-primary.sip {
+  background-color: #ed1c24;
+  border-color: #ad1c24;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0) inset, 0 1px 0 rgba(0, 0, 0, 0);
+  border-radius: 0px;
+}
+
+.sip-tab-content .button.button-primary.sip {
+  height:55px;
+  padding:12px 35px 0px 35px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.sip-tab-content .sip.button.button-primary:hover {
+  background-color: #ad1c24;
+  border-color: #ad1c24;
+}
+
+#sip-spwc-diplay-affiliate-toggle label {
+  margin-left: 15px;
+}
+
+#sip-spwc-affiliate-link-box {
+  margin-top: 5px;
+}

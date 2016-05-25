@@ -1,0 +1,1 @@
+<?php echo '<img src="'.plugins_url( '../list_style.png', __FILE__ ).'" alt="List Style">'; ?>

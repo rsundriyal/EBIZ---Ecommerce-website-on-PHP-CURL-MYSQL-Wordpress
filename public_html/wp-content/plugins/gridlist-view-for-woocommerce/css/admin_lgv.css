@@ -1,0 +1,210 @@
+@media screen and (min-device-width: 783px) {
+    .br_lgv_liststyle .br_lgv_liststyle_preview{
+        height: 0px!important;
+    }
+    .br_lgv_liststyle .lgv_editor,
+    .br_lgv_liststyle .br_lgv_liststyle_preview .berocket_lgv_additional_data,
+    .lgv_width_49{
+        width: 49%;
+    }
+    .br_lgv_liststyle_preview .berocket_lgv_additional_data{
+        position: absolute;
+        z-index: 9999;
+        top: 0;
+        right: 0;
+    }
+    .lgv_submit_form .lgv_buttons_preview{
+        position: fixed;
+        bottom: 30px;
+        right: 10px;
+        z-index: 9999;
+        background-color: white;
+    }
+    div.box-shadow .x, 
+    div.box-shadow .y, 
+    div.box-shadow .radius, 
+    div.box-shadow .size,
+    .lgv_admin_settings.buttons .lgv_toggle_next{
+        width: 80%;
+    }
+}
+@media screen and (min-device-width: 450px) {
+    .br_lgv_selector.br_lgv_selector_2 label{
+        width: 50%;
+    }
+    .br_lgv_selector.br_lgv_selector_2 label:nth-child(2), .br_lgv_selector.br_lgv_selector_2 label:first-child{
+        border-radius: 10px 0 0 10px;
+    }
+    .br_lgv_selector.br_lgv_selector_2 label:last-child{
+        border-radius: 0 10px 10px 0;
+    }
+}
+@media screen and (min-device-width: 675px) {
+    .br_lgv_selector.br_lgv_selector_3 label{
+        width: 33%;
+    }
+    .br_lgv_selector.br_lgv_selector_3 label:nth-child(2), .br_lgv_selector.br_lgv_selector_3 label:first-child{
+        border-radius: 10px 0 0 10px;
+    }
+    .br_lgv_selector.br_lgv_selector_3 label:last-child{
+        border-radius: 0 10px 10px 0;
+    }
+}
+@media screen and (min-device-width: 900px) {
+    .br_lgv_selector.br_lgv_selector_4 label{
+        width: 25%;
+    }
+    .br_lgv_selector.br_lgv_selector_4 label:nth-child(2), .br_lgv_selector.br_lgv_selector_4 label:first-child{
+        border-radius: 10px 0 0 10px;
+    }
+    .br_lgv_selector.br_lgv_selector_4 label:last-child{
+        border-radius: 0 10px 10px 0;
+    }
+}
+@media screen and (min-device-width: 1000px) {
+    .br_lgv_selector.br_lgv_selector_5 label{
+        width: 20%;
+    }
+    .br_lgv_selector.br_lgv_selector_5 label:nth-child(2), .br_lgv_selector.br_lgv_selector_5 label:first-child{
+        border-radius: 10px 0 0 10px;
+    }
+    .br_lgv_selector.br_lgv_selector_5 label:last-child{
+        border-radius: 0 10px 10px 0;
+    }
+}
+.lgv_submit_form .colorpicker_field{
+    width: 2em; 
+    height: 1.2em; 
+    border: 1px solid black; 
+    position: relative; 
+    display: inline-block; 
+    top: 0.2em;
+}
+.br_lgv_description_label label{
+    min-width: 30%;
+    font-weight: 600;
+    display: inline-block;
+}
+.lgv_buttons_preview{
+    text-align: center;
+    font-size: 19px;
+    padding: 0.5em; 
+}
+.lgv_products_count_preview{
+    font-size: 19px;
+}
+.box-shadow .x, .box-shadow .y, .box-shadow .radius, .box-shadow .size{
+    width: 100%;
+}
+.lgv_admin_settings .lgv_toggle_next{
+    width: 100%;
+    height: 2em;
+    line-height: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 1em;
+}
+.lgv_admin_settings tr th.lgv_toggle_next{
+    margin-bottom: 1em;
+}
+.lgv_products_count_preview{
+    margin: 2em;
+}
+.br_lgv_liststyle_selector{
+    height: 2em;
+    margin-bottom: 1em;
+}
+.br_lgv_selector label, .lgv_toggle_next{
+    position: relative;
+    float: left;
+    height: 2em;
+    width: 100%;
+    line-height: 2em;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 0 0 1px #ddd inset, 0 1px 1px #fff;
+    border: 0 solid black;
+    background: #dcdcdc linear-gradient(#fff, #dcdcdc);
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.lgv_toggle_next{
+    font-size: 1em;
+    cursor: pointer;
+}
+.br_lgv_selector label:hover, .lgv_toggle_next:hover{
+    background: #dcdcdc linear-gradient(#dcdcdc, #fff);
+}
+.br_lgv_selector input:checked + label{
+    background: #dcdcdc linear-gradient(#dcdcdc, #fff);
+    box-shadow: 0 0 0 1px #bbb inset, 0 1px 3px rgba(0,0,0,.5) inset, 0 1px 2px #fff;
+}
+.br_lgv_selector input{
+    display: none;
+}
+.br_lgv_selector_block{
+    padding: 1em 0;
+    clear: both;
+}
+.br_lgv_selector_block{
+    position: relative;
+}
+.br_lgv_liststyle_preview{
+    height: 250px;
+}
+.br_lgv_liststyle_preview .berocket_lgv_additional_data *{
+    transition: all 0.1s linear, margin 0;
+}
+.br_lgv_liststyle_preview .berocket_lgv_additional_data{
+    background: white;
+    width: 100%;
+    max-width: 100%;
+}
+.br_lgv_liststyle_preview .color-changer{
+    display: inline-block;
+    width: 100%;
+    height: 2em;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.colpick{
+    z-index: 19999;
+}
+.lgv_yellow{
+    background-color: yellow!important;
+}
+.lgv_yellow > *{
+    opacity: 0.9;
+}
+.lgv_yellow .lgv_highlight{
+    background-color: white!important;
+}
+.lgv_admin_settings .button-secondary{
+    margin: 3px 0;
+}
+.lgv_table_styler td{
+    padding: 3px;
+}
+.lgv_faq span{
+    font-weight: bold;
+}
+.lgv_faq div{
+    padding-bottom: 1em;
+}
+.lgv_js_style,
+.lgv_css_style{
+    width: 100%;
+    resize: vertical;
+}
+.lgv_css_style{
+    height: 20em;
+}
+.lgv_admin_settings.js th{
+    width: 35%;
+    min-width: 200px;
+}

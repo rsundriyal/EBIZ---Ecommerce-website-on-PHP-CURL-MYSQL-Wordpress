@@ -1,0 +1,19 @@
+/*
+Theme Name: wp_appTouch
+Theme URI: http://wpapptouch.com/
+Author: Gino Cote
+Author URI: http://wpapptouch.com/
+Description: WP-apptouch - Web app that look like native applications.
+Version: 0.1
+
+Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu (optional)
+
+License:
+License URI:
+
+General comments (optional).
+ */
+
+root { 
+    display: block;
+}

@@ -1,0 +1,24 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_shop-isle">
+			<key name="shop_isle_products_title" />
+			<key name="shop_isle_products_slider_title" />
+			<key name="shop_isle_products_slider_subtitle" />
+			<key name="shop_isle_copyright" />
+			<key name="shop_isle_our_team_title" />
+			<key name="shop_isle_our_team_subtitle" />
+			<key name="shop_isle_about_page_video_title" />
+			<key name="shop_isle_about_page_video_subtitle" />
+			<key name="shop_isle_our_advantages_title" />
+			<key name="shop_isle_404_title" />
+			<key name="shop_isle_404_text" />
+			<key name="shop_isle_404_label" />
+			<key name="shop_isle_404_link" />
+			<key name="shop_isle_video_title" />
+			<key name="shop_isle_yt_link" />
+			<key name="shop_isle_contact_page_map_shortcode" />
+			<key name="shop_isle_contact_page_form_shortcode" />
+			<key name="shop_isle_about_page_video_link" />
+		</key>
+	</admin-texts>
+</wpml-config>

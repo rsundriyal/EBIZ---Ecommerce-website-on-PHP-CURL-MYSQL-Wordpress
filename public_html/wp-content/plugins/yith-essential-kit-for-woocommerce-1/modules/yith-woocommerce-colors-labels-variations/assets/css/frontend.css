@@ -1,0 +1,4 @@
+.select_box:after{clear:both;content:".";display:block;height:0;visibility:hidden;margin-bottom:5px;}
+.select_option{float:left;border:1px solid #d6d3d3;margin-right:3px;}
+.select_option:hover,.select_option.selected{border-color:#999595;}
+.select_option span,.select_option img{border:2px solid #fff;display:block;width:27px;height:27px;text-decoration:none;line-height:27px;text-align:center;cursor:pointer;}

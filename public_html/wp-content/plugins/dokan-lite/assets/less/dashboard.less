@@ -1,0 +1,351 @@
+html,body{
+	-webkit-backface-visibility:hidden;
+}
+
+.dokan-chart-tooltip() {
+    position: absolute;
+    display: none;
+    line-height: 1;
+    background: #333;
+    color: #fff;
+    padding: 3px 5px;
+    font-size: 11px;
+    border-radius: 3px;
+}
+
+.dokan-dashboard {
+
+	.dokan-dashboard-wrap {
+		.clearfix();
+		display: block;
+		overflow: hidden;
+		width: 100%;
+
+		* {
+			box-sizing: border-box;
+		}
+	}
+
+	header.dokan-dashboard-header {
+		margin: 0 0 15px 0;
+
+		h1 {
+			margin: 0 0 10px 0;
+			border-bottom: 1px solid @borderColor;
+			padding: 0 0 10px 0;
+		}
+	}
+
+	.dokan-dashboard-content {
+		padding: 0 0 0 25px;
+		overflow: hidden;
+		margin-top: 0px;
+		width: 83%;
+		float: left;
+
+		article.dashboard-content-area {
+			.clearfix();
+
+			.dokan-dash-left {
+				padding-right: 15px;
+			}
+
+			.dashboard-widget {
+		        background: #fff;
+		        border: 1px solid #EBEBEB;
+		        padding: 0px 10px;
+		        position: relative;
+		        -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+		        box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+		        margin-bottom: 15px;
+
+		        a {
+		            font-size: 13px;
+		            // color: #666;
+		        }
+
+		        .widget-title {
+		            font-weight: bold;
+		            font-size: 15px;
+		            border-bottom: 1px solid #EBEBEB;
+		            padding: 6px 0;
+		            margin-bottom: 6px;
+
+		            i {
+		                color: #ccc;
+		                padding-right: 5px;
+		            }
+		        }
+
+		        &.big-counter {
+		            padding: 15px 0;
+		            text-align: center;
+
+		            li {
+		                width: 20%;
+		                display:inline-block;
+		                margin: 0px 10px 0px 0px;
+		                padding:0px;
+		            }
+
+		            .title {
+		                font-size: 15px;
+		                border-bottom: 1px solid #EBEBEB;
+		                padding-bottom: 10px;
+		                padding-top: 6px;
+		                margin-bottom: 25px;
+		            }
+
+		            .count {
+		                font-size: 18px;
+		            }
+		        }
+
+		        &.orders{
+		        	overflow:hidden;
+
+		        	.content-half-part{
+						width: 50%;
+						padding: 0;
+						float: left;
+					}
+
+					#order-stats {
+						width: 250px !important;
+						height: 100% !important;
+						margin-top: 15px;
+						margin-left: -10px;
+					}
+		        }
+
+		        &.products {
+		            .pull-right a {
+		                .border-radius(0);
+		                margin-top: -6px;
+		            }
+		        }
+
+		        &.sells-graph {
+		            padding-bottom: 7px;
+		            width: 100%;
+		            position: relative;
+		        }
+
+		        .chart-placeholder.main {
+		            height: 347px;
+		        }
+
+		        .list-count {
+		            .count {
+		                float: right;
+		            }
+		        }
+		    }
+
+		    .chart-tooltip {
+		        .dokan-chart-tooltip;
+		    }
+
+		    .dokan-announcement-widget {
+		    	min-height: 310px;
+
+		    	.dokan-no-announcement {
+		    		.annoument-no-wrapper {
+						height: 100%;
+						margin: 70px auto;
+						text-align: center;
+
+		    			.dokan-announcement-icon {
+							font-size: 100px;
+							color: #e3e3e3;
+							-moz-animation: ring 8s 1s ease-in-out infinite !important;
+							-moz-transform-origin: 50% 4px;
+							-webkit-animation: ring 8s 1s ease-in-out infinite !important;
+							-webkit-transform-origin: 50% 4px;
+							animation: ring 8s 1s ease-in-out infinite !important;
+							transform-origin: 50% 4px;
+
+						}
+
+						p{
+							margin-top:10px;
+							color: #a6a6a6;
+							font-size: 18px;
+						}
+		    		}
+
+		    	}
+
+		    	.widget-title {
+		    		margin-bottom: 0px;
+		    	}
+
+		    	ul {
+					margin-bottom: 0px;
+		    		li {
+						border-bottom: 1px solid #e8e8e8;
+
+		    			.dokan-dashboard-announce-content {
+		    				width:80%;
+		    				font-size: 13px;
+							color: #656565;
+							padding-left: 4px;
+		    				h3 {
+		    					font-size: 15px;
+		    					font-weight: bold;
+		    					margin:16px 0px 0px;
+		    					padding:5px 0px;
+		    					color: #6f6f6f;
+		    				}
+		    			}
+
+		    			.dokan-dashboard-announce-date {
+		    				width:20%;
+		    				height:77px;
+		    				text-align: center;
+		    				line-height: 20px;
+							margin:7px 0px;
+		    				.announce-day {
+		    					padding-top:5px;
+		    					font-size:15px;
+		    					font-weight: bold;
+		    				}
+		    				.announce-year {
+		    					font-size: 15px;
+		    				}
+		    			}
+
+		    			.dokan-dashboard-announce-read {
+		    				background-color: #f3f3f3;
+							color:#8b8b8b;
+		    			}
+
+		    			.dokan-dashboard-announce-unread {
+		    				background-color: #f05025;
+							color:#f3f3f3;
+		    			}
+
+		    			&:last-child {
+		    				border-bottom: none;
+		    			}
+		    		}
+		    	}
+		    }
+		}
+
+		article.dokan-settings-area {
+
+			.dokan-map-wrap {
+				border: 1px solid @borderColor;
+
+				.dokan-map-search-bar {
+					position: relative;
+				}
+
+				.dokan-map-find-btn {
+					display: none;
+				}
+
+				.dokan-map-search {
+					border: none;
+					width: 100%;
+					padding: 5px 10px;
+				}
+
+		    	.dokan-google-map {
+		    		width: 100%;
+		    		height: 300px;
+		    	}
+		    }
+		}
+
+		.edit-account {
+			fieldset {
+				margin-top: 30px;
+
+				legend {
+					font-weight: bold;
+				}
+			}
+		}
+
+		article {
+			border-bottom: none;
+		}
+
+		ul li {
+			list-style: none;
+			margin: 0px;
+			padding:0px;
+		}
+
+		a {
+			text-decoration: none;
+		}
+
+		.dokan-page-help {
+			display: block;
+			font-style: italic;
+			color: #888;
+			margin-bottom: 30px;
+
+			p {
+				margin-bottom: 10px;
+			}
+		}
+	}
+}
+
+@-webkit-keyframes ring {
+	0% { transform: rotate(0); }
+	1% { transform: rotate(30deg); }
+	3% { transform: rotate(-28deg); }
+	5% { transform: rotate(34deg); }
+	7% { transform: rotate(-32deg); }
+	9% { transform: rotate(30deg); }
+	11% { transform: rotate(-28deg); }
+	13% { transform: rotate(26deg); }
+	15% { transform: rotate(-24deg); }
+	17% { transform: rotate(22deg); }
+	19% { transform: rotate(-20deg); }
+	21% { transform: rotate(18deg); }
+	23% { transform: rotate(-16deg); }
+	25% { transform: rotate(14deg); }
+	27% { transform: rotate(-12deg); }
+	29% { transform: rotate(10deg); }
+	31% { transform: rotate(-8deg); }
+	33% { transform: rotate(6deg); }
+	35% { transform: rotate(-4deg); }
+	37% { transform: rotate(2deg); }
+	39% { transform: rotate(-1deg); }
+	41% { transform: rotate(1deg); }
+	43% { transform: rotate(0); }
+	100% { transform: rotate(0); }
+}
+
+@-moz-keyframes ring {
+	0% { transform: rotate(0); }
+	1% { transform: rotate(30deg); }
+	3% { transform: rotate(-28deg); }
+	5% { transform: rotate(34deg); }
+	7% { transform: rotate(-32deg); }
+	9% { transform: rotate(30deg); }
+	11% { transform: rotate(-28deg); }
+	13% { transform: rotate(26deg); }
+	15% { transform: rotate(-24deg); }
+	17% { transform: rotate(22deg); }
+	19% { transform: rotate(-20deg); }
+	21% { transform: rotate(18deg); }
+	23% { transform: rotate(-16deg); }
+	25% { transform: rotate(14deg); }
+	27% { transform: rotate(-12deg); }
+	29% { transform: rotate(10deg); }
+	31% { transform: rotate(-8deg); }
+	33% { transform: rotate(6deg); }
+	35% { transform: rotate(-4deg); }
+	37% { transform: rotate(2deg); }
+	39% { transform: rotate(-1deg); }
+	41% { transform: rotate(1deg); }
+	43% { transform: rotate(0); }
+	100% { transform: rotate(0); }
+}

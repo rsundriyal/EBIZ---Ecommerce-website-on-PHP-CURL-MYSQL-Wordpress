@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Catalog Mode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-02 09:48+0100\n"
+"PO-Revision-Date: Sun Oct 18 2015 12:56:28 GMT+0200 (West-Europa "
+"(zomertijd))\n"
+"Last-Translator: admin <admin@localhost.local>\n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: Dutch\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+"X-Loco-Target-Locale: nl_NL"
+
+#: ../class.yith-woocommerce-catalog-mode.php:602
+#: ../class.yith-woocommerce-catalog-mode.php:671
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../class.yith-woocommerce-catalog-mode.php:606
+msgid "Premium Settings"
+msgstr "Geavanceerde Instellingen"
+
+#: ../class.yith-woocommerce-catalog-mode.php:607
+msgid "Exclusion List"
+msgstr "UItsluitingslijst"
+
+#: ../class.yith-woocommerce-catalog-mode.php:610
+#: ../class.yith-woocommerce-catalog-mode.php:674
+msgid "Premium Version"
+msgstr "Premium Versie"
+
+#: ../class.yith-woocommerce-catalog-mode.php:616
+#: ../class.yith-woocommerce-catalog-mode.php:617
+msgid "Catalog Mode"
+msgstr "Cataloog mode"
+
+#: ../class.yith-woocommerce-catalog-mode.php:700
+msgid "Plugin Documentation"
+msgstr "Plugin Documentatie"
+
+#: ../init.php:23
+msgid ""
+"YITH WooCommerce Catalog Mode is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Catalog Mode  is ingeschakeld maar niet werkzaam. "
+"WooCommerce is nodig om te werken."
+
+#: ../init.php:31
+msgid ""
+"You can't activate the free version of YITH WooCommerce Catalog Mode while "
+"you are using the premium one."
+msgstr ""
+"U kunt het gratis versie vanYITH WooCommerce Catalog Mode niet activeren als "
+"u het premium versie gebruikt."
+
+#: ../plugin-options/settings-options.php:18
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Upgrade naar het PREMIUM VERSIE"
+
+#: ../plugin-options/settings-options.php:21
+#: ../plugin-options/settings-options.php:27
+msgid "YITH WooCommerce Catalog Mode"
+msgstr "YITH WooCommerce Catalog Mode"
+
+#: ../plugin-options/settings-options.php:22
+msgid "Discover the Advanced Features"
+msgstr "Ontdek de Speciale Eigenschappen"
+
+#: ../plugin-options/settings-options.php:23
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Catalog Mode to benefit "
+"from all features!"
+msgstr ""
+"Upgrade naar het PREMIUM VERSIE van YITH WooCommerce Catalog Mode om van "
+"alle functies te profiteren."
+
+#: ../plugin-options/settings-options.php:29
+msgid "Get Support and Pro Features"
+msgstr "Krijg Support en Pro functies"
+
+#: ../plugin-options/settings-options.php:30
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+"Door de aankoop van de premium-versie van de plugin, zult u profiteren van "
+"de geavanceerde functies van het product en u zult een jaar gratis updates "
+"ontvangen en de ondersteuning door middel van ons beschikbaar platform 24u / "
+"24."
+
+#: ../plugin-options/settings-options.php:40
+#: ../plugin-options/settings-options.php:49
+#: ../plugin-options/settings-options.php:99
+#: ../plugin-options/settings-options.php:107
+msgid "\"Add to cart\" button"
+msgstr "\"Toevoegen aan winkelwagen\" button"
+
+#: ../plugin-options/settings-options.php:42
+msgid "Exclude selected products (See \"Exclusions\" tab)"
+msgstr "Uitsluiten geselecteerde producten ( zie \"Uitsluitings\" tab)"
+
+#: ../plugin-options/settings-options.php:51
+msgid "Reverse Exclusion List (Restrict Catalog Mode to selected items only)"
+msgstr ""
+"Omgekeerde Uitsluitingslijst ( Alleen Restrict Catalog Mode  geselecteerde "
+"items)"
+
+#: ../plugin-options/settings-options.php:58
+msgid "Variable products"
+msgstr "Variabele producten"
+
+#: ../plugin-options/settings-options.php:60
+msgid "Hide product variations"
+msgstr "Verberg product variaties"
+
+#: ../plugin-options/settings-options.php:71
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: ../plugin-options/settings-options.php:76
+msgid "Enable YITH Woocommerce Catalog Mode"
+msgstr "YITH Woocommerce Catalog Mode inschakelen"
+
+#: ../plugin-options/settings-options.php:83
+msgid "Admin View"
+msgstr "Admin weergave"
+
+#: ../plugin-options/settings-options.php:85
+msgid "Enable Catalog Mode also for administrators"
+msgstr "Catalog Mode ook voor beheerders inschakelen"
+
+#: ../plugin-options/settings-options.php:94
+msgid "Catalog Mode Settings"
+msgstr "Catalog Mode instellingen"
+
+#: ../plugin-options/settings-options.php:101
+msgid "Hide in product details page"
+msgstr "Verberg in productdetail pagina"
+
+#: ../plugin-options/settings-options.php:109
+msgid "Hide in other pages"
+msgstr "Verberg in andere pagina's"
+
+#: ../plugin-options/settings-options.php:118
+msgid "\"Cart\" and \"Checkout\" pages"
+msgstr "\"Winkelwagen\" en \"afrekenen\" pagina's"
+
+#: ../plugin-options/settings-options.php:120
+msgid "Hide and disable all shop features"
+msgstr "Verberg en schakel alle winkel functies uit"
+
+#: ../templates/admin/premium.php:226 ../templates/admin/premium.php:352
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Catalog Mode%2$s "
+"to benefit from all features!"
+msgstr ""
+"Upgrade naar %1$spremium version%2$s of %1$sYITH WooCommerce Catalog "
+"Mode%2$s om te profiteren van alle functies!"
+
+#: ../templates/admin/premium.php:229 ../templates/admin/premium.php:355
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: ../templates/admin/premium.php:230 ../templates/admin/premium.php:356
+msgid "to the premium version"
+msgstr "naar het premium versie"
+
+#: ../templates/admin/premium.php:236
+msgid "Premium Features"
+msgstr "Premium Functies"
+
+#: ../templates/admin/premium.php:244
+msgid "Hide price"
+msgstr "Verberg prijs"
+
+#: ../templates/admin/premium.php:247
+#, php-format
+msgid ""
+"Hide the price of products in your shop and replace it with a text. Decide "
+"if some of the products have to be excluded and if %1$shiding price%2$s has "
+"to be applied to all or restricted only to unlogged users."
+msgstr ""
+"Verberg de prijs van de producten in uw winkel en vervang deze door een "
+"tekst. Beslis of sommige van de producten worden uitgesloten en indien "
+"%1$shiding price%2$s moet worden toegepast op alle of beperkt tot niet "
+"ingelogde gebruikers."
+
+#: ../templates/admin/premium.php:257
+msgid "Inquiry form"
+msgstr "Aanvraagformulier"
+
+#: ../templates/admin/premium.php:260
+#, php-format
+msgid ""
+"Improve single product page by adding a tab with an %1$sinquiry form%2$s "
+"explicitly thought to let them send messages to site administrator."
+msgstr ""
+"Verbeter de enkel product pagina door het toevoegen van een tab met "
+"%1$sinquiry form%2$s expliciet bedacht om hun berichten te laten sturen naar "
+"de websitebeheerder."
+
+#: ../templates/admin/premium.php:276
+msgid "Custom button"
+msgstr "Aangepaste button"
+
+#: ../templates/admin/premium.php:279
+#, php-format
+msgid ""
+"Add a button in single product page to call users to a specific "
+"%1$saction%2$s, depending on the specified %1$slink%2$s (email sending, "
+"skype call, telephone call)."
+msgstr ""
+"Voeg een button toe in de enkel product pagina om gebruikers te laten bellen "
+"voor een specifieke %1$saction%2$s, afhankelijk van de opgegeven "
+"%1$slink%2$s (email sending, skype call, telephone call)."
+
+#: ../templates/admin/premium.php:289
+msgid "Product reviews"
+msgstr "Product beoordeling"
+
+#: ../templates/admin/premium.php:292
+#, php-format
+msgid ""
+"You can disable product %1$sreviewing system%2$s of your shop and decide if "
+"applying it to all users or just to unlogged ones."
+msgstr ""
+"U kunt uw product %1$sreviewing system%2$s uitschakelen in uw winkel en "
+"beslissen of dit voor alle gebruikers is of alleen voor niet ingelogde "
+"gebruikers."
+
+#: ../templates/admin/premium.php:308
+msgid "Exclusion list"
+msgstr "Uitgesloten lijst"
+
+#: ../templates/admin/premium.php:311
+#, php-format
+msgid ""
+"Set plugin options, but if you want that options concerning price visibility "
+"and ‘Add to cart’ do not apply to specific products, add them to "
+"%1$sexclusion list%2$s and, voilà, problem solved."
+msgstr ""
+"Stel plugin opties in, maar als je wilt dat de opties met betrekking tot "
+"prijs zichtbaarheid en 'Bestellen' niet van toepassing zijn op specifieke "
+"producten, voeg ze toe aan %1$sexclusion list%2$s en, voilà probleem "
+"opgelost."
+
+#: ../templates/admin/premium.php:321
+msgid "REVERSE EXCLUSION LIST"
+msgstr "OMGEKEERDE UITSLUITINGSLIJST"
+
+#: ../templates/admin/premium.php:324
+#, php-format
+msgid ""
+"Apply Catalog Mode to some items only: add them to the \"Exclusion List\" and "
+"%1$smake it work in the opposite way as usual%2$s. All items in the shop "
+"show price and “Add to Cart” button, while items in the list don’t."
+msgstr ""
+"Catalog Mode toepassing voor slechts enkele items: voeg ze toe aan de "
+"\"Uitsluitingslijst\" en %1$smake it work in the opposite way as usual%2$s. "
+"Van alle items in de winkel de prijs tonen en de \"Toevoegen aan winkelwagen\" "
+"button, terwijl items niet in de lijst staan."
+
+#: ../templates/admin/premium.php:340
+msgid "Source page of the request"
+msgstr "Bronpagina van de aanvraag"
+
+#: ../templates/admin/premium.php:343
+#, php-format
+msgid ""
+"Thanks to the %1$s\"Product Permalink\"%2$s option you will be able to know "
+"from which page your users have generated the request.%3$sThe email "
+"generated from the request form will include the address of the page: "
+"another important information that can be really useful for you."
+msgstr ""
+"Met dank aan de  %1$s\"Product Permalink\"%2$s optie is het mogelijk om te "
+"weten welke pagina je gebruiker heeft gemaakt de aanvraag %3$s De e-mail "
+"gegenereerd op basis van het aanvraagformulier zal het adres van de pagina: "
+"en andere belangrijke informatie die kan nuttig zijn voor jou."

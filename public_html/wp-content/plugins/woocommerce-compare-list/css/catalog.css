@@ -1,0 +1,27 @@
+.wccm-catalog-items {
+	clear: both;
+	margin: 2em 0;
+	vertical-align: middle;
+}
+
+.wccm-catalog-item {
+	float: left;
+	margin-right: 1em;
+	position: relative;
+}
+
+.wccm-catalog-item img {
+	width: 48px;
+	height: 48px;
+}
+
+.wccm-catalog-item a.dashicons {
+	position: absolute;
+	top: 2px;
+	right: 2px;
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+	color: red;
+	display: block;
+}

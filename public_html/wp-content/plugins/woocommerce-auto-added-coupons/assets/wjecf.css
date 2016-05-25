@@ -1,0 +1,18 @@
+/* 
+WJECF columns system
+*/
+ul.wjecf-cols { list-style-type: none;margin:0} 
+ul.wjecf-cols > li { float:left;margin-right:3%;margin-left:0; } 
+.woocommerce-cart table.cart ul.wjecf-cols > li > img { width:auto; } 
+
+ul.wjecf-cols.cols-2 li { width:48.5%; } 
+ul.wjecf-cols.cols-3 li { width:31.3%; } 
+ul.wjecf-cols.cols-4 li { width:22.7%; } 
+ul.wjecf-cols.cols-5 li { width:17.6%; } 
+ul.wjecf-cols.cols-6 li { width:14.1%; } 
+
+ul.wjecf-cols.cols-2 li:nth-child(2n+2),
+ul.wjecf-cols.cols-3 li:nth-child(3n+3),
+ul.wjecf-cols.cols-4 li:nth-child(4n+4),
+ul.wjecf-cols.cols-5 li:nth-child(5n+5),
+ul.wjecf-cols.cols-6 li:nth-child(6n+6) { margin-right:0!important; } 

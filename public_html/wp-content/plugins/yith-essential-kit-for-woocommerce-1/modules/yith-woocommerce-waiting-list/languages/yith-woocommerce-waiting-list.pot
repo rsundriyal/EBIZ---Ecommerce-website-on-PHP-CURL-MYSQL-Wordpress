@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Waiting List\n"
+"POT-Creation-Date: 2016-01-04 15:41+0100\n"
+"PO-Revision-Date: 2015-04-22 16:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-wcwtl-admin.php:129
+#: includes/class.yith-wcwtl-admin.php:152
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:131
+#: includes/class.yith-wcwtl-admin.php:156
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:162
+#: includes/class.yith-wcwtl-admin.php:163
+msgid "Waiting List"
+msgstr ""
+
+#: includes/class.yith-wcwtl-admin.php:216
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/class.yith-wcwtl-email.php:32
+msgid "YITH Waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-email.php:33
+msgid ""
+"When a product is no more Out-of-Stock and it is In-Stock again, this email "
+"is sent to all users registered in the waiting list for that product."
+msgstr ""
+
+#: includes/class.yith-wcwtl-email.php:35
+msgid "{product_title} is now back in stock at {blogname}"
+msgstr ""
+
+#: includes/class.yith-wcwtl-email.php:36
+msgid "A product you are waiting for is back in stock"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:190
+msgid "Email Address"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:229
+msgid ""
+"You must provide a valid email address to join the waiting list of this "
+"product"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:252
+msgid "You have already registered for this waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:259
+msgid "You have been removed from the waiting list for this product"
+msgstr ""
+
+#: includes/class.yith-wcwtl-frontend.php:262
+msgid "An error has occurred. Please try again."
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:103
+msgid "Waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:121
+#, php-format
+msgid "Waiting list for the variation: #%s"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:168
+#, php-format
+msgid "There is %s user in the waiting list for this product"
+msgid_plural "There are %s users in the waiting list for this product"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class.yith-wcwtl-meta.php:172
+msgid "There are no users in this waiting list"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:193
+msgid "Send the email to the users"
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:224
+msgid "Email sent correctly."
+msgstr ""
+
+#: includes/class.yith-wcwtl-meta.php:230
+msgid "An error has occurred, please try again."
+msgstr ""
+
+#: init.php:41
+msgid ""
+"YITH WooCommerce Waiting List is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Waiting List while "
+"you are using the premium one."
+msgstr ""
+
+#: plugin-options/general-options.php:11
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: plugin-options/general-options.php:14 plugin-options/general-options.php:21
+msgid "YITH WooCommerce Waiting List"
+msgstr ""
+
+#: plugin-options/general-options.php:15
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: plugin-options/general-options.php:16
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Waiting List to benefit "
+"from all features!"
+msgstr ""
+
+#: plugin-options/general-options.php:23
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: plugin-options/general-options.php:34
+msgid "General Options"
+msgstr ""
+
+#: plugin-options/general-options.php:42
+msgid "Enable Waiting List"
+msgstr ""
+
+#: plugin-options/general-options.php:49
+msgid "Notification message"
+msgstr ""
+
+#: plugin-options/general-options.php:50
+msgid ""
+"A text message to show before the waiting list form in the single product "
+"page."
+msgstr ""
+
+#: plugin-options/general-options.php:52
+msgid "Notify me when the item is back in stock."
+msgstr ""
+
+#: plugin-options/general-options.php:57
+msgid "Add button label"
+msgstr ""
+
+#: plugin-options/general-options.php:58
+msgid "The label of the button to be added to the waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:60
+msgid "Add to waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:65
+msgid "Remove button label"
+msgstr ""
+
+#: plugin-options/general-options.php:66
+msgid "The label of the button to be removed from the waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:68
+msgid "Leave waiting list"
+msgstr ""
+
+#: plugin-options/general-options.php:73
+msgid "Successful registration message"
+msgstr ""
+
+#: plugin-options/general-options.php:74
+msgid "The text for the successful registration in the waiting list."
+msgstr ""
+
+#: plugin-options/general-options.php:76
+msgid "You have been added to the waiting list for this product"
+msgstr ""
+
+#: templates/email/plain/yith-wcwtl-mail.php:14
+msgctxt "Email greetings"
+msgid "Hi there,"
+msgstr ""
+
+#: templates/email/plain/yith-wcwtl-mail.php:16
+#: templates/email/yith-wcwtl-mail.php:21
+#, php-format
+msgid "%1$s is now back in stock at %2$s."
+msgstr ""
+
+#: templates/email/plain/yith-wcwtl-mail.php:17
+msgid ""
+"You have been sent this email because your email address was registered in a "
+"waiting list for this product."
+msgstr ""
+
+#: templates/email/plain/yith-wcwtl-mail.php:18
+#, php-format
+msgid "If you want to purchase %s, please visit the following link: %s"
+msgstr ""
+
+#: templates/email/yith-wcwtl-mail.php:16
+msgctxt "Email salutation"
+msgid "Hi There,"
+msgstr ""
+
+#: templates/email/yith-wcwtl-mail.php:22
+msgid ""
+"You have been sent this email because your email address was registered on a "
+"waiting list for this product."
+msgstr ""
+
+#: templates/email/yith-wcwtl-mail.php:26
+#, php-format
+msgid ""
+"If you would like to purchase %s, please visit the following <a href=\"%s"
+"\">link</a>"
+msgstr ""

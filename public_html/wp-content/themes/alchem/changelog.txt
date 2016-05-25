@@ -1,0 +1,74 @@
+== CHANGE LOG == 
+
+= Version 1.2.3  = 24/05/2016
+* Fix - Fixed footer social icons box color issue
+* Fix - Fixed parallax backgrounds issue
+* Fix - Fixed footer widget area posts list background issue
+* Fix - Fixed Tooltip Position for Social Icons issue
+
+= Version 1.2.2  = 18/05/2016
+* Section slogan button
+
+= Version 1.2.1  = 08/04/2016
+* Fix - Fixed Display Title Bar page option issue
+* Fix - Fixed page Slider Banner issue
+
+= Version 1.2.0  = 31/03/2016
+* Fix - Fixed single slide issue of 'section banner'
+
+= Version 1.1.9  = 28/03/2016
+* Add - Added 2 home page styles
+* Add - Added home page animation on/off option
+* Fix - Fixed waypoints issue
+* Fix - Fixed blog timeline issue
+* Fix - Fixed waypoints issue
+* Removed home page animation on mobile
+
+= Version 1.1.8  = 16/03/2016
+* Fixed full height of homepage banner in Firefox.
+
+= Version 1.1.7  = 03/03/2016
+* Added: home page slider ( Section - Banner)
+* Added: home page section animation
+
+= Version 1.1.6 = 01/03/2016
+* Fix - Fixed home page section id option issue ( Section - Features )
+
+= Version 1.1.5 = 26/02/2016
+* Added 'Google Fonts' option
+* Removed duplicate theme option
+
+= Version 1.1.4 = 14/02/2016
+* Fixed Social Icon Link options issue ( Section - Our Team )
+
+= Version 1.1.3 =
+* Fixed 'Copyright Background Color' options issue
+* Fixed 'Nav Menu' metabox option issue
+* Added 'Styling' options
+* Added 'Main Menu Dropdown Width' option
+
+= Version 1.1.1 =
+* Added header style 2
+
+= Version 1.1.0 =
+* Fixed theme option issue: Blog\Blog Single post page option\Disable featured iamage
+* Fixed copyright content HTML issue
+
+= Version 1.0.9 =
+* Added blog options
+
+= Version 1.0.8 =
+* Fixed home page sections content HTML issue
+
+= Version 1.0.2 =
+* Transfer data from theme options to customizer
+* Fixed blog template sidebar issue
+* Fixed blog pagingnav issue
+* Fixed blog Excerpt Length issue
+
+= Version 1.0.1 =
+* Added bbpress style
+* Fixed header padding issue
+* Fixed page right sidebar issue
+* Fixed top bar info color issue
+* Fixed sticky header background color issue

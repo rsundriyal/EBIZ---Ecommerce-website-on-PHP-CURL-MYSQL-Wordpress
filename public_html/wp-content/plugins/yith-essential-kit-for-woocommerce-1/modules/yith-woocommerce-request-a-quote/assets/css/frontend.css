@@ -1,0 +1,11 @@
+.ajax-loading,
+.product-remove a.yith-ywraq-item-remove.remove{
+    display: inline-block;
+}
+.product-remove .ajax-loading{
+    vertical-align: text-bottom;
+}
+
+.woocommerce .related ul li.product img, .woocommerce .related ul.products li.product img.ajax-loading{
+    width: auto;
+}

@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Review Reminder\n"
+"POT-Creation-Date: 2015-10-02 13:00+0100\n"
+"PO-Revision-Date: 2015-10-02 13:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-woocommerce-review-reminder.php:319
+#: ../plugin-options/mail-options.php:110
+msgid "Mail Settings"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:320
+#: ../templates/admin/blocklist-table.php:161
+msgid "Blocklist"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:324
+msgid "Request Settings"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:325
+msgid "Mandrill Settings"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:326
+msgid "Schedule List"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:329
+#: ../class.yith-woocommerce-review-reminder.php:571
+msgid "Premium Version"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:335
+#: ../class.yith-woocommerce-review-reminder.php:336
+msgid "Review Reminder"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:378
+msgid "Unsubscribe Page"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:401
+msgctxt "Page slug"
+msgid "unsubscribe"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:402
+msgctxt "Page title"
+msgid "Unsubscribe"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:449
+msgid "The unsubscribe page cannot be deleted"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:568
+msgid "Settings"
+msgstr ""
+
+#: ../class.yith-woocommerce-review-reminder.php:598
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class-ywrr-form-handler.php:84
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: ../includes/class-ywrr-form-handler.php:87
+msgid "Please retype the email address as provided."
+msgstr ""
+
+#: ../includes/class-ywrr-form-handler.php:96
+msgid "An email has been sent with your request"
+msgstr ""
+
+#: ../includes/emails/class-ywrr-request-email.php:59
+msgid "Review reminder"
+msgstr ""
+
+#: ../includes/emails/class-ywrr-unsubscribe-email.php:72
+#: ../includes/emails/class-ywrr-unsubscribe-email.php:73
+msgid "Unsubscribe Request"
+msgstr ""
+
+#: ../init.php:23
+msgid ""
+"YITH WooCommerce Review Reminder is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: ../init.php:31
+msgid ""
+"You can't activate the free version of YITH WooCommerce Review Reminder "
+"while you are using the premium one."
+msgstr ""
+
+#: ../plugin-options/mail-options.php:18
+msgid "Mail template"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:22
+msgid "Woocommerce Template"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:23
+msgid "Template 1"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:24
+msgid "Template 2"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:25
+msgid "Template 3"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:32
+msgid "Set Destination"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:34
+msgid "Set the destination you want to show in the email"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:36
+msgid "Product page"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:37
+msgid "Default WooCommerce Reviews Tab"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:38
+msgid "Custom Anchor"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:45
+msgid "Set Custom Anchor"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:52
+msgid "Use YITH WooCommerce Email Templates"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:60
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:63 ../plugin-options/mail-options.php:69
+msgid "YITH WooCommerce Review Reminder"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:64
+msgid "Discover the Advanced Features"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:65
+msgid ""
+"Upgrade to the PREMIUM VERSION of YITH WooCommerce Review Reminder to "
+"benefit from all features!"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:71
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:72
+msgid ""
+"By purchasing the premium version of the plugin, you will take advantage of "
+"the advanced features of the product and you will get one year of free "
+"updates and support through our platform available 24h/24."
+msgstr ""
+
+#: ../plugin-options/mail-options.php:81
+msgid "Replaced with the customer's name"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:82
+msgid "Replaced with the customer's email"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:83
+msgid "Replaced with the site title"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:84
+msgid "Replaced with the order ID"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:85
+msgid "Replaced with the date and time of the order"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:86
+msgid "Replaced with the date the order was marked completed"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:87
+msgid ""
+"Replaced with a list of products purchased but not reviewed (Do not forget "
+"it!!!)"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:88
+msgid "Replaced with the days ago the order was made"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:95
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:100
+msgid "Enable YITH WooCommerce Review Reminder"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:115
+msgid "Email type"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:117
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: ../plugin-options/mail-options.php:119
+msgid "HTML"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:120
+msgid "Plain text"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:126
+msgid "Email subject"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:130
+msgid "[{site_title}] Review recently purchased products"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:137
+msgid "Email content"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:141
+msgid ""
+"Hello {customer_name},\n"
+"Thank you for purchasing items from the {site_title} shop!\n"
+"We would love if you could help us and other customers by reviewing the "
+"products you recently purchased.\n"
+"It only takes a minute and it would really help others by giving them an "
+"idea of your experience.\n"
+"Click the link below for each product and review the product under the "
+"'Reviews' tab.\n"
+"\n"
+"{order_list}\n"
+"\n"
+"Much appreciated,\n"
+"\n"
+"{site_title}."
+msgstr ""
+
+#: ../plugin-options/mail-options.php:162
+msgid "Review unsubscription text"
+msgstr ""
+
+#: ../plugin-options/mail-options.php:166
+msgid "Unsubscribe from review emails"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:38
+msgid "customer"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:39
+msgid "customers"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:62
+msgid "Customer"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:63
+msgid "Email"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:74
+msgid "Unregistered User"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:95
+#: ../templates/admin/blocklist-table.php:103
+msgid "Delete"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:134
+#, php-format
+msgid "Items deleted: %d"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:148
+#, php-format
+msgid "User %s added successfully"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:150
+msgid "An error has occurred"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:154
+#, php-format
+msgid "User %s already unsubscribed"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:170
+msgid "Add New"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:190
+msgid "Add E-Mail to blocklist"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:196
+msgid "Add E-mail"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:197
+msgid "Return to blocklist"
+msgstr ""
+
+#: ../templates/admin/blocklist-table.php:228
+msgid "Customers"
+msgstr ""
+
+#: ../templates/admin/premium.php:228 ../templates/admin/premium.php:332
+#, php-format
+msgid ""
+"Upgrade to the %1$spremium version%2$s of %1$sYITH WooCommerce Review "
+"Reminder%2$s to benefit from all features!"
+msgstr ""
+
+#: ../templates/admin/premium.php:231
+#, php-format
+msgid "%1$sUPGRADE%2$s %3$sto the premium%2$s"
+msgstr ""
+
+#: ../templates/admin/premium.php:237
+msgid "Premium Features"
+msgstr ""
+
+#: ../templates/admin/premium.php:241
+msgid "SELECTION TO REVIEW"
+msgstr ""
+
+#: ../templates/admin/premium.php:247
+msgid "SELECTION OF THE PRODUCTS TO REVIEW"
+msgstr ""
+
+#: ../templates/admin/premium.php:249
+#, php-format
+msgid ""
+"%1$sChoose to ask users%2$s the review of every purchased product, or only a "
+"part of them."
+msgstr ""
+
+#: ../templates/admin/premium.php:259
+msgid "DEADLINE FOR EMAIL DISPATCHING"
+msgstr ""
+
+#: ../templates/admin/premium.php:261
+#, php-format
+msgid ""
+"Set %1$show many days have to pass%2$s before sending the email to request a "
+"review, after the order has been marked as \"Completed\"."
+msgstr ""
+
+#: ../templates/admin/premium.php:264
+msgid "DEADLINE"
+msgstr ""
+
+#: ../templates/admin/premium.php:271 ../templates/admin/premium.php:277
+msgid "BLOCKLIST"
+msgstr ""
+
+#: ../templates/admin/premium.php:279
+#, php-format
+msgid ""
+"%1$sAdd to the blocklist%2$s all the users emails that don't want to review "
+"any product of your e-commerce."
+msgstr ""
+
+#: ../templates/admin/premium.php:289 ../templates/admin/premium.php:294
+msgid "EMAIL TEMPLATE"
+msgstr ""
+
+#: ../templates/admin/premium.php:291
+#, php-format
+msgid ""
+"Select the %1$slayout you want%2$s for your email choosing among the four "
+"possibilities we offer you."
+msgstr ""
+
+#: ../templates/admin/premium.php:301
+msgid "MANDRILL"
+msgstr ""
+
+#: ../templates/admin/premium.php:307
+msgid "USE MANDRILL TO MANAGE YOUR EMAILS"
+msgstr ""
+
+#: ../templates/admin/premium.php:309
+#, php-format
+msgid "%1$sMake creation of custom%2$s reminders automatic in a few clicks."
+msgstr ""
+
+#: ../templates/admin/premium.php:319 ../templates/admin/premium.php:324
+msgid "SCHEDULE LIST"
+msgstr ""
+
+#: ../templates/admin/premium.php:321
+#, php-format
+msgid ""
+"See all reminders you have scheduled %1$s(past and present)%2$s in one tab "
+"only and delete them from this page without having to move anywhere else."
+msgstr ""
+
+#: ../templates/admin/premium.php:335
+#, php-format
+msgid "%1$sUPGRADE%2$s %3$sto the premium version%2$s"
+msgstr ""
+
+#: ../templates/emails/plain/unsubscribe-request.php:26
+#: ../templates/emails/unsubscribe-request.php:26
+#, php-format
+msgid ""
+"You have received a request for unsubscription. Email address is the "
+"following: %s"
+msgstr ""
+
+#: ../templates/unsubscribe.php:27
+#, php-format
+msgid ""
+"If you don't want to receive any more review reminders, please retype your "
+"email address: %s"
+msgstr ""
+
+#: ../templates/unsubscribe.php:30
+msgid "Email address"
+msgstr ""
+
+#: ../templates/unsubscribe.php:35
+msgid "Unsubscribe"
+msgstr ""
+
+#: ../templates/unsubscribe.php:43
+msgid "Return To Home Page"
+msgstr ""

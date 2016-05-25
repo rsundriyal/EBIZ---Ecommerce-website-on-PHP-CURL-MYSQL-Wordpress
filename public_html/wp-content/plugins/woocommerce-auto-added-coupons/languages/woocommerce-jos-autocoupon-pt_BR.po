@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Extended Coupon Features 2.00\n"
+"POT-Creation-Date: 2016-03-28 21:32+0200\n"
+"PO-Revision-Date: 2016-03-28 21:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: Jos Koenis\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/wjecf-admin.php:94
+msgid "Do you find WooCommerce Extended Coupon Features useful?"
+msgstr "Você achou o WooCommerce Extended Coupon Features útil?"
+
+#: includes/admin/wjecf-admin.php:96
+msgid "Express your gratitude"
+msgstr "Expresse sua gratidão!"
+
+#: includes/admin/wjecf-admin.php:100
+msgid "Donate to the developer"
+msgstr "Doe ao desenvolvedor"
+
+#: includes/admin/wjecf-admin.php:107
+msgid "Documentation"
+msgstr "Documentação"
+
+#: includes/admin/wjecf-admin.php:109
+msgid "WooCommerce Extended Coupon Features Documentation"
+msgstr "Documentação do WooCommerce Extended Coupon Features"
+
+#: includes/admin/wjecf-admin.php:117
+msgid "Products"
+msgstr "Produtos"
+
+#: includes/admin/wjecf-admin.php:123 includes/admin/wjecf-admin.php:230
+msgid "Checkout"
+msgstr "Checkout"
+
+#: includes/admin/wjecf-admin.php:129 includes/admin/wjecf-admin.php:340
+msgid "Miscellaneous"
+msgstr "Miscelânia"
+
+#: includes/admin/wjecf-admin.php:141
+msgid "Matching products"
+msgstr "Produtos que se enquadram na promoção"
+
+#: includes/admin/wjecf-admin.php:146
+msgid "AND Products (not OR)"
+msgstr "E produtos (não ou)"
+
+#: includes/admin/wjecf-admin.php:147
+msgid ""
+"Check this box if ALL of the products (see tab 'usage restriction') must be "
+"in the cart to use this coupon (instead of only one of the products)."
+msgstr ""
+"Marque essa caixa se todos os produtos devem estar no carrinho para usar "
+"este cupom ao invés de apenas um dos produtos (veja a aba de \"restrição de "
+"uso\")"
+
+#: includes/admin/wjecf-admin.php:154
+msgid "AND Categories (not OR)"
+msgstr "E categorias (não é ou)"
+
+#: includes/admin/wjecf-admin.php:155
+msgid ""
+"Check this box if products from ALL of the categories (see tab 'usage "
+"restriction') must be in the cart to use this coupon (instead of only one "
+"from one of the categories)."
+msgstr ""
+"Marque essa caixa se  produtos de todas as categorias devem estar no "
+"carrinho para usar este cupom ao invés de apenas um dos produtos (veja a aba "
+"de \"restrição de uso\")"
+
+#: includes/admin/wjecf-admin.php:160
+msgid "(AND)"
+msgstr "(E)"
+
+#: includes/admin/wjecf-admin.php:161
+msgid "(OR)"
+msgstr "(OU)"
+
+#: includes/admin/wjecf-admin.php:190
+msgid "Minimum quantity of matching products"
+msgstr "Mínima quantidade de produtos dentro da produção"
+
+#: includes/admin/wjecf-admin.php:191 includes/admin/wjecf-admin.php:211
+msgid "No minimum"
+msgstr "Sem mínimo"
+
+#: includes/admin/wjecf-admin.php:192
+msgid ""
+"Minimum quantity of the products that match the given product or category "
+"restrictions (see tab 'usage restriction'). If no product or category "
+"restrictions are specified, the total number of products is used."
+msgstr "Quantidade mínima de produtos que devem estar na "
+
+#: includes/admin/wjecf-admin.php:200
+msgid "Maximum quantity of matching products"
+msgstr "Quantidade máxima de produtos em promoção"
+
+#: includes/admin/wjecf-admin.php:201 includes/admin/wjecf-admin.php:221
+msgid "No maximum"
+msgstr "Sem máximo"
+
+#: includes/admin/wjecf-admin.php:202
+msgid ""
+"Maximum quantity of the products that match the given product or category "
+"restrictions (see tab 'usage restriction'). If no product or category "
+"restrictions are specified, the total number of products is used."
+msgstr ""
+"Quantidade máxima dos produtos que correspondem às restrições de produtos ou "
+"categoria referidos (ver a aba \"restrição de uso\"). Se não há restrições "
+"ou categoria de produtos são especificados, o número total de produtos é "
+"usado."
+
+#: includes/admin/wjecf-admin.php:210
+msgid "Minimum subtotal of matching products"
+msgstr "Subtotal mínimo de produtos que correspondam à promoção"
+
+#: includes/admin/wjecf-admin.php:212
+msgid ""
+"Minimum price subtotal of the products that match the given product or "
+"category restrictions (see tab 'usage restriction')."
+msgstr ""
+"Subtotal mínimo dos produtos que correspondem às restrições de produtos ou "
+"categoria referidos (ver a aba \"restrição de uso\")."
+
+#: includes/admin/wjecf-admin.php:220
+msgid "Maximum subtotal of matching products"
+msgstr "Subtotal máximo de produtos que correspondam a promoção"
+
+#: includes/admin/wjecf-admin.php:222
+msgid ""
+"Maximum price subtotal of the products that match the given product or "
+"category restrictions (see tab 'usage restriction')."
+msgstr ""
+"Subtotal máximo dos produtos que correspondem às restrições de produtos ou "
+"categoria referidos (ver a aba \"restrição de uso\")."
+
+#: includes/admin/wjecf-admin.php:235
+msgid "Shipping methods"
+msgstr "Métodos de envio"
+
+#: includes/admin/wjecf-admin.php:236
+msgid "Any shipping method"
+msgstr "Qualquer método de envio"
+
+#: includes/admin/wjecf-admin.php:245
+msgid ""
+"One of these shipping methods must be selected in order for this coupon to "
+"be valid."
+msgstr ""
+"Um destes métodos de envio devem ser selecionados para tornar este cupom "
+"válido"
+
+#: includes/admin/wjecf-admin.php:251
+msgid "Payment methods"
+msgstr "Métodos de pagamento"
+
+#: includes/admin/wjecf-admin.php:252
+msgid "Any payment method"
+msgstr "Qualquer método de pagamento"
+
+#: includes/admin/wjecf-admin.php:263
+msgid ""
+"One of these payment methods must be selected in order for this coupon to be "
+"valid."
+msgstr ""
+"Um desses métodos de pagamento deve ser selecionado para que este cupom seja "
+"válido."
+
+#: includes/admin/wjecf-admin.php:271
+msgid "Customer restrictions"
+msgstr "Restrições a clientes"
+
+#: includes/admin/wjecf-admin.php:272
+msgid ""
+"If both a customer and a role restriction are supplied, matching either one "
+"of them will suffice."
+msgstr ""
+"Se ambos, o cliente a restrição de tipo de cliente são apresentados, "
+"corresponder um ou outro será suficiente"
+
+#: includes/admin/wjecf-admin.php:277
+msgid "Allowed Customers"
+msgstr "Clientes permitidos"
+
+#: includes/admin/wjecf-admin.php:278
+msgid "Any customer"
+msgstr "Qualquer cliente"
+
+#: includes/admin/wjecf-admin.php:291
+msgid "Only these customers may use this coupon."
+msgstr "Apenas estes clientes podem usar este cupom"
+
+#: includes/admin/wjecf-admin.php:298
+msgid "Allowed User Roles"
+msgstr "Tipos de usuário permitidos"
+
+#: includes/admin/wjecf-admin.php:299 includes/admin/wjecf-admin.php:321
+msgid "Any role"
+msgstr "Qualquer tipo de usuário"
+
+#: includes/admin/wjecf-admin.php:313
+msgid "Only these User Roles may use this coupon."
+msgstr "Apenas estes tipos de usuário podem usar este cupom"
+
+#: includes/admin/wjecf-admin.php:320
+msgid "Disallowed User Roles"
+msgstr "Tipos de usuário não permitidos"
+
+#: includes/admin/wjecf-admin.php:334
+msgid "These User Roles will be specifically excluded from using this coupon."
+msgstr ""
+"Estes tipos de usuário serão especificamente excluídos de utilizar este "
+"cupom."
+
+#: includes/admin/wjecf-admin.php:345
+msgid "Allow when minimum spend not reached"
+msgstr "Permitir uso quando a compra mínima não for alcançada"
+
+#: includes/admin/wjecf-admin.php:346 includes/wjecf-pro-controller.php:74
+#: includes/wjecf-pro-free-products.php:474
+#: includes/wjecf-pro-free-products.php:482
+msgid "EXPERIMENTAL: "
+msgstr "Experimental:"
+
+#: includes/admin/wjecf-admin.php:346
+msgid ""
+"Check this box to allow the coupon to be in the cart even when minimum spend "
+"(see tab 'usage restriction') is not reached. Value of the discount will be "
+"0 until minimum spend is reached."
+msgstr ""
+"Marque esta caixa para permitir que o cupom esteja no carrinho, mesmo quando "
+"gasto mínimo (veja a aba \"Restrição de Uso ') não é alcançado. Valor do "
+"desconto será de 0 até o gasto mínimo é alcançado."
+
+#: includes/wjecf-autocoupon.php:58 includes/wjecf-autocoupon.php:130
+#: includes/wjecf-autocoupon.php:137
+msgid "Auto coupon"
+msgstr "Cupom automático"
+
+#: includes/wjecf-autocoupon.php:63
+msgid "Individual use"
+msgstr "Uso individual"
+
+#: includes/wjecf-autocoupon.php:83 includes/wjecf-autocoupon.php:91
+msgid "Yes"
+msgstr "Sim"
+
+#: includes/wjecf-autocoupon.php:83 includes/wjecf-autocoupon.php:91
+msgid "No"
+msgstr "Não"
+
+#: includes/wjecf-autocoupon.php:102
+msgid "Auto coupons"
+msgstr "Cupon Automáticos"
+
+#: includes/wjecf-autocoupon.php:138
+msgid ""
+"Automatically add the coupon to the cart if the restrictions are met. Please "
+"enter a description when you check this box, the description will be shown "
+"in the customer's cart if the coupon is applied."
+msgstr ""
+"Automaticamente adiciona o cupom ao carrinho se as condições forem "
+"atingidas. Por favor entre com uma descrição quando você marca esta caixa, a "
+"descrição será vista pelos consumidores na página do carrinho quando o cupom "
+"for aplicado. Por isso seja preciso e faça uma bela descrição. Seu cliente a "
+"lerá!!"
+
+#: includes/wjecf-autocoupon.php:146
+msgid "Priority"
+msgstr "Prioridade"
+
+#: includes/wjecf-autocoupon.php:147
+msgid "No priority"
+msgstr "Sem prioridade"
+
+#: includes/wjecf-autocoupon.php:148
+msgid ""
+"When 'individual use' is checked, auto coupons with a higher value will have "
+"priority over other auto coupons."
+msgstr ""
+"Quando \"uso individual\" estiver marcado cupons automáticos com valor mais "
+"alto terão prioridade sobre outros cupons automáticos"
+
+#: includes/wjecf-autocoupon.php:158
+msgid "Apply silently"
+msgstr "Aplicar Silenciosamente"
+
+#: includes/wjecf-autocoupon.php:159
+msgid "Don't display a message when this coupon is automatically applied."
+msgstr "Não exibe a mensagem quando um cupom automatico é aplicado"
+
+#: includes/wjecf-autocoupon.php:266
+msgid "Free shipping coupon"
+msgstr "Cupom de frete grátis"
+
+#: includes/wjecf-autocoupon.php:422
+#, php-format
+msgid "Discount applied: %s"
+msgstr "Desconto aplicado: %s"
+
+#: includes/wjecf-controller.php:162
+#, php-format
+msgid "The minimum subtotal of the matching products for this coupon is %s."
+msgstr ""
+
+#: includes/wjecf-controller.php:166
+#, php-format
+msgid "The maximum subtotal of the matching products for this coupon is %s."
+msgstr ""
+
+#: includes/wjecf-controller.php:170
+#, php-format
+msgid "The minimum quantity of matching products for this coupon is %s."
+msgstr ""
+
+#: includes/wjecf-controller.php:174
+#, php-format
+msgid "The maximum quantity of matching products for this coupon is %s."
+msgstr ""
+
+#: includes/wjecf-controller.php:177
+msgid "The coupon is not valid for the currently selected shipping method."
+msgstr ""
+
+#: includes/wjecf-controller.php:180
+msgid "The coupon is not valid for the currently selected payment method."
+msgstr ""
+
+#: includes/wjecf-controller.php:183
+#, php-format
+msgid "Sorry, it seems the coupon \"%s\" is not yours."
+msgstr ""
+
+#: includes/wjecf-pro-controller.php:50 includes/wjecf-pro-controller.php:55
+msgid "Limit discount to"
+msgstr "Limitar o desconto a:"
+
+#: includes/wjecf-pro-controller.php:61
+msgid ""
+"Please note that when the discount type is 'Product discount' (see 'General'-"
+"tab), the discount will only be applied to <em>matching</em> products."
+msgstr ""
+"Por favor observe que quando o tipo de desconto é \"desconto no produto\", "
+"você pode conferir na aba \" Geral\", o desconto será apenas aplicado aos "
+"produtos especificados."
+
+#: includes/wjecf-pro-controller.php:67
+msgid "Discount on cart with excluded products"
+msgstr "Desconto no carrinho com produtos excluídos"
+
+#: includes/wjecf-pro-controller.php:73
+msgid "Allow discount on cart with excluded items"
+msgstr "Permitir desconto no carrinho com itens excluídos"
+
+#: includes/wjecf-pro-controller.php:75
+msgid ""
+"Check this box to allow a 'Cart Discount' coupon to be applied even when "
+"excluded items are in the cart (see tab 'usage restriction')."
+msgstr ""
+"Marque isso para permitir que cupons de  \"Descontos no Carrinho\"sejam "
+"aplicados mesmo quando itens excluídos da oferta estejam no carrinho, veja "
+"na aba \"restrições de uso\""
+
+#: includes/wjecf-pro-free-products.php:80
+msgid "Please select your free gift."
+msgstr "Por favor selecione o seu presente grátis"
+
+#: includes/wjecf-pro-free-products.php:337
+#: includes/wjecf-pro-free-products.php:347
+msgid "Free!"
+msgstr "Grátis!"
+
+#: includes/wjecf-pro-free-products.php:412
+#: includes/wjecf-pro-free-products.php:435
+#: includes/wjecf-pro-free-products.php:441
+msgid "Free products"
+msgstr "Produtos grátis!"
+
+#: includes/wjecf-pro-free-products.php:446
+msgid ""
+"Free products that will be added to the cart when this coupon is applied."
+msgstr ""
+"Produtos grátis que serão acrescentados ao carrinho quando o cupon for "
+"aplicado."
+
+#: includes/wjecf-pro-free-products.php:453
+msgid "Select one"
+msgstr "Selecione um"
+
+#: includes/wjecf-pro-free-products.php:454
+msgid "Check this box if the customer must choose from the free products."
+msgstr "Marque está caixa se o cliente deve escolher o produto grátis."
+
+#: includes/wjecf-pro-free-products.php:462
+msgid "'Select your gift'-message"
+msgstr "Mensagem para \"Selecione seu presente\""
+
+#: includes/wjecf-pro-free-products.php:463
+msgid "Please choose your free gift:"
+msgstr "Por favor escolha seu presente gratuito:"
+
+#: includes/wjecf-pro-free-products.php:464
+msgid "This message is displayed when the customer must choose a free product."
+msgstr ""
+"Esta mensagem será exibida quando o consumidor deverá escolher um produto "
+"grátis."
+
+#: includes/wjecf-pro-free-products.php:473
+msgid "Allow multiplication of the free products"
+msgstr "Permitir Multiplicação de produtos gratuitos"
+
+#: includes/wjecf-pro-free-products.php:474
+msgid ""
+"The amount of free products is multiplied every time the minimum spend, "
+"subtotal or quantity is reached."
+msgstr ""
+"A quantidade de produtos grátis é multiplicada cada vez que o mínimo gasto, "
+"subtotal, ou quantidade é atingida"
+
+#: includes/wjecf-pro-free-products.php:481
+msgid "BOGO matching products"
+msgstr "Produtos dentro da promoção Compre 1 ganhe outro"
+
+#: includes/wjecf-pro-free-products.php:483
+msgid ""
+"Buy one or more of any of the matching products (see 'Usage Restriction'-"
+"tab) and get one free. Check 'Allow multiplication' to get one free item for "
+"every matching item in the cart."
+msgstr ""
+"Compre um ou mais de qualquer um dos produtos dentro da promoção (olhe na "
+"aba de Restrições de Uso) e ganhe um de graça. Marque \"Permitir "
+"Multiplicação\" para ganhar um item grátis por cada item compátivel com a "
+"promoção no carrinho."
+
+#: includes/wjecf-pro-free-products.php:497
+msgid "Search for a product…"
+msgstr "Procutar por produto..."
+
+#: woocommerce-jos-autocoupon-pro.php:33
+msgid ""
+"WooCommerce Extended Coupon Features is disabled because WooCommerce could "
+"not be detected."
+msgstr ""
+"WooCommerce Extended Coupon Features está desabilitado pois não detectamos o "
+"Woocommerce."

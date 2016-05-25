@@ -1,0 +1,4 @@
+Sitemap: http://ravisundriyal.com/sitemap.xml
+
+User-agent: *
+Disallow: 

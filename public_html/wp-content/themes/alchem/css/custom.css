@@ -1,0 +1,311 @@
+.post-pagination li span {
+	border-top: 2px solid transparent;
+	display: inline-block;
+	padding: 15px 0;
+	width: 40px;
+}
+.post-pagination .page-numbers{
+	text-align:center;
+	}
+.comment-reply-link {
+  color: #fff;
+  background-color: #fdd200;
+  border: none;
+  padding: 4px 15px;
+  font-size: 12px;
+  border-radius: 0;
+  display: inline-block;
+  text-align: center;
+  float: right!important;
+}
+
+.form-submit .submit {
+  color: #fff;
+  background-color: #fdd200;
+  /* min-width: 150px; */
+  border: none;
+  padding: 8px 20px;
+  border-radius: 0;
+  display: inline-block;
+  text-align: center;
+}
+
+.retina_logo{
+	display:none;
+	}
+header{
+	  position: relative;
+	  }
+.parallax-scrolling{
+	background-attachment:fixed !important;
+	}
+.feature-img-box img{
+	height:auto;
+	}
+.related-posts{
+	position:relative;
+	}
+.multi-carousel-nav span{
+	z-index:1;
+	}
+.related-posts .owl-controls{
+	  position: absolute;
+  z-index: 2;
+  top: 45%;
+  width: 100%;
+  bottom:auto;
+	}
+
+.related-posts .owl-controls .owl-next{
+	right:0;
+	}
+.related-posts .owl-controls .owl-prev,
+.related-posts .owl-controls .owl-next {
+	position: absolute;
+	top: 50%;
+	margin-top: -15px;
+	width: 30px;
+	height: 30px;
+	background-color: rgba(0,0,0,.8);
+	font: normal normal normal 14px/30px FontAwesome;
+	display: inline-block;
+	text-align: center;
+	color: #fff;
+	opacity: .8;
+	
+}
+
+.related-posts .owl-controls .owl-prev:hover,
+.related-posts .owl-controls .owl-next:hover {
+	opacity: 1;
+}
+
+.related-posts .owl-controls .owl-prev:before {
+	content: "\f104";
+}
+
+.related-posts .owl-controls .owl-next:before {
+	content: "\f105";
+}
+.related-posts .owl-controls .owl-prev,
+.style1 .multi-carousel-nav-prev {
+	left: 0;
+}
+.related-posts .owl-controls .owl-next,
+.style1 .multi-carousel-nav-next {
+	right: 0;
+}
+.fxd-header{
+	z-index:9;
+	}
+.post-slider{
+	position:relative;
+	}
+.portfolio-video iframe{
+
+  top: 0;
+  left: 0;
+  width: 100%;
+	}
+.magee-animated{
+	visibility:hidden;
+	}	
+/****/
+
+#filters li span {
+	display: block;
+	cursor: pointer;
+}
+
+.portfolio-list-filter .portfolio-box-wrap {
+display:none;
+overflow:hidden;
+}
+.portfolio-wrapper {
+	overflow:hidden;
+	position: relative !important;
+	background: #666;
+	cursor:pointer;
+}
+
+.list-filter li a:hover, .list-filter span.active a {
+  background-color: #fdd200;
+  color: #fff;
+}
+.wrapper-boxed{
+	padding:0 !important;
+	}
+
+.woocommerce span.onsale {
+    position: absolute;
+    display: inline-block;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+    background: #fa5c5d;
+    color: #fff;
+    z-index: 10;
+    font-size: .9em;
+	left:inherit;
+	border-radius:0;
+	font-weight:inherit;
+	line-height:inherit;
+}
+.woocommerce div.product p.price del,
+.woocommerce div.product span.price del
+{
+	display: inline-block;
+	color: #767676;
+	
+	}
+.woocommerce ul.products li.product .onsale{
+	margin:0;
+	}
+.woocommerce .products .star-rating{
+	display:inline-block;
+	}
+#infscr-loading{
+	width:100%;
+	text-align:center;
+	}
+.woocommerce .products ul, 
+.woocommerce ul.products{
+	margin:auto;
+	padding:inherit;
+	}
+.woocommerce ul.products.row{
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product{
+	margin:auto;
+	}
+.contact-failed{
+	color:red;
+	padding-bottom:15px;
+	}
+.contact-failed.notice-success{
+	color:green;
+	}
+.portfolio-list-style-2 .img-box img{
+	margin-bottom:0;
+	}
+.magee-feature-box.style2.reverse img.feature-box-icon {
+  right: 0;
+  left: auto;
+  position: absolute;
+  top: 0;
+  display:inline-block;
+}
+
+.owl-controls {
+    height:0;
+}
+
+.owl-nav {
+    position:relative;
+}
+
+.owl-prev {
+    left:0;
+}
+
+/* home page */
+
+.alchem-home-style-0.alchem-home-section-0 .magee-heading {
+    font-size: 70px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #fff;
+    border-color: ;
+    text-align: right;
+}
+
+.alchem-home-style-1 .home-banner-slider a.magee-btn-normal{
+	border-width:0;
+	}
+	
+.alchem-home-style-1 .home-banner-slider .magee-heading{
+ font-size:70px;
+ font-weight:400;
+ margin-top:0;
+ margin-bottom:10px;
+ color: #fff;
+ border-color: ;
+ text-align: right;
+	
+	}
+	
+.alchem-home-style-1 .home-banner-slider .heading-border .heading-inner {
+ border-width: 5px;
+ }
+                                   
+.alchem-home-style-1 .home-banner-slider  .heading-doubleline .heading-inner:before,
+.alchem-home-style-1 .home-banner-slider  .heading-doubleline .heading-inner:after {
+ border-color: ;
+ border-width: 5px;
+ }
+.alchem-home-style-1 .home-banner-slider .magee-btn-normal,.home-banner-slider .magee-btn-normal:hover{text-decoration:none !important;}
+.alchem-home-style-1 .home-banner-slider .magee-btn-normal {border-width:2px;}
+.alchem-home-style-1 .home-banner-slider .magee-btn-normal,.alchem-home-style-1 .home-banner-slider .magee-btn-normal:hover{color:#ffffff;}
+.alchem-home-style-1 .home-banner-slider .magee-btn-normal {color: #ffffff !important;border-color: #ffffff !important;}
+
+/* home page style 1*/
+.alchem-home-style-1 h2.section-title{
+    text-align: center;
+    font-family: 'Cuprum';
+	}
+.alchem-home-style-1.alchem-home-section-0 .magee-heading{
+	font-size:68px;
+	font-weight:600;
+	margin-top:0;
+	margin-bottom:30px;
+	color: #fff;
+	border-color: #fff;
+	text-align: center;
+}
+.alchem-home-style-1.alchem-home-section-0 .heading-inner{
+	border:none;
+	
+	}
+
+.alchem-home-style-1.alchem-home-section-0 .magee-btn-normal,
+.alchem-home-style-1.alchem-home-section-0 .magee-btn-normal:hover{
+	text-decoration:none ;
+	color:#fff;
+	border-color: #fff;
+	
+	}
+	
+.alchem-home-style-1.alchem-home-section-1 .magee-heading {
+    font-size: 62px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+/* home page style 2*/
+
+
+.alchem-home-style-2 h2.section-title{
+    text-align: center;
+    font-family: 'Poiret One';
+	font-size: 42px;
+	}
+.alchem-home-style-2 .section-subtitle{
+	text-align:center;
+	font-size:12px;
+}
+.alchem-home-style-2 .home-banner-slider .magee-heading {
+    font-size: 62px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #fff;
+    border-color: #fff;
+    text-align: center;
+}

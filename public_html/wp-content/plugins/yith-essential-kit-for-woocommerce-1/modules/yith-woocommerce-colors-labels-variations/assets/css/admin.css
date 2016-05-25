@@ -1,0 +1,26 @@
+#yith_wccl_value {
+    width: 70px;
+}
+
+#term-value[data-type=colorpicker],
+#term-value + .wp-picker-clear,
+#term-value_button {
+    width: 80px;
+}
+
+.yith-wccl-color,
+.yith-wccl-label {
+    border: 1px solid #ccc;
+    background: #fff;
+    display: inline-block;
+    min-width: 20px;
+    height: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    padding: 2px;
+}
+
+.yith-wccl-image {
+    width: 50px;
+}
